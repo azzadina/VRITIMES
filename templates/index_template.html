@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VRITIMES Content Review</title>
+<style>
+@font-face{font-family:Poppins;font-weight:800;src:url(../brand/fonts/Poppins-800.ttf)}
+@font-face{font-family:Poppins;font-weight:600;src:url(../brand/fonts/Poppins-600.ttf)}
+@font-face{font-family:InterL;font-weight:400;src:url(../brand/fonts/Inter-400.ttf)}
+@font-face{font-family:InterL;font-weight:600;src:url(../brand/fonts/Inter-600.ttf)}
+:root{--bg:#F4F7FF;--card:#fff;--ink:#0A1440;--muted:#5A6386;--line:#DCE4F5;--blue:#0058F8;--navy:#071B6E;--pale:#E8F1FF;--lime:#D7F23C;
+  --edu:#0058F8;--fun:#00A3D9;--promo:#071B6E;--viral:#7A5CFF}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#060B24;--card:#0E1638;--ink:#E8EEFF;--muted:#9AA6CF;--line:#1F2B5C;--pale:#14204F}}
+:root[data-theme="dark"]{--bg:#060B24;--card:#0E1638;--ink:#E8EEFF;--muted:#9AA6CF;--line:#1F2B5C;--pale:#14204F}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 InterL,system-ui,-apple-system,"Noto Sans","Noto Sans Thai",sans-serif}
+header{background:var(--navy);color:#fff;padding:22px 16px 0}
+.wrap{max-width:1240px;margin:0 auto;padding:0 16px}
+header .wrap{padding:0}
+h1{font:800 26px/1.1 Poppins,sans-serif;margin:0 0 4px;letter-spacing:-.02em}
+h1 span{color:var(--lime)}
+.sub{opacity:.8;font-size:14px;margin-bottom:16px}
+.tabs{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
+.tabs button{flex:none;border:0;background:rgba(255,255,255,.1);color:#fff;font:600 14px Poppins,sans-serif;padding:10px 16px;border-radius:12px 12px 0 0;cursor:pointer}
+.tabs button[aria-selected=true]{background:var(--bg);color:var(--ink)}
+main{padding:24px 0 60px}
+.grid2{display:grid;grid-template-columns:minmax(0,340px) minmax(0,1fr);gap:24px;align-items:start}
+@media(max-width:860px){.grid2{grid-template-columns:1fr}}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px}
+.panel h2{font:800 18px Poppins,sans-serif;margin:0 0 10px}
+.gridimg{width:100%;border-radius:10px;display:block}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:8px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+th{color:var(--muted);font-weight:600}
+td a{color:var(--blue);text-decoration:none}
+.tbl{overflow-x:auto}
+.pill{display:inline-block;font:600 11px Poppins,sans-serif;padding:3px 9px;border-radius:999px;color:#fff;white-space:nowrap}
+.EDU{background:var(--edu)}.FUN{background:var(--fun)}.PROMO{background:var(--promo)}.VIRAL{background:var(--viral)}
+.fmt{background:var(--pale);color:var(--ink)}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin:26px 0 14px}
+.filters button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:7px 14px;font:600 13px Poppins,sans-serif;cursor:pointer}
+.filters button.on{background:var(--blue);border-color:var(--blue);color:#fff}
+.post{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;margin-bottom:18px}
+.post .top{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:6px}
+.post h3{font:800 18px/1.25 Poppins,"Noto Sans Thai",sans-serif;margin:4px 0 4px}
+.meta{color:var(--muted);font-size:13px}
+.strip{display:flex;gap:8px;overflow-x:auto;padding:10px 0;scroll-snap-type:x mandatory}
+.strip img{height:240px;border-radius:8px;scroll-snap-align:start;cursor:zoom-in;border:1px solid var(--line)}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px}
+@media(max-width:860px){.cols{grid-template-columns:1fr}}
+.ctabs{display:flex;gap:4px;margin-bottom:6px}
+.ctabs button{border:0;background:var(--pale);color:var(--ink);padding:6px 12px;border-radius:8px;font:600 12px Poppins,sans-serif;cursor:pointer}
+.ctabs button.on{background:var(--blue);color:#fff}
+pre{white-space:pre-wrap;word-break:break-word;background:var(--pale);border-radius:10px;padding:12px;margin:0;font:13px/1.5 InterL,"Noto Sans Thai",sans-serif;max-height:320px;overflow:auto}
+.copy{float:right;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:4px 10px;font-size:12px;cursor:pointer}
+.links a{display:inline-block;margin:6px 10px 0 0;color:var(--blue);font-weight:600;font-size:13px;text-decoration:none}
+.src li{font-size:13px;margin-bottom:4px}.src a{color:var(--blue);word-break:break-all}
+.warn{background:#FFF7D6;color:#5A4500;border-radius:8px;padding:6px 10px;font-size:12px;margin-top:8px}
+video{width:100%;max-width:270px;border-radius:10px;display:block;margin-top:8px}
+.lb{position:fixed;inset:0;background:rgba(3,8,30,.88);display:none;align-items:center;justify-content:center;z-index:9;padding:16px}
+.lb img{max-width:100%;max-height:100%;border-radius:10px}
+.lb.on{display:flex}
+.theme{position:absolute;top:18px;right:16px;border:1px solid rgba(255,255,255,.3);background:transparent;color:#fff;border-radius:999px;padding:6px 12px;cursor:pointer;font-size:12px}
+header{position:relative}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <button class="theme" id="theme" aria-label="Toggle theme">◐ theme</button>
+  <h1>VRITIMES <span>content review</span></h1>
+  <div class="sub">Batch 16 Nov – 11 Dec 2026 · 7 markets · 84 posts · Instagram, Facebook, LinkedIn</div>
+  <nav class="tabs" id="tabs" role="tablist"></nav>
+</div></header>
+<main class="wrap" id="main"></main>
+<div class="lb" id="lb"><img alt=""></div>
+<script>
+const DATA = /*__DATA__*/null;
+const CCS = Object.keys(DATA);
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let cur = CCS[0], filt = 'ALL';
+try { const s = localStorage.getItem('vr_cc'); if (s && DATA[s]) cur = s; } catch(e) {}
+function tabs(){
+  $('#tabs').innerHTML = CCS.map(cc => `<button role="tab" aria-selected="${cc===cur}" data-cc="${cc}">${cc} · ${esc(DATA[cc].name)}</button>`).join('');
+  document.querySelectorAll('#tabs button').forEach(b => b.onclick = () => { cur = b.dataset.cc; filt='ALL'; try{localStorage.setItem('vr_cc',cur)}catch(e){}; render(); });
+}
+function render(){
+  tabs();
+  const c = DATA[cur];
+  const rows = c.posts.map(p => `<tr><td>${p.date}<br><span class="meta">${p.day}</span></td><td><span class="pill ${p.pillar}">${p.pillar}</span></td><td><span class="pill fmt">${p.format}</span></td><td><a href="#${p.id}">${esc(p.title)}</a></td><td class="meta">LI ${esc(p.times.linkedin)}<br>IG/FB ${esc(p.times.instagram_facebook)}</td></tr>`).join('');
+  const posts = c.posts.filter(p => filt==='ALL' || p.pillar===filt).map(post).join('');
+  $('#main').innerHTML = `
+  <div class="grid2">
+    <div class="panel"><h2>Instagram grid</h2><img class="gridimg" src="${c.grid}" alt="Grid preview ${esc(c.name)}"><div class="links"><a href="${c.csv}">Calendar CSV ↓</a></div></div>
+    <div class="panel"><h2>Calendar</h2><div class="tbl"><table><thead><tr><th>Date</th><th>Pillar</th><th>Format</th><th>Title</th><th>Time</th></tr></thead><tbody>${rows}</tbody></table></div></div>
+  </div>
+  <div class="filters">${['ALL','EDU','FUN','PROMO','VIRAL'].map(f=>`<button class="${f===filt?'on':''}" data-f="${f}">${f==='ALL'?'All posts':f}</button>`).join('')}</div>
+  ${posts}`;
+  document.querySelectorAll('.filters button').forEach(b => b.onclick = () => { filt = b.dataset.f; render(); });
+  document.querySelectorAll('.ctabs button').forEach(b => b.onclick = () => {
+    const box = b.closest('.capbox'); box.querySelectorAll('.ctabs button').forEach(x=>x.classList.remove('on')); b.classList.add('on');
+    box.querySelector('pre').textContent = DATA[cur].posts.find(p=>p.id===box.dataset.id).cap[b.dataset.k];
+  });
+  document.querySelectorAll('.copy').forEach(b => b.onclick = () => { const t = b.closest('.capbox').querySelector('pre').textContent; navigator.clipboard && navigator.clipboard.writeText(t).then(()=>{b.textContent='copied ✓'; setTimeout(()=>b.textContent='copy',1200)}); });
+  document.querySelectorAll('.strip img').forEach(i => i.onclick = () => { $('#lb img').src = i.src; $('#lb').classList.add('on'); });
+}
+function post(p){
+  const media = p.imgs.map(s => `<img loading="lazy" src="${s}" alt="">`).join('');
+  const links = [p.pdf && `<a href="${p.pdf}">LinkedIn PDF ↓</a>`, p.mp4 && `<a href="${p.mp4}">Reel draft (mp4) ↓</a>`, p.script && `<a href="${p.script}">Reel script</a>`, `<a href="${p.dir}/post.json">post.json</a>`, `<a href="${p.dir}/sources.md">sources.md</a>`].filter(Boolean).join('');
+  return `<article class="post" id="${p.id}">
+    <div class="top"><span class="pill ${p.pillar}">${p.pillar}</span><span class="pill fmt">${p.format}</span><span class="meta">${p.date} (${p.day}) · ${esc(p.id)}</span></div>
+    <h3>${esc(p.title)}</h3>
+    <div class="meta">CTA: ${esc(p.cta)}</div>
+    ${p.price ? `<div class="warn">Pricing: ${esc(p.price)} — no price shown; see _REVIEW_NOTES.md</div>` : ''}
+    <div class="strip">${media}</div>
+    ${p.mp4 ? `<video controls preload="none" poster="${p.imgs[0]}" src="${p.mp4}"></video>` : ''}
+    <div class="cols" style="margin-top:12px">
+      <div class="capbox" data-id="${p.id}"><div class="ctabs"><button class="on" data-k="instagram">Instagram</button><button data-k="facebook">Facebook</button><button data-k="linkedin">LinkedIn</button></div><button class="copy">copy</button><pre>${esc(p.cap.instagram)}</pre></div>
+      <div><strong style="font-size:13px">Sources</strong><ul class="src">${p.sources.map(s=>`<li>${esc(s.name)} — ${esc(s.title)} (${s.year})<br><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.url)}</a></li>`).join('')}</ul><div class="links">${links}</div></div>
+    </div>
+  </article>`;
+}
+$('#lb').onclick = () => $('#lb').classList.remove('on');
+$('#theme').onclick = () => { const r = document.documentElement; const d = r.getAttribute('data-theme') === 'dark' || (!r.getAttribute('data-theme') && matchMedia('(prefers-color-scheme: dark)').matches); r.setAttribute('data-theme', d ? 'light' : 'dark'); };
+render();
+</script>
+</body>
+</html>

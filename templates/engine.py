@@ -121,8 +121,8 @@ def s_cover(sp, lang, cc, variant='a', is_reel=False, counter=None):
         inner = (f'<div class="safe center" style="top:{top}px;bottom:{bottom}px" data-fit data-min="70">'
                  f'<div class="fitt" style="font-size:{hsize}px">{tag}<div class="h lc">{md(sp["title"])}</div>{sub}</div></div>')
         extra = ''
-    inner += stamp() + sticker()
-    if is_reel: inner += '<div class="reelicon" style="top:290px"></div>'
+    inner += (stamp().replace('class="stamp"', 'class="stamp" style="top:255px"') if is_reel else stamp()) + sticker()
+    if is_reel: inner += '<div class="reelicon" style="top:310px;right:auto;left:60px"></div>'
     elif sp.get('swipe', True): inner += f'<div class="swipe">{L[lang]["swipe"]}</div>'
     if sp.get('src'): inner += src_line(lang, sp['src'])
     style = ''
