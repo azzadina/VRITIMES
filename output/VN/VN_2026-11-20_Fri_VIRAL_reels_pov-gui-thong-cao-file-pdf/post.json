@@ -40,43 +40,43 @@
     {
       "t": "cover",
       "tag": "POV",
-      "title": "bạn gửi thông cáo báo chí bằng *file PDF đính kèm*"
+      "title": "Bạn gửi thông cáo báo chí bằng *file PDF đính kèm*"
     }
   ],
   "reel": {
     "frames": [
       {
         "top": "POV",
-        "text": "bạn gửi thông cáo bằng *file PDF đính kèm*",
+        "text": "Bạn gửi thông cáo bằng *file PDF đính kèm*",
         "icon": "pdf",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "tiêu đề email:\n*\"Thông cáo báo chí\"*",
+        "text": "Tiêu đề email:\n*\"Thông cáo báo chí\"*",
         "sub": "…cùng hàng trăm email khác hôm nay",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "nhà báo phải tải về, mở ra rồi *tự copy*",
-        "sub": "(nếu họ có thời gian)",
+        "text": "Nhà báo phải tải về, mở ra rồi *tự copy*",
+        "sub": "(Nếu họ có thời gian)",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "trong khi *69%* nhà báo thích pitch dưới 200 từ",
+        "text": "Trong khi *69%* nhà báo thích pitch dưới 200 từ",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "text": "đúng ra: *nội dung trong thân email*, tiêu đề thông cáo làm subject, ảnh gửi qua link",
+        "text": "Đúng ra: *nội dung trong thân email*, tiêu đề thông cáo làm subject, ảnh gửi qua link",
         "dur": 4.0,
         "theme": "pale"
       },
       {
-        "text": "để thông cáo gặp *báo chí*, không phải *thư mục lưu trữ*",
+        "text": "Để thông cáo gặp *báo chí*, không phải *thư mục lưu trữ*",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

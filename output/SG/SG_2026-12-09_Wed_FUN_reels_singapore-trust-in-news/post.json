@@ -39,15 +39,15 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "how much does singapore *trust the news*?"
+      "tag": "Fun Fact",
+      "title": "How Much Does Singapore *Trust the News*?"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "fun fact",
-        "text": "how much does singapore *trust the news*?",
+        "top": "Fun Fact",
+        "text": "How much does Singapore *trust the news*?",
         "icon": "eye",
         "dur": 3.0,
         "theme": "blue"
@@ -59,24 +59,24 @@
         "theme": "pale"
       },
       {
-        "text": "only thailand ranks higher among our markets: *55%*",
+        "text": "Only Thailand ranks higher among our markets: *55%*",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "australia *43%* · philippines *38%* · malaysia *37%* · indonesia *36%*",
+        "text": "Australia *43%* · Philippines *38%* · Malaysia *37%* · Indonesia *36%*",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 4.0,
         "theme": "blue"
       },
       {
-        "text": "higher trust = *earned coverage* carries real weight here",
+        "text": "Higher trust = *earned coverage* carries real weight here",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "be the story *worth publishing*",
+        "text": "Be the story *worth publishing*",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

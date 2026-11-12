@@ -46,9 +46,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "seo x pr",
-      "title": "press releases for SEO? *read this first*",
-      "sub": "straight from google"
+      "tag": "SEO x PR",
+      "title": "Press Releases for SEO? *Read This First*",
+      "sub": "Straight from Google"
     },
     {
       "t": "quote",
@@ -59,9 +59,9 @@
     },
     {
       "t": "compare",
-      "title": "*risky* vs *safe*",
+      "title": "*Risky* vs *Safe*",
       "left": {
-        "h": "risky",
+        "h": "Risky",
         "items": [
           "Anchor \"cheap SEO services KL\" in every paragraph",
           "A release with no news, just for the link",
@@ -69,7 +69,7 @@
         ]
       },
       "right": {
-        "h": "safe",
+        "h": "Safe",
         "items": [
           "Brand name or URL as the anchor",
           "News that earns follow-up coverage",
@@ -81,19 +81,19 @@
     {
       "t": "point",
       "icon": "link",
-      "title": "so what are release links *worth*?",
+      "title": "So What Are Release Links *Worth*?",
       "body": "Three real things: **referral traffic** from readers, **brand mentions** on news sites that help people recognise you, and **follow-up coverage** from journalists who find your release."
     },
     {
       "t": "point",
       "icon": "shield",
-      "title": "rel=\"sponsored\" is *normal*",
+      "title": "rel=\"sponsored\" Is *Normal*",
       "body": "Google asks for paid or placed links to carry **rel=\"sponsored\"** or **nofollow**. So judge a release by who reads it and who writes about it next, not by \"link juice\".",
       "src": "Google Search Central, Qualify outbound links"
     },
     {
       "t": "list",
-      "title": "an *SEO-safe* release checklist",
+      "title": "An *SEO-Safe* Release Checklist",
       "items": [
         "Keywords appear naturally in the headline, not stuffed",
         "One main link to a relevant page",
@@ -104,7 +104,7 @@
     },
     {
       "t": "cta",
-      "title": "good PR *helps* SEO. not the other way round.",
+      "title": "Good PR *Helps* SEO. Not the Other Way Round.",
       "items": [
         "Save this checklist",
         "Send it to your SEO team"

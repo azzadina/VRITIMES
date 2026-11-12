@@ -39,14 +39,14 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
+      "tag": "Fun Fact",
       "title": "คนไทยรับข่าว\n*จากไหน*?"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "fun fact",
+        "top": "Fun Fact",
         "text": "คนไทยรับข่าว\n*จากไหน*?",
         "icon": "news",
         "dur": 3.0,

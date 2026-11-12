@@ -39,8 +39,8 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "rilis pers *pertama* lahir dari kecelakaan kereta",
+      "tag": "Fun Fact",
+      "title": "Rilis Pers *Pertama* Lahir dari Kecelakaan Kereta",
       "icons": [
         "train",
         "news",
@@ -51,14 +51,14 @@
     {
       "t": "point",
       "icon": "train",
-      "title": "28 oktober *1906*",
+      "title": "28 Oktober *1906*",
       "body": "Kereta milik anak perusahaan Pennsylvania Railroad jatuh dari jembatan di Atlantic City, AS. Saat itu, perusahaan kereta biasa **menutup akses wartawan** dan diam soal penyebab kecelakaan.",
       "src": "Billy Penn (2023); Museum of Public Relations"
     },
     {
       "t": "point",
       "icon": "mega",
-      "title": "ivy lee memilih *bicara duluan*",
+      "title": "Ivy Lee Memilih *Bicara Duluan*",
       "body": "Konsultan humas perusahaan, Ivy Lee, menulis pernyataan resmi versi perusahaan dan membagikannya ke wartawan, lengkap dengan akses ke lokasi.",
       "src": "Billy Penn (2023); Museum of Public Relations"
     },
@@ -72,7 +72,7 @@
     },
     {
       "t": "list",
-      "title": "pelajaran yang *masih berlaku* 120 tahun kemudian",
+      "title": "Pelajaran yang *Masih Berlaku* 120 Tahun Kemudian",
       "items": [
         "!Bicara duluan, sebelum orang lain membingkai cerita Anda",
         "!Fakta lebih kuat daripada klaim",
@@ -81,7 +81,7 @@
     },
     {
       "t": "cta",
-      "title": "rilis pers lahir dari *krisis*. sekarang dipakai untuk *tumbuh*.",
+      "title": "Rilis Pers Lahir dari *Krisis*. Sekarang Dipakai untuk *Tumbuh*.",
       "items": [
         "Simpan untuk materi training tim",
         "Tag teman yang suka sejarah PR"

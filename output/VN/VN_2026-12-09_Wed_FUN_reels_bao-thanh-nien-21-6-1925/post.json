@@ -39,45 +39,45 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "vì sao *21/6* là ngày báo chí việt nam?"
+      "tag": "Fun fact",
+      "title": "Vì sao *21/6* là Ngày Báo chí Việt Nam?"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "fun fact",
-        "text": "vì sao *21/6* là ngày báo chí việt nam?",
+        "top": "Fun fact",
+        "text": "Vì sao *21/6* là Ngày Báo chí Việt Nam?",
         "icon": "news",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "ngày *21/6/1925*, báo Thanh Niên ra số đầu tiên",
-        "sub": "tại Quảng Châu (Trung Quốc)",
+        "text": "Ngày *21/6/1925*, báo Thanh Niên ra số đầu tiên",
+        "sub": "Tại Quảng Châu (Trung Quốc)",
         "src": "VOH",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "do lãnh tụ *Nguyễn Ái Quốc* sáng lập",
+        "text": "Do lãnh tụ *Nguyễn Ái Quốc* sáng lập",
         "src": "VOH",
         "dur": 3.0,
         "theme": "navy"
       },
       {
-        "text": "ngày ra số đầu được chọn làm *Ngày Báo chí Cách mạng Việt Nam*",
+        "text": "Ngày ra số đầu được chọn làm *Ngày Báo chí Cách mạng Việt Nam*",
         "src": "VOH",
         "dur": 4.0,
         "theme": "blue"
       },
       {
-        "text": "năm 2025 đánh dấu *100 năm* báo chí cách mạng",
+        "text": "Năm 2025 đánh dấu *100 năm* báo chí cách mạng",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "tôn trọng báo chí = gửi *tin thật, số liệu thật*",
+        "text": "Tôn trọng báo chí = gửi *tin thật, số liệu thật*",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

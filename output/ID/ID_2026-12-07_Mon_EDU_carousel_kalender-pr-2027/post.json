@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "planning 2027",
-      "title": "kalender PR 2027: siapkan *dari sekarang*",
-      "sub": "simpan buat rapat tahunan",
+      "tag": "Planning 2027",
+      "title": "Kalender PR 2027: Siapkan *dari Sekarang*",
+      "sub": "Simpan buat rapat tahunan",
       "icons": [
         "cal",
         "chart",
@@ -51,12 +51,12 @@
     {
       "t": "point",
       "icon": "cal",
-      "title": "kenapa *kalender*, bukan reaktif?",
+      "title": "Kenapa *Kalender*, Bukan Reaktif?",
       "body": "Rilis yang reaktif hampir selalu kalah cepat. Dengan kalender, data, foto, dan narasumber sudah siap **sebelum** jurnalis mencarinya."
     },
     {
       "t": "list",
-      "title": "Q1 · jan–mar",
+      "title": "Q1 · Jan–Mar",
       "items": [
         "9 Feb — Hari Pers Nasional: angkat topik literasi media/brand",
         "Ramadan & Lebaran (perkiraan Feb–Mar 2027): siapkan rilis jauh hari",
@@ -65,7 +65,7 @@
     },
     {
       "t": "list",
-      "title": "Q2 · apr–jun",
+      "title": "Q2 · Apr–Jun",
       "items": [
         "21 Apr — Hari Kartini: cerita founder & pemimpin perempuan",
         "Paruh tahun: rilis data pelanggan/riset internal",
@@ -74,7 +74,7 @@
     },
     {
       "t": "list",
-      "title": "Q3 · jul–sep",
+      "title": "Q3 · Jul–Sep",
       "items": [
         "17 Agustus: program komunitas, bukan sekadar diskon",
         "Kuartal III: pengumuman kemitraan & pendanaan",
@@ -83,7 +83,7 @@
     },
     {
       "t": "list",
-      "title": "Q4 · okt–des",
+      "title": "Q4 · Okt–Des",
       "items": [
         "2 Okt — Hari Batik: kolaborasi produk lokal",
         "11.11 & Harbolnas 12.12: rilis promo sebelum puncak belanja",
@@ -92,7 +92,7 @@
     },
     {
       "t": "point",
-      "title": "aturan *H-14 sampai H+3*",
+      "title": "Aturan *H-14 sampai H+3*",
       "body": "Jadwal kerja untuk tiap momen:",
       "exlab": "timeline",
       "ex": "H-14 riset & data · H-7 rilis final + foto · H-3 pitch ke jurnalis · Hari H publikasi & sebar · H+3 rekap liputan"
@@ -107,7 +107,7 @@
     },
     {
       "t": "cta",
-      "title": "rencanakan PR 2027 *sekarang*",
+      "title": "Rencanakan PR 2027 *Sekarang*",
       "items": [
         "Simpan kalender ini",
         "Tandai 3 momen untuk brand Anda",

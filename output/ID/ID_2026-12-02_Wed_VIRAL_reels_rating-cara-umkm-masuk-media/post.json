@@ -39,46 +39,46 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "rating",
-      "title": "rating cara UMKM *masuk media*",
-      "sub": "jujur aja"
+      "tag": "Rating",
+      "title": "Rating Cara UMKM *Masuk Media*",
+      "sub": "Jujur aja"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "rating",
-        "text": "cara UMKM *masuk media*",
-        "sub": "jujur aja ya",
+        "top": "Rating",
+        "text": "Cara UMKM *masuk media*",
+        "sub": "Jujur aja ya",
         "dur": 2.5,
         "theme": "blue"
       },
       {
-        "text": "DM akun berita:\n\"kak, bisa diliput?\"",
+        "text": "DM akun berita:\n\"Kak, bisa diliput?\"",
         "sub": "2/10 — sering cuma di-read",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "kirim ke 300 email sekaligus, *CC terbuka*",
+        "text": "Kirim ke 300 email sekaligus, *CC terbuka*",
         "sub": "0/10 — please jangan",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "nunggu viral dulu, *baru* cari media",
+        "text": "Nunggu viral dulu, *baru* cari media",
         "sub": "4/10 — viral nggak bisa dijadwalkan",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "text": "rilis yang ada *beritanya* + pitch ke jurnalis yang relevan",
+        "text": "Rilis yang ada *beritanya* + pitch ke jurnalis yang relevan",
         "sub": "9/10 — kerja, butuh konsistensi",
         "dur": 4.0,
         "theme": "pale"
       },
       {
-        "text": "rilis + distribusi + laporan *di satu tempat*",
+        "text": "Rilis + distribusi + laporan *di satu tempat*",
         "sub": "10/10 — ini sih kami 😉",
         "dur": 3.0,
         "theme": "navy"

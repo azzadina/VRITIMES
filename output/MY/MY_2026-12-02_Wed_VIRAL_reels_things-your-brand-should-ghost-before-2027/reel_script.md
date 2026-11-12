@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–02.5s | Kinetic text card | things your brand should ghost before 2027 | Things your brand should ghost before 2027. |
-| 02.5–06.0s | Kinetic text card | "leading", "revolutionary", "world-class" in the headline | Leading, revolutionary, world-class in the headline. Show the number. |
-| 06.0–09.0s | Kinetic text card | quotes that say nothing | Quotes that say nothing. |
-| 09.0–12.5s | Kinetic text card | following up every day | Following up every day. Half of journalists say once is ideal. |
-| 12.5–16.0s | Kinetic text card | reporting PR in AVE | Reporting PR in ad value equivalents. The Barcelona Principles say don't. |
-| 16.0–19.0s | Kinetic text card | "hope a journalist sees our post" | Hoping a journalist sees your post. Send a real release. |
+| 00.0–02.5s | Kinetic text card | Things your brand should ghost before 2027 | Things your brand should ghost before 2027. |
+| 02.5–06.0s | Kinetic text card | "Leading", "revolutionary", "world-class" in the headline | Leading, revolutionary, world-class in the headline. Show the number. |
+| 06.0–09.0s | Kinetic text card | Quotes that say nothing | Quotes that say nothing. |
+| 09.0–12.5s | Kinetic text card | Following up every day | Following up every day. Half of journalists say once is ideal. |
+| 12.5–16.0s | Kinetic text card | Reporting PR in AVE | Reporting PR in ad value equivalents. The Barcelona Principles say don't. |
+| 16.0–19.0s | Kinetic text card | "Hope a journalist sees our post" | Hoping a journalist sees your post. Send a real release. |
 
 ## B-roll / footage list
 - Team member swiping "left" on printed buzzwords (props)

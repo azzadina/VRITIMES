@@ -39,53 +39,53 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "kỳ vọng vs thực tế",
-      "title": "thông cáo báo chí: *kỳ vọng* vs *thực tế*"
+      "tag": "Kỳ vọng vs thực tế",
+      "title": "Thông cáo báo chí: *kỳ vọng* vs *thực tế*"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "kỳ vọng",
-        "text": "\"gửi 1 lần là *lên báo khắp nơi*\"",
+        "top": "Kỳ vọng",
+        "text": "\"Gửi 1 lần là *lên báo khắp nơi*\"",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "top": "thực tế",
-        "text": "không có tin thì *không ai đăng*",
-        "sub": "tin trước, thông cáo sau",
+        "top": "Thực tế",
+        "text": "Không có tin thì *không ai đăng*",
+        "sub": "Tin trước, thông cáo sau",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "top": "kỳ vọng",
-        "text": "\"viết dài cho *chuyên nghiệp*\"",
+        "top": "Kỳ vọng",
+        "text": "\"Viết dài cho *chuyên nghiệp*\"",
         "dur": 2.5,
         "theme": "navy"
       },
       {
-        "top": "thực tế",
+        "top": "Thực tế",
         "text": "*69%* nhà báo thích pitch dưới 200 từ",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "top": "kỳ vọng",
-        "text": "\"nhắn nhà báo *mỗi ngày* cho chắc\"",
+        "top": "Kỳ vọng",
+        "text": "\"Nhắn nhà báo *mỗi ngày* cho chắc\"",
         "dur": 2.5,
         "theme": "pale"
       },
       {
-        "top": "thực tế",
+        "top": "Thực tế",
         "text": "*50%* nhà báo thấy follow-up một lần là đủ",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "kỳ vọng hợp lý + *quy trình đúng* = được đăng",
+        "text": "Kỳ vọng hợp lý + *quy trình đúng* = được đăng",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "blue"

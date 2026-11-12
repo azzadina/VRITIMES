@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "pr tips",
-      "title": "email pitch *dưới 200 từ* được nhà báo trả lời",
-      "sub": "mẫu ở slide 6"
+      "tag": "PR tips",
+      "title": "Email pitch *dưới 200 từ* được nhà báo trả lời",
+      "sub": "Mẫu ở slide 6"
     },
     {
       "t": "stat",
@@ -52,7 +52,7 @@
     },
     {
       "t": "list",
-      "title": "cấu trúc *4 dòng*",
+      "title": "Cấu trúc *4 dòng*",
       "items": [
         "Dòng 1 — vì sao phù hợp với chuyên mục hoặc độc giả của họ",
         "Dòng 2 — tin chính trong một câu (có con số)",
@@ -62,9 +62,9 @@
     },
     {
       "t": "compare",
-      "title": "tiêu đề email: *số phận khác nhau*",
+      "title": "Tiêu đề email: *số phận khác nhau*",
       "left": {
-        "h": "bị bỏ qua",
+        "h": "Bị bỏ qua",
         "items": [
           "\"Thông cáo báo chí Công ty ABC\"",
           "\"KHẨN!!! Thông tin quan trọng\"",
@@ -72,7 +72,7 @@
         ]
       },
       "right": {
-        "h": "được mở",
+        "h": "Được mở",
         "items": [
           "\"Số liệu: 3/5 quán F&B ở TP.HCM tăng giá quý IV\"",
           "\"Người phát ngôn: CFO bàn về chi phí logistics 2027\"",
@@ -89,7 +89,7 @@
     },
     {
       "t": "point",
-      "title": "mẫu email *dùng ngay*",
+      "title": "Mẫu email *dùng ngay*",
       "body": "Thay phần trong ngoặc.",
       "exlab": "mẫu",
       "bsize": 36,
@@ -97,7 +97,7 @@
     },
     {
       "t": "cta",
-      "title": "pitch ngắn, *cơ hội* dài",
+      "title": "Pitch ngắn, *cơ hội* dài",
       "items": [
         "Lưu mẫu email này",
         "Gửi cho người phụ trách quan hệ báo chí",

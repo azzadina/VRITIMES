@@ -39,8 +39,8 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "media relations",
-      "title": "embargoes: *how to use them* without burning bridges",
+      "tag": "Media Relations",
+      "title": "Embargoes: *How to Use Them* Without Burning Bridges",
       "icons": [
         "clock",
         "mail",
@@ -50,38 +50,38 @@
     {
       "t": "point",
       "n": "01",
-      "title": "what an embargo *is*",
+      "title": "What an Embargo *Is*",
       "body": "A request that journalists don't publish before a set date and time. It gives them time to prepare a better story. It is an **agreement**, not a legal contract."
     },
     {
       "t": "point",
       "n": "02",
-      "title": "when it's *worth it*",
+      "title": "When It's *Worth It*",
       "body": "Complex news that needs time: research findings, funding rounds, product launches with demos. If the news fits in one sentence, you probably don't need one."
     },
     {
       "t": "point",
       "n": "03",
-      "title": "ask *before* you send",
+      "title": "Ask *Before* You Send",
       "body": "Offer the news under embargo and wait for a yes. Sending embargoed material unasked and hoping it's honoured is how leaks happen."
     },
     {
       "t": "point",
       "n": "04",
-      "title": "timezone-proof *timing*",
+      "title": "Timezone-Proof *Timing*",
       "body": "Write the full time and zone, and check it against the journalist's timezone.",
       "ex": "\"EMBARGOED UNTIL 6:00am AEDT, Tuesday 24 November 2026\""
     },
     {
       "t": "point",
       "n": "05",
-      "title": "respect their *workload*",
+      "title": "Respect Their *Workload*",
       "body": "Journalists are stretched: 62% took on more responsibilities this year. Give enough lead time (two to five working days for most news) and everything they need in one go.",
       "src": "Muck Rack, State of Journalism 2025"
     },
     {
       "t": "list",
-      "title": "embargo checklist",
+      "title": "Embargo Checklist",
       "items": [
         "News complex enough to need prep time",
         "Journalist agreed before receiving details",
@@ -92,7 +92,7 @@
     },
     {
       "t": "cta",
-      "title": "embargo = *trust*. treat it that way.",
+      "title": "Embargo = *Trust*. Treat It That Way.",
       "items": [
         "Save this checklist",
         "Send it to whoever runs your launches"

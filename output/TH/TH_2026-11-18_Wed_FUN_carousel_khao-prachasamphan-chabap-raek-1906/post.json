@@ -39,7 +39,7 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
+      "tag": "Fun Fact",
       "title": "ข่าวประชาสัมพันธ์\n*ฉบับแรก*\nเกิดจากอุบัติเหตุรถไฟ",
       "icons": [
         "train",
@@ -58,7 +58,7 @@
     {
       "t": "point",
       "icon": "mega",
-      "title": "ivy lee เลือก*พูดก่อน*",
+      "title": "Ivy Lee เลือก*พูดก่อน*",
       "body": "Ivy Lee ที่ปรึกษาด้านประชาสัมพันธ์ เขียนแถลงการณ์ของบริษัทเอง แจกให้นักข่าว และพานักข่าวเข้าพื้นที่",
       "src": "Billy Penn (2023); Museum of Public Relations"
     },

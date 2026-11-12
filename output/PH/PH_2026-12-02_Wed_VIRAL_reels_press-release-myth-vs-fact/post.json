@@ -53,60 +53,60 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "myth vs fact",
-      "title": "\"press releases are *dead* na daw\""
+      "tag": "Myth vs Fact",
+      "title": "\"Press Releases Are *Dead* na daw\""
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "myth vs fact",
-        "text": "\"press releases are *dead* na daw\"",
+        "top": "Myth vs Fact",
+        "text": "\"Press releases are *dead* na daw\"",
         "dur": 2.5,
         "theme": "navy"
       },
       {
-        "top": "fact",
+        "top": "Fact",
         "text": "*72%* of journalists call them the most useful thing PR sends",
         "src": "Cision, State of the Media 2025",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "top": "myth",
-        "text": "\"longer pitch = more *serious*\"",
+        "top": "Myth",
+        "text": "\"Longer pitch = more *serious*\"",
         "dur": 2.5,
         "theme": "blue"
       },
       {
-        "top": "fact",
+        "top": "Fact",
         "text": "*69%* prefer pitches under 200 words",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "top": "myth",
-        "text": "\"follow up *araw-araw* para sure\"",
+        "top": "Myth",
+        "text": "\"Follow up *araw-araw* para sure\"",
         "dur": 2.5,
         "theme": "pale"
       },
       {
-        "top": "fact",
+        "top": "Fact",
         "text": "*50%* say one follow-up is ideal",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "top": "myth",
-        "text": "\"releases = easy SEO *backlinks*\"",
+        "top": "Myth",
+        "text": "\"Releases = easy SEO *backlinks*\"",
         "dur": 2.5,
         "theme": "navy"
       },
       {
-        "top": "fact",
-        "text": "google calls optimized anchors in releases *link spam*",
+        "top": "Fact",
+        "text": "Google calls optimized anchors in releases *link spam*",
         "src": "Google Search Central, Spam policies",
         "dur": 3.5,
         "theme": "pale"

@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "pr writing",
-      "title": "quotes journalists *actually use*",
-      "sub": "and the ones they cut",
+      "tag": "PR Writing",
+      "title": "Quotes Journalists *Actually Use*",
+      "sub": "And the ones they cut",
       "icons": [
         "quote",
         "mega",
@@ -51,27 +51,27 @@
     {
       "t": "point",
       "n": "01",
-      "title": "the \"thrilled\" test",
+      "title": "The \"Thrilled\" Test",
       "body": "If the quote would fit any company's release, it fits none. Delete \"thrilled\", \"proud\", \"excited\" and see what's left.",
       "ex": "✕ \"We are thrilled to launch our new app.\"\n✓ \"Half our orders come after 9PM. The app is built for people who shop after their shift.\""
     },
     {
       "t": "point",
       "n": "02",
-      "title": "give an *opinion*, not a summary",
+      "title": "Give an *Opinion*, Not a Summary",
       "body": "The body of the release covers the facts. The quote is where a human explains **why it matters** or **what happens next**."
     },
     {
       "t": "point",
       "n": "03",
-      "title": "one number, *said like a person*",
+      "title": "One Number, *Said Like a Person*",
       "body": "Numbers make quotes quotable, but read them out loud first. If it sounds like a spreadsheet, rewrite it.",
       "ex": "✕ \"Revenue increased by 37.42% YoY.\"\n✓ \"We grew by more than a third this year, mostly outside Metro Manila.\""
     },
     {
       "t": "point",
       "n": "04",
-      "title": "keep it *under 40 words*",
+      "title": "Keep It *Under 40 Words*",
       "body": "Reporters trim long quotes or skip them. Two sentences: the point, then the reason."
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "t": "list",
-      "title": "quote checklist",
+      "title": "Quote Checklist",
       "items": [
         "No \"thrilled / proud / excited\"",
         "States a view or what happens next",
@@ -94,7 +94,7 @@
     },
     {
       "t": "cta",
-      "title": "write it like they'll *quote it*",
+      "title": "Write It Like They'll *Quote It*",
       "items": [
         "Save this checklist",
         "Send it to whoever drafts your CEO quotes"

@@ -5,6 +5,8 @@ import sys, os, json, importlib.util, subprocess, datetime, shutil, csv
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import engine as E
 import sources as SRC
+import casing
+E.CASE['lower'] = False  # headlines carry their own capitalisation (see casing.py)
 from PIL import Image
 
 ROOT = E.ROOT
@@ -96,6 +98,7 @@ def build(cc, only=None, render=True):
     tmp = os.path.join(TMP, cc); shutil.rmtree(tmp, ignore_errors=True); os.makedirs(tmp)
     jobs, posts_out, post_jobs = [], [], []
     for idx, post in enumerate(meta.POSTS):
+        post = casing.apply(post, lang)
         slot = ORDER[idx]; assert post['slot'] == slot, (cc, post['slot'], slot)
         d = START + datetime.timedelta(days=SLOTS[slot])
         fn = folder_name(cc, post, d); pid = post_id(cc, post, d); pdir = os.path.join(base, fn)

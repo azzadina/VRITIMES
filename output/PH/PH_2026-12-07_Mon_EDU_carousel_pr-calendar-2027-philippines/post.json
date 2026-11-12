@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "planning 2027",
-      "title": "your 2027 PR calendar, *sorted early*",
-      "sub": "save for the planning meeting",
+      "tag": "Planning 2027",
+      "title": "Your 2027 PR Calendar, *Sorted Early*",
+      "sub": "Save for the planning meeting",
       "icons": [
         "cal",
         "chart",
@@ -51,12 +51,12 @@
     {
       "t": "point",
       "icon": "cal",
-      "title": "why a calendar beats *reacting*",
+      "title": "Why a Calendar Beats *Reacting*",
       "body": "Reactive releases almost always arrive late. A calendar means data, photos and spokespeople are ready **before** reporters start looking."
     },
     {
       "t": "list",
-      "title": "Q1 · jan–mar",
+      "title": "Q1 · Jan–Mar",
       "items": [
         "Annual results & 2027 targets: release your 2026 milestones",
         "Holy Week (25–26 Mar 2027): newsrooms slow, publish before",
@@ -65,7 +65,7 @@
     },
     {
       "t": "list",
-      "title": "Q2 · apr–jun",
+      "title": "Q2 · Apr–Jun",
       "items": [
         "Back-to-school & rainy season preparedness angles",
         "12 Jun Independence Day: community and local-pride stories",
@@ -74,7 +74,7 @@
     },
     {
       "t": "list",
-      "title": "Q3 · jul–sep",
+      "title": "Q3 · Jul–Sep",
       "items": [
         "MSME Development Month (July): MSME stories have a news peg",
         "National Heroes Day (30 Aug 2027): frontliners & employee stories",
@@ -83,7 +83,7 @@
     },
     {
       "t": "list",
-      "title": "Q4 · oct–dec",
+      "title": "Q4 · Oct–Dec",
       "items": [
         "11.11 & 12.12: release promos before peak days",
         "Bonifacio Day (30 Nov) & Christmas slowdown: publish early",
@@ -92,7 +92,7 @@
     },
     {
       "t": "point",
-      "title": "the *T-14 to T+3* rule",
+      "title": "The *T-14 to T+3* Rule",
       "body": "A working timeline for every moment:",
       "exlab": "timeline",
       "ex": "T-14 research & data · T-7 final release + photos · T-3 pitch reporters · Day 0 publish & share · T+3 coverage recap"
@@ -101,13 +101,13 @@
       "t": "stat",
       "big": "1.25M",
       "bsize": 220,
-      "label": "business enterprises in the philippines (2023)",
+      "label": "business enterprises in the Philippines (2023)",
       "body": "99.6% are MSMEs. Every one has at least one moment a year worth announcing.",
       "src": "DTI, 2023 MSME Statistics"
     },
     {
       "t": "cta",
-      "title": "plan 2027 PR *now*",
+      "title": "Plan 2027 PR *Now*",
       "items": [
         "Save this calendar",
         "Mark 3 moments for your brand",

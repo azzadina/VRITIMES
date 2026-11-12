@@ -39,44 +39,44 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "where do malaysians *get their news*?"
+      "tag": "Fun Fact",
+      "title": "Where Do Malaysians *Get Their News*?"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "fun fact",
-        "text": "where do malaysians *get their news*?",
+        "top": "Fun Fact",
+        "text": "Where do Malaysians *get their news*?",
         "icon": "news",
         "dur": 3.0,
         "theme": "blue"
       },
       {
         "text": "*40%* now use TikTok for news",
-        "sub": "the fastest-growing network",
+        "sub": "The fastest-growing network",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "but only *37%* trust most news most of the time",
+        "text": "But only *37%* trust most news most of the time",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "discovery happens in *the feed*. trust is checked at *the source*.",
+        "text": "Discovery happens in *the feed*. Trust is checked at *the source*.",
         "dur": 4.0,
         "theme": "blue"
       },
       {
-        "text": "so your news needs to be *published* AND *shared*",
+        "text": "So your news needs to be *published* AND *shared*",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "credible in the media, *visible* in the feed",
+        "text": "Credible in the media, *visible* in the feed",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

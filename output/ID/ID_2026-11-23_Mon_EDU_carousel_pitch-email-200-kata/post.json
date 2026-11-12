@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "pr tips",
-      "title": "pitch email *di bawah 200 kata* yang dibalas",
-      "sub": "template di slide 6"
+      "tag": "PR Tips",
+      "title": "Pitch Email *di Bawah 200 Kata* yang Dibalas",
+      "sub": "Template di slide 6"
     },
     {
       "t": "stat",
@@ -52,7 +52,7 @@
     },
     {
       "t": "list",
-      "title": "struktur *4 baris*",
+      "title": "Struktur *4 Baris*",
       "items": [
         "Baris 1 — kenapa relevan untuk rubrik/pembacanya",
         "Baris 2 — beritanya dalam 1 kalimat (dengan angka)",
@@ -62,9 +62,9 @@
     },
     {
       "t": "compare",
-      "title": "subjek email: *beda nasib*",
+      "title": "Subjek Email: *Beda Nasib*",
       "left": {
-        "h": "dilewati",
+        "h": "Dilewati",
         "items": [
           "\"Press Release PT ABC\"",
           "\"URGENT!!! Info Penting\"",
@@ -72,7 +72,7 @@
         ]
       },
       "right": {
-        "h": "dibuka",
+        "h": "Dibuka",
         "items": [
           "\"Data: 3 dari 5 UMKM kuliner naikkan harga Q4\"",
           "\"Narasumber: CFO soal biaya logistik 2027\"",
@@ -89,7 +89,7 @@
     },
     {
       "t": "point",
-      "title": "template *siap pakai*",
+      "title": "Template *Siap Pakai*",
       "body": "Ganti bagian dalam kurung.",
       "exlab": "template",
       "bsize": 36,
@@ -97,7 +97,7 @@
     },
     {
       "t": "cta",
-      "title": "pitch pendek, *peluang* panjang",
+      "title": "Pitch Pendek, *Peluang* Panjang",
       "items": [
         "Simpan template ini",
         "Kirim ke rekan yang pegang media relations",

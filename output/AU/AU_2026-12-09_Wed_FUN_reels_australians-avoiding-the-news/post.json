@@ -46,45 +46,45 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "*69%* of australians avoid the news"
+      "tag": "Fun Fact",
+      "title": "*69%* of Australians Avoid the News"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "fun fact",
-        "text": "*69%* of australians avoid the news",
-        "sub": "sometimes or often",
+        "top": "Fun Fact",
+        "text": "*69%* of Australians avoid the news",
+        "sub": "Sometimes or often",
         "src": "University of Canberra, Digital News Report: Australia 2025",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "text": "trust in news: *43%*",
-        "sub": "up 3 points on last year",
+        "text": "Trust in news: *43%*",
+        "sub": "Up 3 points on last year",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "social media has overtaken going *direct* to news sites",
+        "text": "Social media has overtaken going *direct* to news sites",
         "src": "University of Canberra, Digital News Report: Australia 2025",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "so: make your news *easy to understand* and *easy to share*",
+        "text": "So: make your news *easy to understand* and *easy to share*",
         "dur": 4.0,
         "theme": "blue"
       },
       {
-        "text": "plain words. real numbers. *one clear point*.",
+        "text": "Plain words. Real numbers. *One clear point*.",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "news people *don't* skip",
+        "text": "News people *don't* skip",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

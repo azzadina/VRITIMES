@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–02.5s | Kinetic text card | "hope a journalist sees it" | Say bye bye to hope a journalist sees it. |
-| 02.5–05.5s | Kinetic text card | "hope they find our LinkedIn post" | Hope they find our LinkedIn post? Send the news directly. |
-| 05.5–08.5s | Kinetic text card | "hope they open the attachment" | Hope they open the attachment? Put the text in the email. |
-| 08.5–12.0s | Kinetic text card | "hope a 600-word pitch shows we're serious" | Hope a long pitch looks serious? Sixty-nine percent prefer under two hundred words. |
-| 12.0–15.5s | Kinetic text card | "hope they reply if I chase daily" | Hope they reply if you chase daily? One follow-up, three to seven days later. |
-| 15.5–18.5s | Kinetic text card | swap hope for a process | Swap hope for a process. |
+| 00.0–02.5s | Kinetic text card | "Hope a journalist sees it" | Say bye bye to hope a journalist sees it. |
+| 02.5–05.5s | Kinetic text card | "Hope they find our LinkedIn post" | Hope they find our LinkedIn post? Send the news directly. |
+| 05.5–08.5s | Kinetic text card | "Hope they open the attachment" | Hope they open the attachment? Put the text in the email. |
+| 08.5–12.0s | Kinetic text card | "Hope a 600-word pitch shows we're serious" | Hope a long pitch looks serious? Sixty-nine percent prefer under two hundred words. |
+| 12.0–15.5s | Kinetic text card | "Hope they reply if I chase daily" | Hope they reply if you chase daily? One follow-up, three to seven days later. |
+| 15.5–18.5s | Kinetic text card | Swap hope for a process | Swap hope for a process. |
 
 ## B-roll / footage list
 - Team member waving goodbye to sticky notes labelled "hope" (props)

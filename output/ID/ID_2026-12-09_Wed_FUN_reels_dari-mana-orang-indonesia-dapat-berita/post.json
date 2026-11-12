@@ -39,15 +39,15 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "dari mana orang Indonesia *dapat berita*?"
+      "tag": "Fun Fact",
+      "title": "Dari Mana Orang Indonesia *Dapat Berita*?"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "fun fact",
-        "text": "dari mana orang Indonesia *dapat berita*?",
+        "top": "Fun Fact",
+        "text": "Dari mana orang Indonesia *dapat berita*?",
         "icon": "news",
         "dur": 3.0,
         "theme": "blue"
@@ -66,18 +66,18 @@
         "theme": "navy"
       },
       {
-        "text": "tapi hanya *36%* percaya sebagian besar berita",
+        "text": "Tapi hanya *36%* percaya sebagian besar berita",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "text": "artinya: rilis perlu *dimuat media* & *dibagikan di sosial*",
+        "text": "Artinya: rilis perlu *dimuat media* & *dibagikan di sosial*",
         "dur": 4.0,
         "theme": "pale"
       },
       {
-        "text": "kredibel di media, *terlihat* di feed",
+        "text": "Kredibel di media, *terlihat* di feed",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

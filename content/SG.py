@@ -35,7 +35,7 @@ dict(slot='W3Wed', pillar='VIRAL', format='reel', slug='red-flags-in-a-press-rel
  title='Red flags in a press release', cta='Comment the red flag you see most', src=['MR'], tags=['#PRlife', '#MarketingSG'],
  slides=[dict(t='cover', tag='editors notice', title='red flags in a *press release* 🚩')],
  reel=dict(frames=[
-   dict(top='🚩 red flags', text='in a *press release*', sub='editors notice. trust us.', dur=2.5, theme='navy'),
+   dict(top='🚩', text='red flags in a *press release*', sub='editors notice. trust us.', dur=2.5, theme='navy'),
    dict(text='a headline with *no verb*', sub='"Excellence. Innovation. Tomorrow."', dur=3.0, theme='pale'),
    dict(text='the news is in *paragraph four*', sub='nobody reads paragraph four', dur=3.0, theme='blue'),
    dict(text='"world\'s first" with *no proof*', sub='journalists will check', dur=3.0, theme='navy'),

@@ -40,43 +40,43 @@
     {
       "t": "cover",
       "tag": "POV",
-      "title": "kamu kirim rilis pers sebagai *lampiran PDF*"
+      "title": "Kamu Kirim Rilis Pers sebagai *Lampiran PDF*"
     }
   ],
   "reel": {
     "frames": [
       {
         "top": "POV",
-        "text": "kamu kirim rilis pers sebagai *lampiran PDF*",
+        "text": "Kamu kirim rilis pers sebagai *lampiran PDF*",
         "icon": "pdf",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "subjek email:\n*\"Press Release\"*",
+        "text": "Subjek email:\n*\"Press Release\"*",
         "sub": "…bersama ratusan email lain hari ini",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "jurnalis harus unduh, buka, lalu *copy-paste* sendiri",
-        "sub": "(itu pun kalau sempat)",
+        "text": "Jurnalis harus unduh, buka, lalu *copy-paste* sendiri",
+        "sub": "(Itu pun kalau sempat)",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "padahal *69%* jurnalis lebih suka pitch di bawah 200 kata",
+        "text": "Padahal *69%* jurnalis lebih suka pitch di bawah 200 kata",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "text": "yang benar: *teks di badan email*, judul jadi subjek, link foto siap unduh",
+        "text": "Yang benar: *teks di badan email*, judul jadi subjek, link foto siap unduh",
         "dur": 4.0,
         "theme": "pale"
       },
       {
-        "text": "biar rilisnya ketemu *media*, bukan ketemu *folder arsip*",
+        "text": "Biar rilisnya ketemu *media*, bukan ketemu *folder arsip*",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

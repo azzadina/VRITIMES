@@ -39,8 +39,8 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "the *first* press release came out of a train crash",
+      "tag": "Fun Fact",
+      "title": "The *First* Press Release Came Out of a Train Crash",
       "icons": [
         "train",
         "news",
@@ -51,14 +51,14 @@
     {
       "t": "point",
       "icon": "train",
-      "title": "28 october *1906*",
+      "title": "28 October *1906*",
       "body": "A train run by a Pennsylvania Railroad subsidiary plunged off a bridge in Atlantic City, USA. Railways then usually **kept reporters away** and said little about the cause.",
       "src": "Billy Penn (2023); Museum of Public Relations"
     },
     {
       "t": "point",
       "icon": "mega",
-      "title": "ivy lee chose to *speak first*",
+      "title": "Ivy Lee Chose to *Speak First*",
       "body": "Publicist Ivy Lee wrote the company's own statement, handed it to reporters and gave them access to the site.",
       "src": "Billy Penn (2023); Museum of Public Relations"
     },
@@ -72,7 +72,7 @@
     },
     {
       "t": "list",
-      "title": "lessons that *still work* 120 years later",
+      "title": "Lessons That *Still Work* 120 Years Later",
       "items": [
         "!Speak first, before someone else frames your story",
         "!Facts beat claims",
@@ -81,7 +81,7 @@
     },
     {
       "t": "cta",
-      "title": "the press release was born in a *crisis*. now it's built for *growth*.",
+      "title": "The Press Release Was Born in a *Crisis*. Now It's Built for *Growth*.",
       "items": [
         "Save it for your next team training",
         "Tag a colleague who loves PR history"

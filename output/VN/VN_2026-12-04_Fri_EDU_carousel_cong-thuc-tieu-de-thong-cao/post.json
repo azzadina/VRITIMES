@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "pr writing",
+      "tag": "PR writing",
       "title": "5 công thức *tiêu đề* thông cáo kèm ví dụ",
-      "sub": "copy được ngay",
+      "sub": "Copy được ngay",
       "icons": [
         "news",
         "chart",
@@ -51,41 +51,41 @@
     {
       "t": "point",
       "n": "01",
-      "title": "chủ thể + hành động + *con số*",
+      "title": "Chủ thể + hành động + *con số*",
       "body": "Công thức an toàn nhất cho tin doanh nghiệp.",
       "ex": "\"Chuỗi cà phê X mở 10 cửa hàng tại Đà Nẵng, tạo 150 việc làm\""
     },
     {
       "t": "point",
       "n": "02",
-      "title": "số liệu *mới* làm tiêu đề",
+      "title": "Số liệu *mới* làm tiêu đề",
       "body": "Khi bạn có dữ liệu riêng, hãy để dữ liệu là tin.",
       "ex": "\"Khảo sát 1.000 chủ shop online: 6/10 dự kiến tăng ngân sách quảng cáo dịp Tết\""
     },
     {
       "t": "point",
       "n": "03",
-      "title": "lần *đầu tiên* (có kiểm chứng)",
+      "title": "Lần *đầu tiên* (có kiểm chứng)",
       "body": "Chỉ dùng khi chứng minh được, nhà báo sẽ kiểm tra.",
       "ex": "\"Doanh nghiệp Cần Thơ đầu tiên xuất khẩu gạo hữu cơ sang Nhật Bản\""
     },
     {
       "t": "point",
       "n": "04",
-      "title": "hợp tác: *ai + ai + để làm gì*",
+      "title": "Hợp tác: *ai + ai + để làm gì*",
       "body": "Tin hợp tác chỉ hấp dẫn khi nói rõ kết quả cho người dùng.",
       "ex": "\"Ví điện tử Y và chuỗi siêu thị Z cho phép thanh toán bằng QR tại 300 điểm\""
     },
     {
       "t": "point",
       "n": "05",
-      "title": "sự kiện: *tên + thời gian + giá trị*",
+      "title": "Sự kiện: *tên + thời gian + giá trị*",
       "body": "Đặt lợi ích cho người tham dự lên trước.",
       "ex": "\"Hội thảo miễn phí về xuất khẩu nông sản cho 200 doanh nghiệp, TP.HCM ngày 15/1\""
     },
     {
       "t": "list",
-      "title": "tránh *ngay*",
+      "title": "Tránh *ngay*",
       "items": [
         "~\"Đột phá\", \"hàng đầu\", \"số 1\" không có bằng chứng",
         "~Tiêu đề không có động từ",
@@ -95,7 +95,7 @@
     },
     {
       "t": "cta",
-      "title": "tiêu đề tốt = *nửa chặng đường*",
+      "title": "Tiêu đề tốt = *nửa chặng đường*",
       "items": [
         "Lưu 5 công thức này",
         "Gửi cho người viết thông cáo của bạn"

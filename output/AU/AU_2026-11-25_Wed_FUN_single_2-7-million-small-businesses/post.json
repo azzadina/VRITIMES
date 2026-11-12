@@ -39,12 +39,12 @@
   "slides": [
     {
       "t": "single_stat",
-      "tag": "fun fact",
-      "pre": "australia has",
+      "tag": "Fun Fact",
+      "pre": "Australia has",
       "big": "2.74M",
       "label": "actively trading *small businesses*",
       "body": "That's **97%** of all businesses (30 June 2026). Plenty of stories. Not much airtime.",
-      "sub": "got news? write the release",
+      "sub": "Got news? Write the release",
       "src": "ASBFEO (2026)"
     }
   ],

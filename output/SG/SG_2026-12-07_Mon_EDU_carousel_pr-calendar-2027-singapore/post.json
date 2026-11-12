@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "planning 2027",
-      "title": "your 2027 PR calendar, *sorted early*",
-      "sub": "save for the planning meeting",
+      "tag": "Planning 2027",
+      "title": "Your 2027 PR Calendar, *Sorted Early*",
+      "sub": "Save for the planning meeting",
       "icons": [
         "cal",
         "chart",
@@ -51,12 +51,12 @@
     {
       "t": "point",
       "icon": "cal",
-      "title": "why a calendar beats *reacting*",
+      "title": "Why a Calendar Beats *Reacting*",
       "body": "Reactive releases almost always arrive late. A calendar means data, photos and spokespeople are ready **before** journalists start looking."
     },
     {
       "t": "list",
-      "title": "Q1 · jan–mar",
+      "title": "Q1 · Jan–Mar",
       "items": [
         "Chinese New Year (early Feb 2027): newsrooms slow, publish before",
         "Budget 2027 (Feb): react with SME-relevant commentary",
@@ -65,7 +65,7 @@
     },
     {
       "t": "list",
-      "title": "Q2 · apr–jun",
+      "title": "Q2 · Apr–Jun",
       "items": [
         "Mid-year data from your own customers",
         "Hiring and regional expansion announcements",
@@ -74,7 +74,7 @@
     },
     {
       "t": "list",
-      "title": "Q3 · jul–sep",
+      "title": "Q3 · Jul–Sep",
       "items": [
         "9 Aug National Day: community programmes, local pride stories",
         "Partnership & funding announcements",
@@ -83,7 +83,7 @@
     },
     {
       "t": "list",
-      "title": "Q4 · oct–dec",
+      "title": "Q4 · Oct–Dec",
       "items": [
         "11.11, Black Friday & 12.12: release promos before peak days",
         "Year-end slowdown from mid-Dec: plan January news now",
@@ -92,7 +92,7 @@
     },
     {
       "t": "point",
-      "title": "the *T-14 to T+3* rule",
+      "title": "The *T-14 to T+3* Rule",
       "body": "A working timeline for every moment:",
       "exlab": "timeline",
       "ex": "T-14 research & data · T-7 final release + photos · T-3 pitch journalists · Day 0 publish & share · T+3 coverage recap"
@@ -100,13 +100,13 @@
     {
       "t": "stat",
       "big": "99%",
-      "label": "of singapore businesses are SMEs",
+      "label": "of Singapore businesses are SMEs",
       "body": "Every one of them is competing for the same news days. Preparation decides who gets covered.",
       "src": "MTI Singapore (Nov 2024)"
     },
     {
       "t": "cta",
-      "title": "plan 2027 PR *now*",
+      "title": "Plan 2027 PR *Now*",
       "items": [
         "Save this calendar",
         "Mark 3 moments for your brand",

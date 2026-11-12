@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–03.0s | Kinetic text card | how much does singapore trust the news? | How much does Singapore trust the news? |
+| 00.0–03.0s | Kinetic text card | How much does Singapore trust the news? | How much does Singapore trust the news? |
 | 03.0–06.5s | Kinetic text card | 45% trust most news most of the time | Forty-five percent trust most news most of the time. |
-| 06.5–10.0s | Kinetic text card | only thailand ranks higher among our markets: 55% | Among our markets, only Thailand ranks higher, at fifty-five. |
-| 10.0–14.0s | Kinetic text card | australia 43% · philippines 38% · malaysia 37% · indonesia 36% | Australia forty-three, the Philippines thirty-eight, Malaysia thirty-seven, Indonesia thirty-six. |
-| 14.0–17.5s | Kinetic text card | higher trust = earned coverage carries real weight here | Higher trust means earned coverage carries real weight here. |
-| 17.5–20.5s | Kinetic text card | be the story worth publishing | Be the story worth publishing. |
+| 06.5–10.0s | Kinetic text card | Only Thailand ranks higher among our markets: 55% | Among our markets, only Thailand ranks higher, at fifty-five. |
+| 10.0–14.0s | Kinetic text card | Australia 43% · Philippines 38% · Malaysia 37% · Indonesia 36% | Australia forty-three, the Philippines thirty-eight, Malaysia thirty-seven, Indonesia thirty-six. |
+| 14.0–17.5s | Kinetic text card | Higher trust = earned coverage carries real weight here | Higher trust means earned coverage carries real weight here. |
+| 17.5–20.5s | Kinetic text card | Be the story worth publishing | Be the story worth publishing. |
 
 ## B-roll / footage list
 - Animated bar chart of six markets (from text cards)

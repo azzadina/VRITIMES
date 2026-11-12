@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–03.5s | Kinetic text card | 69% of australians avoid the news | Sixty-nine percent of Australians avoid the news, sometimes or often. |
-| 03.5–06.5s | Kinetic text card | trust in news: 43% | Trust in news sits at forty-three percent. |
-| 06.5–10.0s | Kinetic text card | social media has overtaken going direct to news sites | Social media has overtaken going direct to news sites. |
-| 10.0–14.0s | Kinetic text card | so: make your news easy to understand and easy to share | So make your news easy to understand and easy to share. |
-| 14.0–17.0s | Kinetic text card | plain words. real numbers. one clear point. | Plain words, real numbers, one clear point. |
-| 17.0–20.0s | Kinetic text card | news people don't skip | News people don't skip. |
+| 00.0–03.5s | Kinetic text card | 69% of Australians avoid the news | Sixty-nine percent of Australians avoid the news, sometimes or often. |
+| 03.5–06.5s | Kinetic text card | Trust in news: 43% | Trust in news sits at forty-three percent. |
+| 06.5–10.0s | Kinetic text card | Social media has overtaken going direct to news sites | Social media has overtaken going direct to news sites. |
+| 10.0–14.0s | Kinetic text card | So: make your news easy to understand and easy to share | So make your news easy to understand and easy to share. |
+| 14.0–17.0s | Kinetic text card | Plain words. Real numbers. One clear point. | Plain words, real numbers, one clear point. |
+| 17.0–20.0s | Kinetic text card | News people don't skip | News people don't skip. |
 
 ## B-roll / footage list
 - Thumb scrolling past headlines (mock UI)

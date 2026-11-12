@@ -46,47 +46,47 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "we give you permission",
-      "title": "things your brand should *ghost* before 2027"
+      "tag": "We give you permission",
+      "title": "Things Your Brand Should *Ghost* Before 2027"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "hot take",
-        "text": "things your brand should *ghost* before 2027",
+        "top": "Hot Take",
+        "text": "Things your brand should *ghost* before 2027",
         "dur": 2.5,
         "theme": "navy"
       },
       {
-        "text": "\"leading\", \"revolutionary\", \"world-class\" in the *headline*",
-        "sub": "show the number instead",
+        "text": "\"Leading\", \"revolutionary\", \"world-class\" in the *headline*",
+        "sub": "Show the number instead",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "quotes that say *nothing*",
-        "sub": "\"we are thrilled…\" — ghosted",
+        "text": "Quotes that say *nothing*",
+        "sub": "\"We are thrilled…\" — ghosted",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "following up *every day*",
+        "text": "Following up *every day*",
         "sub": "50% of journalists say once is ideal",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "reporting PR in *AVE*",
+        "text": "Reporting PR in *AVE*",
         "sub": "Barcelona Principles 4.0 says don't",
         "src": "AMEC, Barcelona Principles 4.0 (2025)",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "\"hope a journalist *sees our post*\"",
-        "sub": "send a real release instead",
+        "text": "\"Hope a journalist *sees our post*\"",
+        "sub": "Send a real release instead",
         "dur": 3.0,
         "theme": "blue"
       }

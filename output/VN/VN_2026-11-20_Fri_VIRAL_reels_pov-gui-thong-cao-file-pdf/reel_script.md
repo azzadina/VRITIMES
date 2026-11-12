@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–03.0s | Kinetic text card | bạn gửi thông cáo bằng file PDF đính kèm | POV: bạn gửi thông cáo báo chí bằng file PDF đính kèm. |
-| 03.0–06.0s | Kinetic text card | tiêu đề email: "Thông cáo báo chí" | Tiêu đề email chỉ ghi "Thông cáo báo chí". |
-| 06.0–09.5s | Kinetic text card | nhà báo phải tải về, mở ra rồi tự copy | Nhà báo phải tải về, mở ra rồi tự copy. |
-| 09.5–13.0s | Kinetic text card | trong khi 69% nhà báo thích pitch dưới 200 từ | Trong khi sáu mươi chín phần trăm nhà báo thích pitch dưới hai trăm từ. |
-| 13.0–17.0s | Kinetic text card | đúng ra: nội dung trong thân email, tiêu đề thông cáo làm subject, ảnh gửi qua link | Hãy dán nội dung vào thân email, dùng tiêu đề thông cáo làm subject, gửi ảnh qua link. |
-| 17.0–20.0s | Kinetic text card | để thông cáo gặp báo chí, không phải thư mục lưu trữ | Để thông cáo gặp báo chí, không phải thư mục lưu trữ. |
+| 00.0–03.0s | Kinetic text card | Bạn gửi thông cáo bằng file PDF đính kèm | POV: bạn gửi thông cáo báo chí bằng file PDF đính kèm. |
+| 03.0–06.0s | Kinetic text card | Tiêu đề email: "Thông cáo báo chí" | Tiêu đề email chỉ ghi "Thông cáo báo chí". |
+| 06.0–09.5s | Kinetic text card | Nhà báo phải tải về, mở ra rồi tự copy | Nhà báo phải tải về, mở ra rồi tự copy. |
+| 09.5–13.0s | Kinetic text card | Trong khi 69% nhà báo thích pitch dưới 200 từ | Trong khi sáu mươi chín phần trăm nhà báo thích pitch dưới hai trăm từ. |
+| 13.0–17.0s | Kinetic text card | Đúng ra: nội dung trong thân email, tiêu đề thông cáo làm subject, ảnh gửi qua link | Hãy dán nội dung vào thân email, dùng tiêu đề thông cáo làm subject, gửi ảnh qua link. |
+| 17.0–20.0s | Kinetic text card | Để thông cáo gặp báo chí, không phải thư mục lưu trữ | Để thông cáo gặp báo chí, không phải thư mục lưu trữ. |
 
 ## B-roll / footage list
 - Hộp thư đầy email (mô phỏng, không có tên thật)

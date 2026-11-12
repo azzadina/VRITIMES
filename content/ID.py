@@ -155,7 +155,7 @@ dict(slot='W3Wed', pillar='VIRAL', format='reel', slug='rating-cara-umkm-masuk-m
  slides=[dict(t='cover', tag='rating', title='rating cara UMKM *masuk media*', sub='jujur aja')],
  reel=dict(frames=[
    dict(top='rating', text='cara UMKM *masuk media*', sub='jujur aja ya', dur=2.5, theme='blue'),
-   dict(text='DM akun berita:\n"kak, bisa diliput?"', sub='2/10 — sering cuma di-read', dur=3.5, theme='pale'),
+   dict(text='DM akun berita:\n"Kak, bisa diliput?"', sub='2/10 — sering cuma di-read', dur=3.5, theme='pale'),
    dict(text='kirim ke 300 email sekaligus, *CC terbuka*', sub='0/10 — please jangan', dur=3.5, theme='navy'),
    dict(text='nunggu viral dulu, *baru* cari media', sub='4/10 — viral nggak bisa dijadwalkan', dur=3.5, theme='blue'),
    dict(text='rilis yang ada *beritanya* + pitch ke jurnalis yang relevan', sub='9/10 — kerja, butuh konsistensi', dur=4.0, theme='pale'),

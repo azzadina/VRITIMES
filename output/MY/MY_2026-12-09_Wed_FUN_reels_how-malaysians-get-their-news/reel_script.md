@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–03.0s | Kinetic text card | where do malaysians get their news? | Where do Malaysians get their news? |
+| 00.0–03.0s | Kinetic text card | Where do Malaysians get their news? | Where do Malaysians get their news? |
 | 03.0–06.5s | Kinetic text card | 40% now use TikTok for news | Forty percent now use TikTok for news. |
-| 06.5–10.0s | Kinetic text card | but only 37% trust most news most of the time | But only thirty-seven percent trust most news most of the time. |
-| 10.0–14.0s | Kinetic text card | discovery happens in the feed. trust is checked at the source. | Discovery happens in the feed. Trust is checked at the source. |
-| 14.0–17.5s | Kinetic text card | so your news needs to be published AND shared | So your news needs to be published and shared. |
-| 17.5–20.5s | Kinetic text card | credible in the media, visible in the feed | Credible in the media, visible in the feed. |
+| 06.5–10.0s | Kinetic text card | But only 37% trust most news most of the time | But only thirty-seven percent trust most news most of the time. |
+| 10.0–14.0s | Kinetic text card | Discovery happens in the feed. Trust is checked at the source. | Discovery happens in the feed. Trust is checked at the source. |
+| 14.0–17.5s | Kinetic text card | So your news needs to be published AND shared | So your news needs to be published and shared. |
+| 17.5–20.5s | Kinetic text card | Credible in the media, visible in the feed | Credible in the media, visible in the feed. |
 
 ## B-roll / footage list
 - Phone scrolling a short-video feed (mock UI, no real accounts)

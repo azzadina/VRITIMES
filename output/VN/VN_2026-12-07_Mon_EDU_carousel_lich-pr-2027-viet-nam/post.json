@@ -46,9 +46,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "planning 2027",
-      "title": "lịch PR 2027: *chuẩn bị từ hôm nay*",
-      "sub": "lưu cho buổi họp kế hoạch",
+      "tag": "Planning 2027",
+      "title": "Lịch PR 2027: *chuẩn bị từ hôm nay*",
+      "sub": "Lưu cho buổi họp kế hoạch",
       "icons": [
         "cal",
         "chart",
@@ -58,7 +58,7 @@
     {
       "t": "point",
       "icon": "cal",
-      "title": "vì sao cần *lịch*, không bị động?",
+      "title": "Vì sao cần *lịch*, không bị động?",
       "body": "Thông cáo làm theo kiểu bị động hầu như luôn chậm. Có lịch, số liệu, hình ảnh và người phát ngôn sẵn sàng **trước** khi nhà báo cần."
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "t": "point",
-      "title": "quy tắc *T-14 đến T+3*",
+      "title": "Quy tắc *T-14 đến T+3*",
       "body": "Lịch làm việc cho mỗi dịp:",
       "exlab": "timeline",
       "ex": "T-14 nghiên cứu & số liệu · T-7 thông cáo hoàn chỉnh + ảnh · T-3 pitch nhà báo · Ngày D đăng & chia sẻ · T+3 tổng hợp bài đăng"
@@ -114,7 +114,7 @@
     },
     {
       "t": "cta",
-      "title": "lên kế hoạch PR 2027 *ngay bây giờ*",
+      "title": "Lên kế hoạch PR 2027 *ngay bây giờ*",
       "items": [
         "Lưu lịch này",
         "Đánh dấu 3 dịp cho thương hiệu",

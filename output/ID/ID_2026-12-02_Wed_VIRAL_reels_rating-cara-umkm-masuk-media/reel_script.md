@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–02.5s | Kinetic text card | cara UMKM masuk media | Rating cara UMKM masuk media. Jujur aja ya. |
-| 02.5–06.0s | Kinetic text card | DM akun berita: "kak, bisa diliput?" | DM akun berita, kak bisa diliput? Dua dari sepuluh. |
-| 06.0–09.5s | Kinetic text card | kirim ke 300 email sekaligus, CC terbuka | Kirim ke tiga ratus email, CC terbuka. Nol. |
-| 09.5–13.0s | Kinetic text card | nunggu viral dulu, baru cari media | Nunggu viral dulu baru cari media. Empat. |
-| 13.0–17.0s | Kinetic text card | rilis yang ada beritanya + pitch ke jurnalis yang relevan | Rilis yang ada beritanya plus pitch yang relevan. Sembilan. |
-| 17.0–20.0s | Kinetic text card | rilis + distribusi + laporan di satu tempat | Rilis, distribusi, laporan di satu tempat. Sepuluh. |
+| 00.0–02.5s | Kinetic text card | Cara UMKM masuk media | Rating cara UMKM masuk media. Jujur aja ya. |
+| 02.5–06.0s | Kinetic text card | DM akun berita: "Kak, bisa diliput?" | DM akun berita, kak bisa diliput? Dua dari sepuluh. |
+| 06.0–09.5s | Kinetic text card | Kirim ke 300 email sekaligus, CC terbuka | Kirim ke tiga ratus email, CC terbuka. Nol. |
+| 09.5–13.0s | Kinetic text card | Nunggu viral dulu, baru cari media | Nunggu viral dulu baru cari media. Empat. |
+| 13.0–17.0s | Kinetic text card | Rilis yang ada beritanya + pitch ke jurnalis yang relevan | Rilis yang ada beritanya plus pitch yang relevan. Sembilan. |
+| 17.0–20.0s | Kinetic text card | Rilis + distribusi + laporan di satu tempat | Rilis, distribusi, laporan di satu tempat. Sepuluh. |
 
 ## B-roll / footage list
 - Talent internal memegang kartu skor (props kertas biru/lime)

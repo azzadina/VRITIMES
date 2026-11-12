@@ -46,12 +46,12 @@
   "slides": [
     {
       "t": "single_stat",
-      "tag": "fun fact",
-      "pre": "in 2025, MSMEs made up",
+      "tag": "Fun Fact",
+      "pre": "In 2025, MSMEs made up",
       "big": "39.7%",
-      "label": "of malaysia's *GDP*",
+      "label": "of Malaysia's *GDP*",
       "body": "They are **96.1%** of all business establishments. The stories are everywhere. The coverage isn't.",
-      "sub": "got a story? write the release",
+      "sub": "Got a story? Write the release",
       "src": "DOSM, MSMEs Performance 2025; OECD (2026)"
     }
   ],

@@ -39,14 +39,14 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "relatable",
+      "tag": "Relatable",
       "title": "ไม่มีใครถาม:\n*คนทำ PR:*"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "relatable",
+        "top": "Relatable",
         "text": "ไม่มีใครถาม:\n*คนทำ PR:*",
         "dur": 2.5,
         "theme": "navy"

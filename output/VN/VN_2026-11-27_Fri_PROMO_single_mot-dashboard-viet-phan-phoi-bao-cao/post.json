@@ -46,14 +46,14 @@
   "slides": [
     {
       "t": "promo",
-      "tag": "một dashboard",
-      "title": "viết. *gửi.*\nxem kết quả.",
+      "tag": "Một dashboard",
+      "title": "Viết. *Gửi.*\nXem kết quả.",
       "items": [
         "Cam kết đăng tải trên báo cho mỗi thông cáo (số lượng theo gói)",
         "Backlink + chia sẻ trên kênh mạng xã hội của VRITIMES",
         "Báo cáo sau phân phối để gửi sếp hoặc khách hàng"
       ],
-      "price": "giá chỉ từ — xem link",
+      "price": "Giá chỉ từ — xem link",
       "src": "vritimes.com/vn/service/pricing",
       "ribbon": true
     }

@@ -39,52 +39,52 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "editors notice",
-      "title": "red flags in a *press release* 🚩"
+      "tag": "Editors Notice",
+      "title": "Red Flags in a *Press Release* 🚩"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "🚩 red flags",
-        "text": "in a *press release*",
-        "sub": "editors notice. trust us.",
+        "top": "🚩",
+        "text": "Red flags in a *press release*",
+        "sub": "Editors notice. Trust us.",
         "dur": 2.5,
         "theme": "navy"
       },
       {
-        "text": "a headline with *no verb*",
+        "text": "A headline with *no verb*",
         "sub": "\"Excellence. Innovation. Tomorrow.\"",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "the news is in *paragraph four*",
-        "sub": "nobody reads paragraph four",
+        "text": "The news is in *paragraph four*",
+        "sub": "Nobody reads paragraph four",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "\"world's first\" with *no proof*",
-        "sub": "journalists will check",
+        "text": "\"World's first\" with *no proof*",
+        "sub": "Journalists will check",
         "dur": 3.0,
         "theme": "navy"
       },
       {
-        "text": "a 600-word *pitch email*",
+        "text": "A 600-word *pitch email*",
         "sub": "69% prefer under 200 words",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "media contact: *\"info@\"*",
-        "sub": "nobody answers info@",
+        "text": "Media contact: *\"info@\"*",
+        "sub": "Nobody answers info@",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "green flag: news first, *proof* attached, a real person to call",
+        "text": "Green flag: news first, *proof* attached, a real person to call",
         "dur": 3.5,
         "theme": "navy"
       }

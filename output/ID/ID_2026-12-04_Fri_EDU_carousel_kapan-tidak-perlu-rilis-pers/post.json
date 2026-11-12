@@ -46,9 +46,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "pr jujur",
-      "title": "5 kali kamu *tidak perlu* kirim rilis pers",
-      "sub": "hemat budget, jaga reputasi",
+      "tag": "PR Jujur",
+      "title": "5 Kali Kamu *Tidak Perlu* Kirim Rilis Pers",
+      "sub": "Hemat budget, jaga reputasi",
       "icons": [
         "clock",
         "shield",
@@ -58,38 +58,38 @@
     {
       "t": "point",
       "n": "01",
-      "title": "tidak ada yang *baru* bagi pembaca",
+      "title": "Tidak Ada yang *Baru* bagi Pembaca",
       "body": "\"Kami ulang tahun ke-3\" bukan berita, kecuali ada angka, pencapaian, atau rencana yang berdampak. Tes cepat: apakah orang di luar kantor Anda peduli?"
     },
     {
       "t": "point",
       "n": "02",
-      "title": "faktanya *belum final*",
+      "title": "Faktanya *Belum Final*",
       "body": "Kerja sama yang \"sedang dijajaki\" bisa jadi bumerang bila batal. Tunggu tanda tangan, baru umumkan."
     },
     {
       "t": "point",
       "n": "03",
-      "title": "hanya demi *dapat link*",
+      "title": "Hanya demi *Dapat Link*",
       "body": "Google menyebut anchor text yang dioptimasi di rilis pers sebagai link spam. Rilis tanpa berita yang dibuat demi tautan justru berisiko.",
       "src": "Google Search Central, Spam policies"
     },
     {
       "t": "point",
       "n": "04",
-      "title": "krisis yang *belum dipahami*",
+      "title": "Krisis yang *Belum Dipahami*",
       "body": "Saat krisis, pernyataan singkat yang jujur lebih aman daripada rilis panjang yang spekulatif.",
       "ex": "Yang kami tahu: … · Yang kami lakukan: … · Update berikutnya: pukul …"
     },
     {
       "t": "point",
       "n": "05",
-      "title": "momennya *sudah lewat*",
+      "title": "Momennya *Sudah Lewat*",
       "body": "Rilis promo 12.12 yang terbit setelah 12.12 hanya jadi arsip. Redaksi butuh waktu: kirim beberapa hari sebelum momen."
     },
     {
       "t": "list",
-      "title": "kapan *wajib* kirim rilis",
+      "title": "Kapan *Wajib* Kirim Rilis",
       "items": [
         "!Peluncuran produk/layanan dengan tanggal pasti",
         "!Pendanaan, akuisisi, kemitraan resmi",
@@ -100,7 +100,7 @@
     },
     {
       "t": "cta",
-      "title": "rilis yang *lebih sedikit* tapi lebih kuat",
+      "title": "Rilis yang *Lebih Sedikit* tapi Lebih Kuat",
       "items": [
         "Simpan untuk rapat konten",
         "Kirim ke atasan yang minta rilis tiap minggu 😅"

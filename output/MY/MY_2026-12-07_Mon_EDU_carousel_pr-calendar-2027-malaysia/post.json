@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "planning 2027",
-      "title": "your 2027 PR calendar, *sorted early*",
-      "sub": "save for the planning meeting",
+      "tag": "Planning 2027",
+      "title": "Your 2027 PR Calendar, *Sorted Early*",
+      "sub": "Save for the planning meeting",
       "icons": [
         "cal",
         "chart",
@@ -51,12 +51,12 @@
     {
       "t": "point",
       "icon": "cal",
-      "title": "why a calendar beats *reacting*",
+      "title": "Why a Calendar Beats *Reacting*",
       "body": "Reactive releases almost always arrive late. A calendar means data, photos and spokespeople are ready **before** journalists start looking."
     },
     {
       "t": "list",
-      "title": "Q1 · jan–mar",
+      "title": "Q1 · Jan–Mar",
       "items": [
         "Chinese New Year (6–7 Feb 2027): stories on SME festive demand",
         "Ramadan & Hari Raya (est. Feb–Mar 2027): prepare releases well ahead",
@@ -65,7 +65,7 @@
     },
     {
       "t": "list",
-      "title": "Q2 · apr–jun",
+      "title": "Q2 · Apr–Jun",
       "items": [
         "Mid-year: customer data or internal research",
         "Hiring and expansion announcements",
@@ -74,7 +74,7 @@
     },
     {
       "t": "list",
-      "title": "Q3 · jul–sep",
+      "title": "Q3 · Jul–Sep",
       "items": [
         "DOSM's MSME release (late July): comment with your own data",
         "31 Aug Merdeka & 16 Sep Malaysia Day: community programmes, not just discounts",
@@ -83,7 +83,7 @@
     },
     {
       "t": "list",
-      "title": "Q4 · oct–dec",
+      "title": "Q4 · Oct–Dec",
       "items": [
         "Budget 2028 tabling (Oct): react with SME-relevant commentary",
         "Deepavali, 11.11 & 12.12: release promos before peak days",
@@ -92,7 +92,7 @@
     },
     {
       "t": "point",
-      "title": "the *T-14 to T+3* rule",
+      "title": "The *T-14 to T+3* Rule",
       "body": "A working timeline for every moment:",
       "exlab": "timeline",
       "ex": "T-14 research & data · T-7 final release + photos · T-3 pitch journalists · Day 0 publish & share · T+3 coverage recap"
@@ -106,7 +106,7 @@
     },
     {
       "t": "cta",
-      "title": "plan 2027 PR *now*",
+      "title": "Plan 2027 PR *Now*",
       "items": [
         "Save this calendar",
         "Mark 3 moments for your brand",

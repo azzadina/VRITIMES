@@ -39,12 +39,12 @@
   "slides": [
     {
       "t": "single_stat",
-      "tag": "fun fact",
-      "pre": "singapore SMEs employ",
+      "tag": "Fun Fact",
+      "pre": "Singapore SMEs employ",
       "big": "71%",
       "label": "of the *workforce*",
       "body": "They make up **99%** of businesses. Most of their milestones never make the news.",
-      "sub": "got a milestone? write the release",
+      "sub": "Got a milestone? Write the release",
       "src": "MTI Singapore (Nov 2024)"
     }
   ],

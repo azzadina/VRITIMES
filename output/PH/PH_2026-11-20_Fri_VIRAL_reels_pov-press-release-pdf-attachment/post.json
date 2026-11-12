@@ -40,43 +40,43 @@
     {
       "t": "cover",
       "tag": "POV",
-      "title": "you sent your press release as a *PDF attachment*"
+      "title": "You Sent Your Press Release as a *PDF Attachment*"
     }
   ],
   "reel": {
     "frames": [
       {
         "top": "POV",
-        "text": "you sent your press release as a *PDF attachment*",
+        "text": "You sent your press release as a *PDF attachment*",
         "icon": "pdf",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "subject line:\n*\"Press Release\"*",
+        "text": "Subject line:\n*\"Press Release\"*",
         "sub": "…kasama ng daan-daang ibang email today",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "the journalist has to download, open and *copy-paste* it",
-        "sub": "(if they get to it)",
+        "text": "The journalist has to download, open and *copy-paste* it",
+        "sub": "(If they get to it)",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "meanwhile *69%* of journalists prefer pitches under 200 words",
+        "text": "Meanwhile *69%* of journalists prefer pitches under 200 words",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "blue"
       },
       {
-        "text": "better: *text in the email body*, headline as subject, photo link ready",
+        "text": "Better: *text in the email body*, headline as subject, photo link ready",
         "dur": 4.0,
         "theme": "pale"
       },
       {
-        "text": "so your release meets *the media*, not *the archive folder*",
+        "text": "So your release meets *the media*, not *the archive folder*",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

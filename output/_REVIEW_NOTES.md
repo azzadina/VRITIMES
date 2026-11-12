@@ -27,3 +27,11 @@
 - Reels: `reel_draft.mp4` are silent kinetic-text drafts (1080×1920, 18–26 s). Audio is a *type* suggestion only; pick a licensed track in-app. B-roll lists call for internal talent/own footage only.
 - Photo tiles use own flat illustrations (no stock, no real people). Swap in authentic team photos anytime.
 - Re-render anything: edit `content/{CC}.py` → `python3 templates/build.py {CC}` → `python3 templates/qa.py` → `python3 templates/finalize.py`.
+
+## Revisi kapitalisasi (12 Nov 2026)
+- Judul cover/slide **ID** mengikuti EYD V (kapital tiap kata kecuali kata tugas seperti di, ke, dari, dan, yang, untuk, sebagai, dalam, demi, sebelum, sampai bila tidak di awal).
+- **MY/PH/SG/AU**: AP-style title case (a, the, of, to, in, for, and, vs … lowercase; hyphenated compounds capitalised per part).
+- **VN**: sentence case + nama diri (Việt Nam, Ngày Báo chí Việt Nam, Ivy Lee, Google).
+- **TH**: no case in Thai script; only Latin words normalised (SEO, PR, Ivy Lee, Pitch).
+- Pill tags ≤3 words use title case; sub-texts, handwritten notes, reel frame text use sentence case; stat labels that continue a number stay lowercase.
+- Rules live in `templates/casing.py` and are applied automatically at build time.

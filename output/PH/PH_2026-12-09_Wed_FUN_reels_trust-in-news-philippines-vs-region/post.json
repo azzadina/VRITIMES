@@ -39,15 +39,15 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "how much do filipinos *trust the news*?"
+      "tag": "Fun Fact",
+      "title": "How Much Do Filipinos *Trust the News*?"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "fun fact",
-        "text": "how much do filipinos *trust the news*?",
+        "top": "Fun Fact",
+        "text": "How much do Filipinos *trust the news*?",
         "icon": "eye",
         "dur": 3.0,
         "theme": "blue"
@@ -59,25 +59,25 @@
         "theme": "pale"
       },
       {
-        "text": "thailand *55%* · singapore *45%* · australia *43%*",
-        "sub": "same survey, 2025",
+        "text": "Thailand *55%* · Singapore *45%* · Australia *43%*",
+        "sub": "Same survey, 2025",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 4.0,
         "theme": "navy"
       },
       {
-        "text": "malaysia *37%* · indonesia *36%*",
+        "text": "Malaysia *37%* · Indonesia *36%*",
         "src": "Reuters Institute, Digital News Report 2025",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "low trust = your news needs *proof*: data, names, sources",
+        "text": "Low trust = your news needs *proof*: data, names, sources",
         "dur": 4.0,
         "theme": "pale"
       },
       {
-        "text": "be the source *worth quoting*",
+        "text": "Be the source *worth quoting*",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "navy"

@@ -39,12 +39,12 @@
   "slides": [
     {
       "t": "single_stat",
-      "tag": "fun fact",
+      "tag": "Fun Fact",
       "pre": "MSMEs are",
       "big": "99.6%",
-      "label": "of philippine *businesses*",
+      "label": "of Philippine *businesses*",
       "body": "And they generate **66.97%** of all jobs. That's a lot of untold business stories.",
-      "sub": "may kwento ka? write the release",
+      "sub": "May kwento ka? Write the release",
       "src": "DTI, 2023 MSME Statistics"
     }
   ],

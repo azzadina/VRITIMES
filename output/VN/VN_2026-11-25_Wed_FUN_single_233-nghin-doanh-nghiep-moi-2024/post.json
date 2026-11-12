@@ -46,15 +46,15 @@
   "slides": [
     {
       "t": "single_stat",
-      "tag": "fun fact",
-      "pre": "năm 2024 việt nam có",
+      "tag": "Fun fact",
+      "pre": "Năm 2024 Việt Nam có",
       "big": "233,4K",
       "bsize": 220,
       "tsize": 60,
       "lsize": 60,
       "label": "doanh nghiệp *thành lập mới & quay lại*",
       "body": "Trong đó **76,2 nghìn** doanh nghiệp quay lại hoạt động, cao nhất từ trước đến nay. Ai cũng cần được biết đến.",
-      "sub": "có tin vui? viết thông cáo",
+      "sub": "Có tin vui? Viết thông cáo",
       "src": "Tổng cục Thống kê (2025)"
     }
   ],

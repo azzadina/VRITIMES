@@ -46,9 +46,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "pr measurement",
-      "title": "AVE is dead. *report this* instead.",
-      "sub": "your boss will thank you",
+      "tag": "PR Measurement",
+      "title": "AVE Is Dead. *Report This* Instead.",
+      "sub": "Your boss will thank you",
       "icons": [
         "chart",
         "eye",
@@ -58,7 +58,7 @@
     {
       "t": "point",
       "n": "AVE?",
-      "title": "advertising value *equivalency*",
+      "title": "Advertising Value *Equivalency*",
       "body": "\"This article would have cost $X as an ad.\" Easy to calculate, easy to inflate, and it says nothing about whether anyone changed their mind or bought anything."
     },
     {
@@ -71,15 +71,15 @@
     {
       "t": "point",
       "n": "4.0",
-      "title": "the 2025 update is *blunter*",
+      "title": "The 2025 Update Is *Blunter*",
       "body": "AMEC's Barcelona Principles 4.0 say invalid measures such as AVEs **should not be used**. Measure outcomes and impact, not just outputs.",
       "src": "AMEC, Barcelona Principles 4.0 (2025)"
     },
     {
       "t": "compare",
-      "title": "outputs vs *outcomes*",
+      "title": "Outputs vs *Outcomes*",
       "left": {
-        "h": "outputs",
+        "h": "Outputs",
         "items": [
           "Number of articles",
           "Potential reach",
@@ -87,7 +87,7 @@
         ]
       },
       "right": {
-        "h": "outcomes",
+        "h": "Outcomes",
         "items": [
           "Tier-1 & target-audience coverage",
           "Key message pick-up rate",
@@ -97,7 +97,7 @@
     },
     {
       "t": "list",
-      "title": "a *one-page* PR report",
+      "title": "A *One-Page* PR Report",
       "items": [
         "Objective set before the release",
         "Coverage by quality, not just count",
@@ -108,7 +108,7 @@
     },
     {
       "t": "cta",
-      "title": "measure what *matters*",
+      "title": "Measure What *Matters*",
       "items": [
         "Save this report template",
         "Share with whoever signs off your PR budget"

@@ -46,9 +46,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "seo x pr",
-      "title": "rilis pers untuk SEO? *baca ini dulu*",
-      "sub": "kata google sendiri"
+      "tag": "SEO x PR",
+      "title": "Rilis Pers untuk SEO? *Baca Ini Dulu*",
+      "sub": "Kata Google sendiri"
     },
     {
       "t": "quote",
@@ -59,9 +59,9 @@
     },
     {
       "t": "compare",
-      "title": "yang *berisiko* vs yang *aman*",
+      "title": "Yang *Berisiko* vs yang *Aman*",
       "left": {
-        "h": "berisiko",
+        "h": "Berisiko",
         "items": [
           "Anchor \"jasa SEO murah Jakarta\" di tiap paragraf",
           "Rilis tanpa berita, hanya demi link",
@@ -69,7 +69,7 @@
         ]
       },
       "right": {
-        "h": "aman",
+        "h": "Aman",
         "items": [
           "Nama brand atau URL sebagai tautan",
           "Berita yang memancing liputan lanjutan",
@@ -81,19 +81,19 @@
     {
       "t": "point",
       "icon": "link",
-      "title": "lalu apa *nilai* backlink rilis?",
+      "title": "Lalu Apa *Nilai* Backlink Rilis?",
       "body": "Tiga hal nyata: **trafik rujukan** dari pembaca, **penyebutan brand** di situs berita yang membantu orang mengenali Anda, dan **liputan lanjutan** dari jurnalis yang menemukan rilis Anda."
     },
     {
       "t": "point",
       "icon": "shield",
-      "title": "rel=\"sponsored\" itu *normal*",
+      "title": "rel=\"sponsored\" Itu *Normal*",
       "body": "Google meminta tautan berbayar atau penempatan ditandai **rel=\"sponsored\"** atau **nofollow**. Jadi ukur rilis dari siapa yang membaca dan siapa yang ikut menulis, bukan dari \"link juice\".",
       "src": "Google Search Central, Qualify outbound links"
     },
     {
       "t": "list",
-      "title": "checklist rilis *aman SEO*",
+      "title": "Checklist Rilis *Aman SEO*",
       "items": [
         "Kata kunci muncul alami di judul, tidak dijejalkan",
         "Satu link utama ke halaman yang relevan",
@@ -104,7 +104,7 @@
     },
     {
       "t": "cta",
-      "title": "PR yang bagus *membantu* SEO. bukan sebaliknya.",
+      "title": "PR yang Bagus *Membantu* SEO. Bukan Sebaliknya.",
       "items": [
         "Simpan checklist ini",
         "Kirim ke tim SEO kamu"

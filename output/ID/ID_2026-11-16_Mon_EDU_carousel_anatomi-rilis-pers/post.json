@@ -39,27 +39,27 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "rilis pers 101",
-      "title": "anatomi rilis pers yang *dimuat* editor",
-      "sub": "bukan yang dibuang"
+      "tag": "Rilis Pers 101",
+      "title": "Anatomi Rilis Pers yang *Dimuat* Editor",
+      "sub": "Bukan yang dibuang"
     },
     {
       "t": "point",
       "n": "01",
-      "title": "judul = *berita*, bukan slogan",
+      "title": "Judul = *Berita*, Bukan Slogan",
       "body": "Subjek + aksi + dampak. Idealnya 10–14 kata, ada angka atau nama tempat.",
       "ex": "✕ \"Inovasi Tanpa Batas untuk Negeri\"\n✓ \"Startup Logistik Buka 5 Hub Baru di Jawa Timur, Waktu Kirim Jadi 1 Hari\""
     },
     {
       "t": "point",
       "n": "02",
-      "title": "lead menjawab 5W1H dalam *2 kalimat*",
+      "title": "Lead Menjawab 5W1H dalam *2 Kalimat*",
       "body": "Editor memutuskan dalam hitungan detik. Kalau paragraf pertama belum menjawab **apa, siapa, kapan, di mana, dan kenapa sekarang**, rilis berhenti dibaca di situ."
     },
     {
       "t": "point",
       "n": "03",
-      "title": "satu kutipan yang *punya opini*",
+      "title": "Satu Kutipan yang *Punya Opini*",
       "body": "Kutipan bukan tempat bilang \"kami bangga\". Isi dengan sudut pandang, angka, atau rencana yang bisa dikutip media.",
       "ex": "✕ \"Kami sangat bangga atas pencapaian ini.\"\n✓ \"Pengiriman sehari bukan lagi kemewahan kota besar. Surabaya dan Malang baru awal.\""
     },
@@ -72,7 +72,7 @@
     },
     {
       "t": "list",
-      "title": "badan rilis yang *siap pakai*",
+      "title": "Badan Rilis yang *Siap Pakai*",
       "items": [
         "Piramida terbalik: fakta terpenting di atas",
         "Data + pembanding (naik dari berapa ke berapa?)",
@@ -83,12 +83,12 @@
     {
       "t": "point",
       "n": "05",
-      "title": "boilerplate: *3 kalimat* yang sering diremehkan",
+      "title": "Boilerplate: *3 Kalimat* yang Sering Diremehkan",
       "body": "Siapa Anda, sejak kapan, seberapa besar, di mana, dan link resmi. Tulis sekali, perbarui tiap kuartal. Jurnalis menyalinnya apa adanya."
     },
     {
       "t": "cta",
-      "title": "cek 3 hal ini *sebelum kirim*",
+      "title": "Cek 3 Hal Ini *sebelum Kirim*",
       "items": [
         "Judul: ada subjek, aksi, dan angka?",
         "Lead: 5W1H selesai dalam 2 kalimat?",

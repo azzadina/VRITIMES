@@ -5,13 +5,13 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–02.5s | Kinetic text card | in a press release | Red flags in a press release. Editors notice. |
-| 02.5–05.5s | Kinetic text card | a headline with no verb | A headline with no verb. |
-| 05.5–08.5s | Kinetic text card | the news is in paragraph four | The news buried in paragraph four. |
-| 08.5–11.5s | Kinetic text card | "world's first" with no proof | World's first, with no proof. |
-| 11.5–15.0s | Kinetic text card | a 600-word pitch email | A six-hundred-word pitch. Sixty-nine percent of journalists prefer under two hundred. |
-| 15.0–18.0s | Kinetic text card | media contact: "info@" | Media contact: info at. |
-| 18.0–21.5s | Kinetic text card | green flag: news first, proof attached, a real person to call | Green flag: news first, proof attached, a real person to call. |
+| 00.0–02.5s | Kinetic text card | Red flags in a press release | Red flags in a press release. Editors notice. |
+| 02.5–05.5s | Kinetic text card | A headline with no verb | A headline with no verb. |
+| 05.5–08.5s | Kinetic text card | The news is in paragraph four | The news buried in paragraph four. |
+| 08.5–11.5s | Kinetic text card | "World's first" with no proof | World's first, with no proof. |
+| 11.5–15.0s | Kinetic text card | A 600-word pitch email | A six-hundred-word pitch. Sixty-nine percent of journalists prefer under two hundred. |
+| 15.0–18.0s | Kinetic text card | Media contact: "info@" | Media contact: info at. |
+| 18.0–21.5s | Kinetic text card | Green flag: news first, proof attached, a real person to call | Green flag: news first, proof attached, a real person to call. |
 
 ## B-roll / footage list
 - Red flag props waved on each point (internal talent)

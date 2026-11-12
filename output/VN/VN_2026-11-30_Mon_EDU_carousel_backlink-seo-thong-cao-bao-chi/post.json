@@ -46,9 +46,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "seo x pr",
-      "title": "thông cáo để làm SEO? *đọc cái này trước*",
-      "sub": "google nói thẳng"
+      "tag": "SEO x PR",
+      "title": "Thông cáo để làm SEO? *Đọc cái này trước*",
+      "sub": "Google nói thẳng"
     },
     {
       "t": "quote",
@@ -59,9 +59,9 @@
     },
     {
       "t": "compare",
-      "title": "*rủi ro* vs *an toàn*",
+      "title": "*Rủi ro* vs *an toàn*",
       "left": {
-        "h": "rủi ro",
+        "h": "Rủi ro",
         "items": [
           "Anchor \"dịch vụ SEO giá rẻ TP.HCM\" ở mọi đoạn",
           "Thông cáo không có tin, chỉ để lấy link",
@@ -69,7 +69,7 @@
         ]
       },
       "right": {
-        "h": "an toàn",
+        "h": "An toàn",
         "items": [
           "Tên thương hiệu hoặc URL làm anchor",
           "Tin tức khiến báo khác viết tiếp",
@@ -81,7 +81,7 @@
     {
       "t": "point",
       "icon": "link",
-      "title": "vậy link từ thông cáo *có giá trị* gì?",
+      "title": "Vậy link từ thông cáo *có giá trị* gì?",
       "body": "Ba điều thực tế: **lượt truy cập giới thiệu** từ người đọc, **nhắc đến thương hiệu** trên trang tin giúp mọi người nhận diện bạn, và **bài viết tiếp theo** từ nhà báo tìm thấy thông cáo."
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "t": "list",
-      "title": "checklist thông cáo *an toàn SEO*",
+      "title": "Checklist thông cáo *an toàn SEO*",
       "items": [
         "Từ khoá xuất hiện tự nhiên trong tiêu đề",
         "Một link chính tới trang liên quan",
@@ -104,7 +104,7 @@
     },
     {
       "t": "cta",
-      "title": "PR tốt *hỗ trợ* SEO. không phải ngược lại.",
+      "title": "PR tốt *hỗ trợ* SEO. Không phải ngược lại.",
       "items": [
         "Lưu checklist này",
         "Gửi cho team SEO của bạn"

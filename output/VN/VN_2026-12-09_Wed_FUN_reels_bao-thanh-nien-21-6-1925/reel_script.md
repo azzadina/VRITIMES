@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–03.0s | Kinetic text card | vì sao 21/6 là ngày báo chí việt nam? | Vì sao hai mươi mốt tháng sáu là ngày báo chí Việt Nam? |
-| 03.0–06.5s | Kinetic text card | ngày 21/6/1925, báo Thanh Niên ra số đầu tiên | Ngày hai mươi mốt tháng sáu năm một chín hai lăm, báo Thanh Niên ra số đầu tiên tại Quảng Châu. |
-| 06.5–09.5s | Kinetic text card | do lãnh tụ Nguyễn Ái Quốc sáng lập | Tờ báo do lãnh tụ Nguyễn Ái Quốc sáng lập. |
-| 09.5–13.5s | Kinetic text card | ngày ra số đầu được chọn làm Ngày Báo chí Cách mạng Việt Nam | Ngày ra số đầu được chọn làm Ngày Báo chí Cách mạng Việt Nam. |
-| 13.5–16.5s | Kinetic text card | năm 2025 đánh dấu 100 năm báo chí cách mạng | Năm hai không hai lăm đánh dấu một trăm năm báo chí cách mạng. |
-| 16.5–19.5s | Kinetic text card | tôn trọng báo chí = gửi tin thật, số liệu thật | Tôn trọng báo chí là gửi tin thật, số liệu thật. |
+| 00.0–03.0s | Kinetic text card | Vì sao 21/6 là Ngày Báo chí Việt Nam? | Vì sao hai mươi mốt tháng sáu là ngày báo chí Việt Nam? |
+| 03.0–06.5s | Kinetic text card | Ngày 21/6/1925, báo Thanh Niên ra số đầu tiên | Ngày hai mươi mốt tháng sáu năm một chín hai lăm, báo Thanh Niên ra số đầu tiên tại Quảng Châu. |
+| 06.5–09.5s | Kinetic text card | Do lãnh tụ Nguyễn Ái Quốc sáng lập | Tờ báo do lãnh tụ Nguyễn Ái Quốc sáng lập. |
+| 09.5–13.5s | Kinetic text card | Ngày ra số đầu được chọn làm Ngày Báo chí Cách mạng Việt Nam | Ngày ra số đầu được chọn làm Ngày Báo chí Cách mạng Việt Nam. |
+| 13.5–16.5s | Kinetic text card | Năm 2025 đánh dấu 100 năm báo chí cách mạng | Năm hai không hai lăm đánh dấu một trăm năm báo chí cách mạng. |
+| 16.5–19.5s | Kinetic text card | Tôn trọng báo chí = gửi tin thật, số liệu thật | Tôn trọng báo chí là gửi tin thật, số liệu thật. |
 
 ## B-roll / footage list
 - Ảnh tư liệu tờ báo Thanh Niên (chỉ dùng ảnh có giấy phép hoặc tư liệu công khai, ghi nguồn)

@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–03.0s | Kinetic text card | how much do filipinos trust the news? | How much do Filipinos trust the news? |
+| 00.0–03.0s | Kinetic text card | How much do Filipinos trust the news? | How much do Filipinos trust the news? |
 | 03.0–06.5s | Kinetic text card | 38% trust most news most of the time | Thirty-eight percent trust most news most of the time. |
-| 06.5–10.5s | Kinetic text card | thailand 55% · singapore 45% · australia 43% | Thailand fifty-five, Singapore forty-five, Australia forty-three. |
-| 10.5–13.5s | Kinetic text card | malaysia 37% · indonesia 36% | Malaysia thirty-seven, Indonesia thirty-six. |
-| 13.5–17.5s | Kinetic text card | low trust = your news needs proof: data, names, sources | Low trust means your news needs proof: data, names, sources. |
-| 17.5–20.5s | Kinetic text card | be the source worth quoting | Be the source worth quoting. |
+| 06.5–10.5s | Kinetic text card | Thailand 55% · Singapore 45% · Australia 43% | Thailand fifty-five, Singapore forty-five, Australia forty-three. |
+| 10.5–13.5s | Kinetic text card | Malaysia 37% · Indonesia 36% | Malaysia thirty-seven, Indonesia thirty-six. |
+| 13.5–17.5s | Kinetic text card | Low trust = your news needs proof: data, names, sources | Low trust means your news needs proof: data, names, sources. |
+| 17.5–20.5s | Kinetic text card | Be the source worth quoting | Be the source worth quoting. |
 
 ## B-roll / footage list
 - Animated bar chart of the six markets (from text cards)

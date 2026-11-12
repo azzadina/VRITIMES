@@ -5,12 +5,12 @@
 
 | Time | Shot | On-screen text | Voice-over (optional) |
 |---|---|---|---|
-| 00.0–03.0s | Kinetic text card | kamu kirim rilis pers sebagai lampiran PDF | POV: kamu kirim rilis pers sebagai lampiran PDF. |
-| 03.0–06.0s | Kinetic text card | subjek email: "Press Release" | Subjeknya cuma "Press Release". |
-| 06.0–09.5s | Kinetic text card | jurnalis harus unduh, buka, lalu copy-paste sendiri | Jurnalisnya harus unduh, buka, copy-paste sendiri. |
-| 09.5–13.0s | Kinetic text card | padahal 69% jurnalis lebih suka pitch di bawah 200 kata | Padahal 69 persen jurnalis lebih suka pitch di bawah 200 kata. |
-| 13.0–17.0s | Kinetic text card | yang benar: teks di badan email, judul jadi subjek, link foto siap unduh | Tulis di badan email, judul jadi subjek, foto via link. |
-| 17.0–20.0s | Kinetic text card | biar rilisnya ketemu media, bukan ketemu folder arsip | Biar rilisnya ketemu media, bukan arsip. |
+| 00.0–03.0s | Kinetic text card | Kamu kirim rilis pers sebagai lampiran PDF | POV: kamu kirim rilis pers sebagai lampiran PDF. |
+| 03.0–06.0s | Kinetic text card | Subjek email: "Press Release" | Subjeknya cuma "Press Release". |
+| 06.0–09.5s | Kinetic text card | Jurnalis harus unduh, buka, lalu copy-paste sendiri | Jurnalisnya harus unduh, buka, copy-paste sendiri. |
+| 09.5–13.0s | Kinetic text card | Padahal 69% jurnalis lebih suka pitch di bawah 200 kata | Padahal 69 persen jurnalis lebih suka pitch di bawah 200 kata. |
+| 13.0–17.0s | Kinetic text card | Yang benar: teks di badan email, judul jadi subjek, link foto siap unduh | Tulis di badan email, judul jadi subjek, foto via link. |
+| 17.0–20.0s | Kinetic text card | Biar rilisnya ketemu media, bukan ketemu folder arsip | Biar rilisnya ketemu media, bukan arsip. |
 
 ## B-roll / footage list
 - Close-up layar laptop: kotak masuk email penuh (mock-up, tanpa nama/alamat asli)

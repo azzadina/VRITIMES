@@ -39,27 +39,27 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "press release 101",
-      "title": "anatomy of a press release editors *actually publish*",
-      "sub": "not the ones they skip"
+      "tag": "Press Release 101",
+      "title": "Anatomy of a Press Release Editors *Actually Publish*",
+      "sub": "Not the ones they skip"
     },
     {
       "t": "point",
       "n": "01",
-      "title": "the headline is *news*, not a slogan",
+      "title": "The Headline Is *News*, Not a Slogan",
       "body": "Subject + action + impact. Aim for 10–14 words with a number or a place name.",
       "ex": "✕ \"Innovation Without Limits\"\n✓ \"Cebu Logistics Startup Opens 5 Visayas Hubs, Cuts Delivery Time to One Day\""
     },
     {
       "t": "point",
       "n": "02",
-      "title": "the lead answers 5W1H in *two sentences*",
+      "title": "The Lead Answers 5W1H in *Two Sentences*",
       "body": "Editors decide in seconds. If paragraph one doesn't say **what, who, when, where and why now**, that is where reading stops."
     },
     {
       "t": "point",
       "n": "03",
-      "title": "one quote with an *actual opinion*",
+      "title": "One Quote With an *Actual Opinion*",
       "body": "A quote is not the place for \"we are thrilled\". Give a point of view, a number or a plan a reporter can lift.",
       "ex": "✕ \"We are thrilled to announce this milestone.\"\n✓ \"Next-day delivery shouldn't only be for Metro Manila. The Visayas is just the start.\""
     },
@@ -72,7 +72,7 @@
     },
     {
       "t": "list",
-      "title": "a body that is *ready to use*",
+      "title": "A Body That Is *Ready to Use*",
       "items": [
         "Inverted pyramid: the most important fact first",
         "Data with a comparison (up from what, to what?)",
@@ -83,12 +83,12 @@
     {
       "t": "point",
       "n": "05",
-      "title": "the boilerplate: *3 sentences* everyone underrates",
+      "title": "The Boilerplate: *3 Sentences* Everyone Underrates",
       "body": "Who you are, since when, how big, where, and your official link. Write it once, refresh it every quarter. Journalists copy it as is."
     },
     {
       "t": "cta",
-      "title": "check these 3 *before you hit send*",
+      "title": "Check These 3 *Before You Hit Send*",
       "items": [
         "Headline: subject, action and a number?",
         "Lead: 5W1H done in two sentences?",

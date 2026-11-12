@@ -39,46 +39,46 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "we've all done it",
-      "title": "say bye bye to *\"hope a journalist sees it\"*"
+      "tag": "We've all done it",
+      "title": "Say Bye Bye to *\"Hope a Journalist Sees It\"*"
     }
   ],
   "reel": {
     "frames": [
       {
-        "top": "bye bye 👋",
-        "text": "*\"hope a journalist sees it\"*",
+        "top": "Bye Bye 👋",
+        "text": "*\"Hope a journalist sees it\"*",
         "dur": 2.5,
         "theme": "navy"
       },
       {
-        "text": "\"hope they find our *LinkedIn post*\"",
-        "sub": "→ send them the news directly",
+        "text": "\"Hope they find our *LinkedIn post*\"",
+        "sub": "→ Send them the news directly",
         "dur": 3.0,
         "theme": "pale"
       },
       {
-        "text": "\"hope they open the *attachment*\"",
-        "sub": "→ text in the email body",
+        "text": "\"Hope they open the *attachment*\"",
+        "sub": "→ Text in the email body",
         "dur": 3.0,
         "theme": "blue"
       },
       {
-        "text": "\"hope a *600-word* pitch shows we're serious\"",
+        "text": "\"Hope a *600-word* pitch shows we're serious\"",
         "sub": "→ 69% prefer under 200 words",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "navy"
       },
       {
-        "text": "\"hope they reply if I *chase daily*\"",
-        "sub": "→ one follow-up, 3–7 days later",
+        "text": "\"Hope they reply if I *chase daily*\"",
+        "sub": "→ One follow-up, 3–7 days later",
         "src": "Muck Rack, State of Journalism 2025",
         "dur": 3.5,
         "theme": "pale"
       },
       {
-        "text": "swap hope for *a process*",
+        "text": "Swap hope for *a process*",
         "sub": "Raise It With Press Release",
         "dur": 3.0,
         "theme": "blue"

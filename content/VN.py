@@ -223,9 +223,9 @@ dict(slot='W4Mon', pillar='EDU', format='carousel', slug='lich-pr-2027-viet-nam'
 # 11 ── W4 Wed FUN reel (local): press day 1925
 dict(slot='W4Wed', pillar='FUN', format='reel', slug='bao-thanh-nien-21-6-1925',
  title='Ngày 21/6/1925 và tờ báo cách mạng đầu tiên', cta='Chia sẻ cho người làm truyền thông', src=['VN3'], tags=['#baochi', '#FunFact'],
- slides=[dict(t='cover', tag='fun fact', title='vì sao *21/6* là ngày báo chí việt nam?')],
+ slides=[dict(t='cover', tag='fun fact', title='vì sao *21/6* là Ngày Báo chí Việt Nam?')],
  reel=dict(frames=[
-   dict(top='fun fact', text='vì sao *21/6* là ngày báo chí việt nam?', icon='news', dur=3.0, theme='blue'),
+   dict(top='fun fact', text='vì sao *21/6* là Ngày Báo chí Việt Nam?', icon='news', dur=3.0, theme='blue'),
    dict(text='ngày *21/6/1925*, báo Thanh Niên ra số đầu tiên', sub='tại Quảng Châu (Trung Quốc)', src='VOH', dur=3.5, theme='pale'),
    dict(text='do lãnh tụ *Nguyễn Ái Quốc* sáng lập', src='VOH', dur=3.0, theme='navy'),
    dict(text='ngày ra số đầu được chọn làm *Ngày Báo chí Cách mạng Việt Nam*', src='VOH', dur=4.0, theme='blue'),

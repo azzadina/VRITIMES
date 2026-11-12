@@ -46,9 +46,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "crisis comms",
-      "title": "the *first 24 hours* of a crisis",
-      "sub": "a playbook for SMEs",
+      "tag": "Crisis Comms",
+      "title": "The *First 24 Hours* of a Crisis",
+      "sub": "A playbook for SMEs",
       "icons": [
         "clock",
         "shield",
@@ -58,38 +58,38 @@
     {
       "t": "point",
       "n": "0–1h",
-      "title": "confirm, don't *speculate*",
+      "title": "Confirm, Don't *Speculate*",
       "body": "Get the facts from the people closest to the issue. Name **one spokesperson** and one approver. Everyone else stays off the record."
     },
     {
       "t": "point",
       "n": "1–3h",
-      "title": "a *holding statement*",
+      "title": "A *Holding Statement*",
       "body": "Short beats perfect. Say what you know, what you're doing and when the next update comes.",
       "ex": "\"We are aware of (issue). Our priority is (people/customers). We are (action). We will share an update by (time) today.\""
     },
     {
       "t": "point",
       "n": "3–6h",
-      "title": "*bahasa* and english, same message",
+      "title": "*Bahasa* and English, Same Message",
       "body": "In Malaysia your audience reads in more than one language. Publish the statement in BM and English at the same time, with identical facts, so no version looks like it is hiding something."
     },
     {
       "t": "stat",
       "big": "37%",
-      "label": "of malaysians trust *most news most of the time*",
+      "label": "of Malaysians trust *most news most of the time*",
       "body": "Low trust means rumours move fast. A clear, sourced statement from you gives journalists something solid to quote.",
       "src": "Reuters Institute, Digital News Report 2025"
     },
     {
       "t": "point",
       "n": "6–24h",
-      "title": "update on *the clock you promised*",
+      "title": "Update on *the Clock You Promised*",
       "body": "Miss your own deadline and the story becomes about silence. Update even if the update is \"investigation ongoing, next update at 10am\"."
     },
     {
       "t": "list",
-      "title": "don't, *ever*",
+      "title": "Don't, *Ever*",
       "items": [
         "~\"No comment\"",
         "~Deleting critical comments",
@@ -99,7 +99,7 @@
     },
     {
       "t": "cta",
-      "title": "speak first, *with facts*. it's worked since 1906.",
+      "title": "Speak First, *With Facts*. It's Worked Since 1906.",
       "items": [
         "Save this playbook",
         "Share it with your management team",

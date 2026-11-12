@@ -39,8 +39,8 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "fun fact",
-      "title": "thông cáo báo chí *đầu tiên* ra đời từ một vụ tai nạn tàu hoả",
+      "tag": "Fun fact",
+      "title": "Thông cáo báo chí *đầu tiên* ra đời từ một vụ tai nạn tàu hoả",
       "size": 118,
       "icons": [
         "train",
@@ -59,7 +59,7 @@
     {
       "t": "point",
       "icon": "mega",
-      "title": "ivy lee chọn *lên tiếng trước*",
+      "title": "Ivy Lee chọn *lên tiếng trước*",
       "body": "Chuyên gia quan hệ công chúng Ivy Lee soạn tuyên bố chính thức của công ty, gửi cho phóng viên và đưa họ tới hiện trường.",
       "src": "Billy Penn (2023); Museum of Public Relations"
     },
@@ -73,7 +73,7 @@
     },
     {
       "t": "list",
-      "title": "bài học *vẫn đúng* sau 120 năm",
+      "title": "Bài học *vẫn đúng* sau 120 năm",
       "items": [
         "!Lên tiếng trước, trước khi người khác kể câu chuyện thay bạn",
         "!Sự thật mạnh hơn lời khẳng định",
@@ -82,7 +82,7 @@
     },
     {
       "t": "cta",
-      "title": "sinh ra từ *khủng hoảng*. giờ dùng để *phát triển*.",
+      "title": "Sinh ra từ *khủng hoảng*. Giờ dùng để *phát triển*.",
       "items": [
         "Lưu lại làm tài liệu đào tạo",
         "Tag đồng nghiệp mê lịch sử PR"

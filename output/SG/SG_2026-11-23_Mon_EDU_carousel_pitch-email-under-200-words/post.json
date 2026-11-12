@@ -39,9 +39,9 @@
   "slides": [
     {
       "t": "cover",
-      "tag": "pr tips",
-      "title": "a pitch email *under 200 words* that gets replies",
-      "sub": "template on slide 6"
+      "tag": "PR Tips",
+      "title": "A Pitch Email *Under 200 Words* That Gets Replies",
+      "sub": "Template on slide 6"
     },
     {
       "t": "stat",
@@ -52,7 +52,7 @@
     },
     {
       "t": "list",
-      "title": "the *4-line* structure",
+      "title": "The *4-Line* Structure",
       "items": [
         "Line 1 — why it matters to their beat or readers",
         "Line 2 — the news in one sentence (with a number)",
@@ -62,9 +62,9 @@
     },
     {
       "t": "compare",
-      "title": "subject lines: *different fates*",
+      "title": "Subject Lines: *Different Fates*",
       "left": {
-        "h": "skipped",
+        "h": "Skipped",
         "items": [
           "\"Press Release – ABC Pte Ltd\"",
           "\"URGENT!!! Important Update\"",
@@ -72,7 +72,7 @@
         ]
       },
       "right": {
-        "h": "opened",
+        "h": "Opened",
         "items": [
           "\"Data: 3 in 5 SG F&B SMEs plan price changes in Q1\"",
           "\"Spokesperson: CFO on 2027 shipping costs\"",
@@ -89,7 +89,7 @@
     },
     {
       "t": "point",
-      "title": "a template *you can use today*",
+      "title": "A Template *You Can Use Today*",
       "body": "Swap the parts in brackets.",
       "exlab": "template",
       "bsize": 36,
@@ -97,7 +97,7 @@
     },
     {
       "t": "cta",
-      "title": "short pitch, *better odds*",
+      "title": "Short Pitch, *Better Odds*",
       "items": [
         "Save this template",
         "Send it to whoever handles media relations",
