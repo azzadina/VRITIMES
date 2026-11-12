@@ -1,0 +1,126 @@
+{
+  "post_id": "sg_20261118_fun",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-11-18",
+  "day": "Wed",
+  "slot": "W1Wed",
+  "pillar": "FUN",
+  "format": "carousel",
+  "grid_tile": "b",
+  "slug": "first-press-release-1906",
+  "title": "The first press release came out of a train crash",
+  "hook": "The world's first press release was born from… a train crash. 🚆",
+  "cta": "Share with someone in PR",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "20:00 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261118_fun",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261118_fun",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261118_fun"
+  },
+  "sources": [
+    {
+      "name": "Billy Penn / Museum of Public Relations",
+      "title": "Ivy Lee, the 1906 Atlantic City train wreck and the first press release",
+      "year": 2023,
+      "url": "https://billypenn.com/2023/11/05/ivy-lee-jersey-shore-train-crash-press-release/",
+      "short": "Billy Penn (2023); Museum of Public Relations"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "the *first* press release came out of a train crash",
+      "icons": [
+        "train",
+        "news",
+        "mega"
+      ],
+      "art": "frames"
+    },
+    {
+      "t": "point",
+      "icon": "train",
+      "title": "28 october *1906*",
+      "body": "A train run by a Pennsylvania Railroad subsidiary plunged off a bridge in Atlantic City, USA. Railways then usually **kept reporters away** and said little about the cause.",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "point",
+      "icon": "mega",
+      "title": "ivy lee chose to *speak first*",
+      "body": "Publicist Ivy Lee wrote the company's own statement, handed it to reporters and gave them access to the site.",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "stat",
+      "big": "30.10.1906",
+      "bsize": 170,
+      "label": "The New York Times printed it *word for word*",
+      "body": "That statement is often called the first press release of modern public relations.",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "list",
+      "title": "lessons that *still work* 120 years later",
+      "items": [
+        "!Speak first, before someone else frames your story",
+        "!Facts beat claims",
+        "!Make the journalist's job easier: access, data, sources"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "the press release was born in a *crisis*. now it's built for *growth*.",
+      "items": [
+        "Save it for your next team training",
+        "Tag a colleague who loves PR history"
+      ],
+      "sources": [
+        "Billy Penn, 2023",
+        "Museum of Public Relations"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "The world's first press release was born from… a train crash. 🚆",
+    "lines": [
+      "28 October 1906, Atlantic City (USA).",
+      "Railways usually stayed silent and kept reporters out.",
+      "",
+      "Ivy Lee wrote an official statement and handed it to the press instead.",
+      "The New York Times printed it word for word on 30 October 1906.",
+      "",
+      "Still true today: speak first, use facts, make reporters' jobs easier."
+    ],
+    "li_hook": "The release often called the first ever didn't announce a product. It came out of a crisis.\nThe lessons still apply to businesses today.",
+    "li_body": [
+      "In October 1906, a train run by a Pennsylvania Railroad subsidiary came off a bridge in Atlantic City. The industry norm was to restrict access and say nothing.",
+      "Ivy Lee did the opposite. He drafted an official statement, shared it with reporters and gave them access to the site. The New York Times ran it word for word on 30 October 1906.",
+      "Three principles from that day we still see working:"
+    ],
+    "li_points": [
+      "Whoever speaks first with facts frames the story.",
+      "A statement that can be quoted as is gets used more than a claim.",
+      "Access and convenience for journalists are part of the strategy, not a bonus."
+    ],
+    "li_close": "Which of these do brands break most often in a crisis?",
+    "fb": "A fun fact for marketing and PR teams: the first press release appeared in 1906, after a train crash. The story is in this carousel 👇"
+  },
+  "tags": [
+    "#PRhistory",
+    "#FunFact"
+  ],
+  "price_status": null
+}

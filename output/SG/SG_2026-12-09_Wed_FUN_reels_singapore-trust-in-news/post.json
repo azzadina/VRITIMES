@@ -1,0 +1,128 @@
+{
+  "post_id": "sg_20261209_fun",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-12-09",
+  "day": "Wed",
+  "slot": "W4Wed",
+  "pillar": "FUN",
+  "format": "reel",
+  "grid_tile": "b",
+  "slug": "singapore-trust-in-news",
+  "title": "How much does Singapore trust the news?",
+  "hook": "45% of Singaporeans trust most news most of the time. That's high for the region. 📰",
+  "cta": "Share with your comms team",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "20:00 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261209_fun",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261209_fun",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261209_fun"
+  },
+  "sources": [
+    {
+      "name": "Reuters Institute",
+      "title": "Digital News Report 2025",
+      "year": 2025,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf",
+      "short": "Reuters Institute, Digital News Report 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "how much does singapore *trust the news*?"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "fun fact",
+        "text": "how much does singapore *trust the news*?",
+        "icon": "eye",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "*45%* trust most news most of the time",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "only thailand ranks higher among our markets: *55%*",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "australia *43%* · philippines *38%* · malaysia *37%* · indonesia *36%*",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 4.0,
+        "theme": "blue"
+      },
+      {
+        "text": "higher trust = *earned coverage* carries real weight here",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "be the story *worth publishing*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "How much does Singapore trust the news?",
+      "Forty-five percent trust most news most of the time.",
+      "Among our markets, only Thailand ranks higher, at fifty-five.",
+      "Australia forty-three, the Philippines thirty-eight, Malaysia thirty-seven, Indonesia thirty-six.",
+      "Higher trust means earned coverage carries real weight here.",
+      "Be the story worth publishing."
+    ],
+    "broll": [
+      "Animated bar chart of six markets (from text cards)",
+      "Commuter reading news on phone (internal talent, no identifiable public)",
+      "Close-up of a newspaper business section (own photo)"
+    ],
+    "audio": "Upbeat \"fact reveal\" beat from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "45% of Singaporeans trust most news most of the time. That's high for the region. 📰",
+    "lines": [
+      "Reuters Institute Digital News Report 2025, trust in news:",
+      "🇹🇭 55% · 🇸🇬 45% · 🇦🇺 43%",
+      "🇵🇭 38% · 🇲🇾 37% · 🇮🇩 36%",
+      "",
+      "Higher trust means earned media coverage carries real weight.",
+      "Worth getting right."
+    ],
+    "li_hook": "Trust in news in Singapore is 45%, the second highest of the six Asia-Pacific markets we work in, according to the Reuters Institute Digital News Report 2025.\nThat makes earned coverage especially valuable.",
+    "li_body": [
+      "For comparison: Thailand 55%, Australia 43%, the Philippines 38%, Malaysia 37% and Indonesia 36%.",
+      "When audiences trust established media, being covered by it lends credibility that paid placements rarely match. Practical implications:"
+    ],
+    "li_points": [
+      "Invest in news value: data, clear impact, a named spokesperson.",
+      "Target the outlets your customers actually read.",
+      "Reuse coverage in sales decks, newsletters and social, with links to the source."
+    ],
+    "li_close": "How does your team put earned coverage to work after it is published?",
+    "fb": "Fun fact: 45% of Singaporeans trust most news most of the time. See how that compares with the region 👀"
+  },
+  "tags": [
+    "#MediaSG",
+    "#FunFact"
+  ],
+  "price_status": null
+}

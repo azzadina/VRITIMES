@@ -1,0 +1,127 @@
+{
+  "post_id": "vn_20261118_fun",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-11-18",
+  "day": "Wed",
+  "slot": "W1Wed",
+  "pillar": "FUN",
+  "format": "carousel",
+  "grid_tile": "b",
+  "slug": "thong-cao-bao-chi-dau-tien-1906",
+  "title": "Thông cáo báo chí đầu tiên ra đời từ một vụ tai nạn tàu hoả",
+  "hook": "Thông cáo báo chí đầu tiên trên thế giới ra đời từ… một vụ tai nạn tàu hoả. 🚆",
+  "cta": "Chia sẻ cho bạn bè làm PR",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "20:00 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261118_fun",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261118_fun",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261118_fun"
+  },
+  "sources": [
+    {
+      "name": "Billy Penn / Museum of Public Relations",
+      "title": "Ivy Lee, the 1906 Atlantic City train wreck and the first press release",
+      "year": 2023,
+      "url": "https://billypenn.com/2023/11/05/ivy-lee-jersey-shore-train-crash-press-release/",
+      "short": "Billy Penn (2023); Museum of Public Relations"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "thông cáo báo chí *đầu tiên* ra đời từ một vụ tai nạn tàu hoả",
+      "size": 118,
+      "icons": [
+        "train",
+        "news",
+        "mega"
+      ],
+      "art": "frames"
+    },
+    {
+      "t": "point",
+      "icon": "train",
+      "title": "28 tháng 10 *1906*",
+      "body": "Một đoàn tàu thuộc công ty con của Pennsylvania Railroad lao khỏi cầu ở Atlantic City, Mỹ. Thời đó, các hãng đường sắt thường **ngăn nhà báo tiếp cận** và im lặng về nguyên nhân.",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "point",
+      "icon": "mega",
+      "title": "ivy lee chọn *lên tiếng trước*",
+      "body": "Chuyên gia quan hệ công chúng Ivy Lee soạn tuyên bố chính thức của công ty, gửi cho phóng viên và đưa họ tới hiện trường.",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "stat",
+      "big": "30.10.1906",
+      "bsize": 150,
+      "label": "The New York Times đăng *nguyên văn*",
+      "body": "Tuyên bố này thường được gọi là thông cáo báo chí đầu tiên của ngành PR hiện đại.",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "list",
+      "title": "bài học *vẫn đúng* sau 120 năm",
+      "items": [
+        "!Lên tiếng trước, trước khi người khác kể câu chuyện thay bạn",
+        "!Sự thật mạnh hơn lời khẳng định",
+        "!Giúp nhà báo làm việc dễ hơn: tiếp cận, số liệu, nguồn tin"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "sinh ra từ *khủng hoảng*. giờ dùng để *phát triển*.",
+      "items": [
+        "Lưu lại làm tài liệu đào tạo",
+        "Tag đồng nghiệp mê lịch sử PR"
+      ],
+      "sources": [
+        "Billy Penn, 2023",
+        "Museum of Public Relations"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Thông cáo báo chí đầu tiên trên thế giới ra đời từ… một vụ tai nạn tàu hoả. 🚆",
+    "lines": [
+      "28/10/1906, Atlantic City (Mỹ).",
+      "Các hãng đường sắt khi đó thường im lặng và đuổi phóng viên đi.",
+      "",
+      "Ivy Lee lại soạn tuyên bố chính thức và gửi cho báo chí.",
+      "The New York Times đăng nguyên văn vào ngày 30/10/1906.",
+      "",
+      "Bài học vẫn đúng: lên tiếng trước, dùng sự thật, giúp nhà báo làm việc dễ hơn."
+    ],
+    "li_hook": "Bản thông cáo thường được gọi là đầu tiên trong lịch sử không công bố sản phẩm mới. Nó ra đời từ một cuộc khủng hoảng.\nVà bài học vẫn áp dụng được cho doanh nghiệp hôm nay.",
+    "li_body": [
+      "Tháng 10/1906, một đoàn tàu của công ty con thuộc Pennsylvania Railroad lao khỏi cầu ở Atlantic City. Thông lệ của ngành lúc đó là hạn chế tiếp cận và không bình luận.",
+      "Ivy Lee làm điều ngược lại. Ông soạn tuyên bố chính thức, chia sẻ với phóng viên và cho họ tới hiện trường. The New York Times đăng nguyên văn tuyên bố vào ngày 30/10/1906.",
+      "Ba nguyên tắc từ sự kiện đó vẫn hiệu quả đến nay:"
+    ],
+    "li_points": [
+      "Ai lên tiếng trước bằng sự thật, người đó định hình câu chuyện.",
+      "Một tuyên bố có thể trích dẫn nguyên văn được dùng nhiều hơn một lời khẳng định.",
+      "Sự thuận tiện cho nhà báo là một phần chiến lược, không phải phần thưởng thêm."
+    ],
+    "li_close": "Theo bạn, thương hiệu hay vi phạm nguyên tắc nào nhất khi gặp khủng hoảng?",
+    "fb": "Một sự thật thú vị cho dân marketing và PR: thông cáo báo chí đầu tiên xuất hiện năm 1906, sau một vụ tai nạn tàu hoả. Câu chuyện có trong carousel này 👇"
+  },
+  "tags": [
+    "#lichsuPR",
+    "#FunFact"
+  ],
+  "price_status": null
+}

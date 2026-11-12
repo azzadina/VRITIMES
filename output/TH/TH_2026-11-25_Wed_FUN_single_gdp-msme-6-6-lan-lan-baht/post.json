@@ -1,0 +1,83 @@
+{
+  "post_id": "th_20261125_fun",
+  "country": "TH",
+  "language": "th",
+  "date": "2026-11-25",
+  "day": "Wed",
+  "slot": "W2Wed",
+  "pillar": "FUN",
+  "format": "single",
+  "grid_tile": "c",
+  "slug": "gdp-msme-6-6-lan-lan-baht",
+  "title": "GDP ของ MSME ไทยปี 2568 สูงถึง 6.61 ล้านล้านบาท",
+  "hook": "MSME ไทยสร้าง GDP 6.61 ล้านล้านบาทในปี 2568 แต่มีกี่รายที่ได้ออกข่าว? 🤔",
+  "cta": "แท็กเจ้าของ SME ที่เรื่องราวควรได้ออกสื่อ",
+  "times": {
+    "linkedin": "08:30 น.",
+    "instagram_facebook": "20:00 น."
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/th?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261125_fun",
+    "facebook": "https://www.vritimes.com/th?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261125_fun",
+    "linkedin": "https://www.vritimes.com/th?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261125_fun"
+  },
+  "sources": [
+    {
+      "name": "ฐานเศรษฐกิจ (อ้างอิง สสว.)",
+      "title": "สสว. เผย GDP MSME ปี 2568",
+      "year": 2026,
+      "url": "https://www.thansettakij.com/economy/668484",
+      "short": "สสว. ผ่านฐานเศรษฐกิจ (2569)"
+    },
+    {
+      "name": "สสว. (OSMEP)",
+      "title": "รายงานสถานการณ์ MSME ปี 2566",
+      "year": 2023,
+      "url": "https://old.sme.go.th/upload/mod_download/download-20230904173524.pdf",
+      "short": "สสว., รายงานสถานการณ์ MSME 2566"
+    }
+  ],
+  "slides": [
+    {
+      "t": "single_stat",
+      "tag": "fun fact",
+      "pre": "GDP ของ MSME ไทย ปี 2568",
+      "big": "6.61",
+      "bsize": 300,
+      "label": "*ล้านล้านบาท*",
+      "body": "ขยายตัว **2.4%** (ปี 2565 MSME คิดเป็น **35.2%** ของ GDP) เรื่องราวมีอยู่ทุกที่ แต่ได้ออกข่าวน้อยมาก",
+      "sub": "มีเรื่องเล่า? เขียนเป็นข่าว",
+      "src": "สสว. ผ่านฐานเศรษฐกิจ (2569); สสว. 2566"
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "MSME ไทยสร้าง GDP 6.61 ล้านล้านบาทในปี 2568 แต่มีกี่รายที่ได้ออกข่าว? 🤔",
+    "lines": [
+      "ข้อมูลจาก สสว.:",
+      "• GDP ของ MSME ปี 2568 = 6,606,631 ล้านบาท ขยายตัว 2.4%",
+      "• MSME คิดเป็น 35.2% ของ GDP (ปี 2565)",
+      "",
+      "เปิดสาขาใหม่ ส่งออกครั้งแรก รับพนักงานเพิ่ม 50 คน: ทั้งหมดนี้คือข่าว",
+      "แค่ยังไม่ค่อยถูกเขียนในรูปแบบที่กองบรรณาธิการใช้ได้"
+    ],
+    "li_hook": "MSME ไทยสร้าง GDP 6.61 ล้านล้านบาทในปี 2568 และคิดเป็นราวหนึ่งในสามของเศรษฐกิจ\nแต่สัดส่วนบนหน้าข่าวธุรกิจยังน้อยกว่านั้นมาก",
+    "li_body": [
+      "ตัวเลขจาก สสว. มักถูกใช้ในบริบทนโยบาย เรามองอีกมุมหนึ่ง: มีเรื่องราวทางธุรกิจจำนวนมากที่ไปไม่ถึงนักข่าว",
+      "ไม่ใช่เพราะไม่มีคุณค่าข่าว แต่เพราะไม่ได้ถูกเล่าในรูปแบบข่าว การเปิดสาขาที่สาม สัญญาส่งออกครั้งแรก หรือการรับพนักงานจำนวนมาก คือข่าวท้องถิ่นที่ดีเมื่อมีตัวเลขชัดและคำพูดที่อ้างอิงได้"
+    ],
+    "li_close": "ถ้าคุณเป็นเจ้าของ SME เรื่องไหนจากปีนี้ที่สาธารณะควรได้รู้?",
+    "fb": "รู้หรือไม่: MSME ไทยสร้าง GDP กว่า 6.6 ล้านล้านบาทในปี 2568 ถ้าธุรกิจของคุณเป็นหนึ่งในนั้น เรื่องราวของคุณก็ควรได้ออกสื่อ 💙"
+  },
+  "tags": [
+    "#SMEไทย",
+    "#FunFact"
+  ],
+  "price_status": null
+}

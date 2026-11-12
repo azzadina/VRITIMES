@@ -1,0 +1,84 @@
+{
+  "post_id": "au_20261211_promo",
+  "country": "AU",
+  "language": "en",
+  "date": "2026-12-11",
+  "day": "Fri",
+  "slot": "W4Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "a",
+  "slug": "publish-before-christmas-shutdown",
+  "title": "Get your news out before the Christmas shutdown",
+  "hook": "The Christmas shutdown is a week away. Is your news out yet?",
+  "cta": "Check current pricing via the link",
+  "times": {
+    "linkedin": "08:00 AEDT",
+    "instagram_facebook": "12:00 AEDT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/au?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261211_promo",
+    "facebook": "https://www.vritimes.com/au?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261211_promo",
+    "linkedin": "https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261211_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (AU) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/au/service/pricing",
+      "short": "vritimes.com/au/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "before the shutdown",
+      "title": "year-end news? *get it out* before the shutdown",
+      "items": [
+        "Published before newsrooms wind down for Christmas",
+        "Backlink to your launch or product page",
+        "Distribution report to review the campaign"
+      ],
+      "price": "starts from — see link",
+      "src": "vritimes.com/au/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "The Christmas shutdown is a week away. Is your news out yet?",
+    "lines": [
+      "Get in before newsrooms wind down:",
+      "✓ Published before the shutdown",
+      "✓ Backlink to your launch/product page",
+      "✓ Distribution report to review results",
+      "",
+      "Current plans & pricing: link in bio."
+    ],
+    "ig_cta": "Check current plans & pricing via the link in bio.",
+    "li_hook": "Announcements that land during the Christmas shutdown tend to disappear.\nIf it matters, publish before it.",
+    "li_body": [
+      "From mid-December, many Australian newsrooms run skeleton crews until mid-January. Releases that land before the wind-down have a better chance of being picked up and shared.",
+      "What you can do this week with VRITIMES:"
+    ],
+    "li_points": [
+      "Distribute your year-end results, holiday trading news or a January announcement with guaranteed media placement (count depends on plan).",
+      "Point the backlink to your launch or product page.",
+      "Use the distribution report to review results and plan Q1."
+    ],
+    "li_close": "Current plans and pricing are on our official page.",
+    "fb": "Don't let your news land after everyone's gone to the beach. See VRITIMES plans here."
+  },
+  "tags": [
+    "#AusBiz",
+    "#SmallBusinessAustralia"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

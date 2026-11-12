@@ -1,0 +1,19 @@
+A small habit that stops good releases being read: sending them as PDF attachments.
+It sounds trivial. The impact isn't.
+
+Muck Rack's State of Journalism 2025 found 69% of journalists prefer pitches under 200 words. Journalists want to decide quickly, without extra steps.
+A PDF attachment adds three of them: download, open, copy. Pair it with a generic subject line and the odds of being read drop sharply.
+
+1. Paste the release text straight into the email body.
+2. Use the release headline as the subject line.
+3. Share photos and supporting documents by link.
+4. If you use a distribution platform, make sure the release lives on a web page that can be accessed and quoted.
+
+Does your organisation still insist on PDFs because they look "more official"? Tell us below.
+
+More on VRITIMES: https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261120_viral
+
+#VRITIMES #PRlife #PressRelease #SingaporeSME #PressReleaseSG
+
+Sources:
+• Muck Rack, State of Journalism 2025 — https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs

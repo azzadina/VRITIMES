@@ -1,0 +1,155 @@
+{
+  "post_id": "sg_20261204_edu",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-12-04",
+  "day": "Fri",
+  "slot": "W3Fri",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "measuring-pr-ave-is-dead",
+  "title": "Measuring PR: AVE is dead, here is what to report instead",
+  "hook": "Still reporting PR in AVE? The industry standard says stop. 📉",
+  "cta": "Save for your next PR report",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "12:30 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261204_edu",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261204_edu",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261204_edu"
+  },
+  "sources": [
+    {
+      "name": "AMEC (via CARMA)",
+      "title": "Barcelona Principles 3.0",
+      "year": 2020,
+      "url": "https://carma.com/tms/barcelona-principles-get-a-facelift/",
+      "short": "AMEC, Barcelona Principles 3.0 (2020)"
+    },
+    {
+      "name": "AMEC",
+      "title": "Barcelona Principles 4.0 launch presentation",
+      "year": 2025,
+      "url": "https://www.observer.at/wp-content/uploads/2025/06/AMEC-Barcelona-Principles-4.0-Launch-Presentation-Final.pdf",
+      "short": "AMEC, Barcelona Principles 4.0 (2025)"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "pr measurement",
+      "title": "AVE is dead. *report this* instead.",
+      "sub": "your boss will thank you",
+      "icons": [
+        "chart",
+        "eye",
+        "shield"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "AVE?",
+      "title": "advertising value *equivalency*",
+      "body": "\"This article would have cost $X as an ad.\" Easy to calculate, easy to inflate, and it says nothing about whether anyone changed their mind or bought anything."
+    },
+    {
+      "t": "quote",
+      "text": "\"AVEs are not the value of *communication*.\"",
+      "size": 96,
+      "by": "— AMEC, Barcelona Principles 3.0 (2020)",
+      "src": "AMEC, Barcelona Principles 3.0 (2020)"
+    },
+    {
+      "t": "point",
+      "n": "4.0",
+      "title": "the 2025 update is *blunter*",
+      "body": "AMEC's Barcelona Principles 4.0 say invalid measures such as AVEs **should not be used**. Measure outcomes and impact, not just outputs.",
+      "src": "AMEC, Barcelona Principles 4.0 (2025)"
+    },
+    {
+      "t": "compare",
+      "title": "outputs vs *outcomes*",
+      "left": {
+        "h": "outputs",
+        "items": [
+          "Number of articles",
+          "Potential reach",
+          "AVE (don't)"
+        ]
+      },
+      "right": {
+        "h": "outcomes",
+        "items": [
+          "Tier-1 & target-audience coverage",
+          "Key message pick-up rate",
+          "Referral visits, sign-ups, enquiries"
+        ]
+      }
+    },
+    {
+      "t": "list",
+      "title": "a *one-page* PR report",
+      "items": [
+        "Objective set before the release",
+        "Coverage by quality, not just count",
+        "Did our key message appear?",
+        "What audiences did next (traffic, leads)",
+        "What we will change next time"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "measure what *matters*",
+      "items": [
+        "Save this report template",
+        "Share with whoever signs off your PR budget"
+      ],
+      "sources": [
+        "AMEC, Barcelona Principles 3.0 (2020)",
+        "AMEC, Barcelona Principles 4.0 (2025)"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Still reporting PR in AVE? The industry standard says stop. 📉",
+    "lines": [
+      "AMEC's Barcelona Principles 3.0: \"AVEs are not the value of communication.\"",
+      "4.0 (2025): invalid measures such as AVEs should not be used.",
+      "",
+      "Report this instead:",
+      "✓ Coverage quality, not just count",
+      "✓ Key message pick-up",
+      "✓ What audiences did next: visits, sign-ups, enquiries",
+      "✓ What you'll change next time"
+    ],
+    "li_hook": "If your PR report leads with advertising value equivalency, it is measuring the wrong thing.\nThe industry framework has said so for years, and more bluntly in 2025.",
+    "li_body": [
+      "AMEC's Barcelona Principles 3.0 (2020) state that \"AVEs are not the value of communication\". The 2025 update, Barcelona Principles 4.0, goes further: invalid measures such as AVEs should not be used.",
+      "A one-page report we recommend for SME and start-up teams:"
+    ],
+    "li_points": [
+      "The objective, agreed before the release went out.",
+      "Coverage by quality: target audience and tier, not just article count.",
+      "Key message pick-up: did the point you wanted actually appear?",
+      "Outcomes: referral visits, sign-ups, enquiries.",
+      "One thing you will change next time."
+    ],
+    "li_close": "What does your management actually ask for in a PR report?",
+    "fb": "Your PR report probably doesn't need AVE. Here's a simpler one-page version that shows real value 👇"
+  },
+  "tags": [
+    "#PRmeasurement",
+    "#PRtips"
+  ],
+  "price_status": null
+}

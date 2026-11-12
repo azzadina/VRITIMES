@@ -1,0 +1,134 @@
+{
+  "post_id": "id_20261202_viral",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-12-02",
+  "day": "Wed",
+  "slot": "W3Wed",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "rating-cara-umkm-masuk-media",
+  "title": "Rating cara UMKM masuk media",
+  "hook": "Rating cara UMKM supaya masuk media (jujur, no offense 😅)",
+  "cta": "Komentar: kamu pernah coba yang mana?",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "19:30 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261202_viral",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261202_viral",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261202_viral"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Service page (ID)",
+      "year": 2026,
+      "url": "https://www.vritimes.com/id/service",
+      "short": "vritimes.com/id/service"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "rating",
+      "title": "rating cara UMKM *masuk media*",
+      "sub": "jujur aja"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "rating",
+        "text": "cara UMKM *masuk media*",
+        "sub": "jujur aja ya",
+        "dur": 2.5,
+        "theme": "blue"
+      },
+      {
+        "text": "DM akun berita:\n\"kak, bisa diliput?\"",
+        "sub": "2/10 — sering cuma di-read",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "kirim ke 300 email sekaligus, *CC terbuka*",
+        "sub": "0/10 — please jangan",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "nunggu viral dulu, *baru* cari media",
+        "sub": "4/10 — viral nggak bisa dijadwalkan",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "rilis yang ada *beritanya* + pitch ke jurnalis yang relevan",
+        "sub": "9/10 — kerja, butuh konsistensi",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "rilis + distribusi + laporan *di satu tempat*",
+        "sub": "10/10 — ini sih kami 😉",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "Rating cara UMKM masuk media. Jujur aja ya.",
+      "DM akun berita, kak bisa diliput? Dua dari sepuluh.",
+      "Kirim ke tiga ratus email, CC terbuka. Nol.",
+      "Nunggu viral dulu baru cari media. Empat.",
+      "Rilis yang ada beritanya plus pitch yang relevan. Sembilan.",
+      "Rilis, distribusi, laporan di satu tempat. Sepuluh."
+    ],
+    "broll": [
+      "Talent internal memegang kartu skor (props kertas biru/lime)",
+      "Screen mock DM (tanpa akun asli)",
+      "Mock inbox dengan CC panjang (nama fiktif/blur)",
+      "Dashboard VRITIMES (screen recording akun demo)"
+    ],
+    "audio": "Trending \"rating/ranking\" beat atau drum roll dari pustaka audio berlisensi platform"
+  },
+  "captions_meta": {
+    "hook": "Rating cara UMKM supaya masuk media (jujur, no offense 😅)",
+    "lines": [
+      "DM akun berita → 2/10",
+      "Email massal, CC terbuka → 0/10",
+      "Nunggu viral dulu → 4/10",
+      "Rilis berisi berita + pitch relevan → 9/10",
+      "Rilis + distribusi + laporan di satu tempat → 10/10",
+      "",
+      "Kamu pernah coba yang mana? Komentar di bawah 👇"
+    ],
+    "ig_cta": "Tag teman yang masih CC-in 300 email 😆 Link di bio.",
+    "li_hook": "Kami me-rating cara yang paling sering dicoba UMKM untuk masuk media.\nVersi serius dari video ringan ini ada di bawah.",
+    "li_body": [
+      "Polanya konsisten: yang berhasil bukan yang paling ramai dikirim, tetapi yang paling jelas beritanya dan paling tepat sasarannya."
+    ],
+    "li_points": [
+      "DM ke akun berita jarang berhasil karena tidak sampai ke meja redaksi yang tepat.",
+      "Email massal dengan CC terbuka merusak kepercayaan sekaligus melanggar privasi kontak.",
+      "Menunggu viral berarti menyerahkan narasi ke algoritma.",
+      "Rilis yang memuat berita nyata, ditambah pitch ke jurnalis di rubrik yang relevan, adalah cara yang bisa diulang.",
+      "Distribusi dengan laporan membuat hasilnya bisa diukur dan dievaluasi."
+    ],
+    "li_close": "Cara apa yang paling efektif menurut pengalaman Anda?",
+    "fb": "Kami rating cara-cara UMKM supaya masuk media. Kamu tim yang mana? 😄"
+  },
+  "tags": [
+    "#UMKM",
+    "#PRlife"
+  ],
+  "price_status": null
+}

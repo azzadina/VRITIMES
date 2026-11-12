@@ -1,0 +1,131 @@
+{
+  "post_id": "my_20261120_viral",
+  "country": "MY",
+  "language": "en",
+  "date": "2026-11-20",
+  "day": "Fri",
+  "slot": "W1Fri",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "pov-press-release-pdf-attachment",
+  "title": "POV: you sent your press release as a PDF attachment",
+  "hook": "POV: you sent your press release as a PDF attachment 📎😶",
+  "cta": "Send to the team still using PDFs",
+  "times": {
+    "linkedin": "08:30 MYT",
+    "instagram_facebook": "20:30 MYT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/my?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_my_202611&utm_content=my_20261120_viral",
+    "facebook": "https://www.vritimes.com/my?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_my_202611&utm_content=my_20261120_viral",
+    "linkedin": "https://www.vritimes.com/my?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_my_202611&utm_content=my_20261120_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "POV",
+      "title": "you sent your press release as a *PDF attachment*"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "POV",
+        "text": "you sent your press release as a *PDF attachment*",
+        "icon": "pdf",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "subject line:\n*\"Press Release\"*",
+        "sub": "…along with hundreds of other emails today",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "the journalist has to download, open and *copy-paste* it",
+        "sub": "(if they get to it)",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "meanwhile *69%* of journalists prefer pitches under 200 words",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "better: *text in the email body*, headline as subject, photo link ready",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "so your release meets *the media*, not *the archive folder*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "POV: you sent your press release as a PDF attachment.",
+      "The subject line just says \"Press Release\".",
+      "The journalist has to download it, open it and copy-paste it.",
+      "Meanwhile sixty-nine percent of journalists prefer pitches under two hundred words.",
+      "Put the text in the email body, use the headline as the subject, share photos by link.",
+      "So your release meets the media, not the archive."
+    ],
+    "broll": [
+      "Close-up of a laptop inbox full of emails (mock-up, no real names or addresses)",
+      "Clicking a PDF attachment, slow loading (mock screen recording)",
+      "Team member reaction shot (internal talent) — the \"hmm\" face",
+      "The better email version on screen (internal template)"
+    ],
+    "audio": "Trending comedic \"awkward pause\" sound or upbeat lo-fi from the platform's licensed audio library"
+  },
+  "captions_meta": {
+    "hook": "POV: you sent your press release as a PDF attachment 📎😶",
+    "lines": [
+      "Download → open → copy-paste. Every extra step costs you.",
+      "69% of journalists prefer pitches under 200 words (Muck Rack, 2025).",
+      "",
+      "Do this instead:",
+      "✓ Release text in the email body",
+      "✓ Release headline = subject line",
+      "✓ Photos and documents by link"
+    ],
+    "li_hook": "A small habit that stops good releases being read: sending them as PDF attachments.\nIt sounds trivial. The impact isn't.",
+    "li_body": [
+      "Muck Rack's State of Journalism 2025 found 69% of journalists prefer pitches under 200 words. Journalists want to decide quickly, without extra steps.",
+      "A PDF attachment adds three of them: download, open, copy. Pair it with a generic subject line and the odds of being read drop sharply."
+    ],
+    "li_points": [
+      "Paste the release text straight into the email body.",
+      "Use the release headline as the subject line.",
+      "Share photos and supporting documents by link.",
+      "If you use a distribution platform, make sure the release lives on a web page that can be accessed and quoted."
+    ],
+    "li_close": "Does your organisation still insist on PDFs because they look \"more official\"? Tell us below.",
+    "fb": "Who still sends press releases as PDF attachments? 😅 Watch to the end for a version journalists actually prefer."
+  },
+  "tags": [
+    "#PRlife",
+    "#PressRelease"
+  ],
+  "price_status": null
+}

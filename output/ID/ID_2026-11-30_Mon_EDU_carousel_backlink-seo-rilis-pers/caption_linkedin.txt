@@ -1,0 +1,20 @@
+"Kirim rilis pers biar dapat backlink" adalah strategi yang Google sebut secara spesifik di kebijakan spamnya.
+Berikut cara memakai rilis pers untuk SEO tanpa risiko.
+
+Di dokumentasi Spam policies, Google Search Central memasukkan tautan dengan anchor text yang dioptimasi di artikel, guest post, atau rilis pers yang disebar ke situs lain sebagai contoh link spam. Google juga meminta tautan berbayar atau penempatan ditandai rel="sponsored" atau nofollow.
+Apakah rilis pers lalu tidak berguna untuk SEO? Justru sebaliknya, asal ukurannya tepat:
+
+1. Trafik rujukan dari pembaca yang mengklik.
+2. Penyebutan brand di situs berita yang memperkuat pengenalan entitas Anda.
+3. Liputan organik dari jurnalis yang menemukan rilis dan menulis versinya sendiri. Di sinilah nilai SEO terbesar.
+4. Praktik aman: anchor berupa nama brand/URL, satu link utama, dan berita yang benar-benar layak dikutip.
+
+Bagaimana tim Anda mengukur dampak rilis terhadap SEO saat ini?
+
+Pelajari VRITIMES: https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261130_edu
+
+#VRITIMES #SEO #DigitalPR #RilisPers #UMKM
+
+Sumber:
+• Google Search Central, Spam policies — https://developers.google.com/search/docs/essentials/spam-policies
+• Google Search Central, Qualify outbound links — https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links

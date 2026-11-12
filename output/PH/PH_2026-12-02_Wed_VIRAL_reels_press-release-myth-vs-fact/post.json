@@ -1,0 +1,166 @@
+{
+  "post_id": "ph_20261202_viral",
+  "country": "PH",
+  "language": "en",
+  "date": "2026-12-02",
+  "day": "Wed",
+  "slot": "W3Wed",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "press-release-myth-vs-fact",
+  "title": "Press release myth vs fact",
+  "hook": "\"Press releases are dead na daw.\" Let's fact-check that. 🔍",
+  "cta": "Comment the myth you used to believe",
+  "times": {
+    "linkedin": "08:30 PHT",
+    "instagram_facebook": "20:00 PHT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/ph?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261202_viral",
+    "facebook": "https://www.vritimes.com/ph?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261202_viral",
+    "linkedin": "https://www.vritimes.com/ph?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261202_viral"
+  },
+  "sources": [
+    {
+      "name": "Cision",
+      "title": "2025 State of the Media Report (press release, 7 May 2025)",
+      "year": 2025,
+      "url": "https://www.cision.com/about/press-releases/2025-press-releases/cisions-2025-state-of-the-media-report-reveals-a-tipping-point-for-trust-technology-and-pr-journalist-partnerships-302448410/",
+      "short": "Cision, State of the Media 2025"
+    },
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    },
+    {
+      "name": "Google Search Central",
+      "title": "Spam policies for Google web search (link spam)",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "short": "Google Search Central, Spam policies"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "myth vs fact",
+      "title": "\"press releases are *dead* na daw\""
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "myth vs fact",
+        "text": "\"press releases are *dead* na daw\"",
+        "dur": 2.5,
+        "theme": "navy"
+      },
+      {
+        "top": "fact",
+        "text": "*72%* of journalists call them the most useful thing PR sends",
+        "src": "Cision, State of the Media 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "top": "myth",
+        "text": "\"longer pitch = more *serious*\"",
+        "dur": 2.5,
+        "theme": "blue"
+      },
+      {
+        "top": "fact",
+        "text": "*69%* prefer pitches under 200 words",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "top": "myth",
+        "text": "\"follow up *araw-araw* para sure\"",
+        "dur": 2.5,
+        "theme": "pale"
+      },
+      {
+        "top": "fact",
+        "text": "*50%* say one follow-up is ideal",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "top": "myth",
+        "text": "\"releases = easy SEO *backlinks*\"",
+        "dur": 2.5,
+        "theme": "navy"
+      },
+      {
+        "top": "fact",
+        "text": "google calls optimized anchors in releases *link spam*",
+        "src": "Google Search Central, Spam policies",
+        "dur": 3.5,
+        "theme": "pale"
+      }
+    ],
+    "vo": [
+      "Press releases are dead daw?",
+      "Fact: seventy-two percent of journalists call them the most useful thing PR sends.",
+      "Longer pitch means more serious?",
+      "Fact: sixty-nine percent prefer pitches under two hundred words.",
+      "Follow up every day para sure?",
+      "Fact: half of journalists say one follow-up is ideal.",
+      "Releases are easy SEO backlinks?",
+      "Fact: Google calls optimized anchor text in releases link spam."
+    ],
+    "broll": [
+      "Team member holding \"MYTH\" / \"FACT\" paddles (blue & lime props)",
+      "Phone calendar with daily reminders being deleted (mock)",
+      "Laptop showing a short pitch email (internal template)"
+    ],
+    "audio": "Trending \"myth vs fact\" buzzer/ding sound from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "\"Press releases are dead na daw.\" Let's fact-check that. 🔍",
+    "lines": [
+      "❌ Myth: press releases are dead",
+      "✅ Fact: 72% of journalists call them the most useful thing PR sends (Cision, 2025)",
+      "",
+      "❌ Myth: longer pitch = more serious",
+      "✅ Fact: 69% prefer under 200 words (Muck Rack, 2025)",
+      "",
+      "❌ Myth: follow up araw-araw",
+      "✅ Fact: 50% say one follow-up is ideal",
+      "",
+      "❌ Myth: releases = easy SEO backlinks",
+      "✅ Fact: Google calls optimized anchor text in releases link spam"
+    ],
+    "ig_cta": "Send this to the tita who says press releases are old school 😄 Link in bio.",
+    "li_hook": "Four press release myths we still hear every week, and what the data actually says.",
+    "li_body": [
+      "Most PR habits are inherited, not tested. Here are the four we see most often, checked against current sources:"
+    ],
+    "li_points": [
+      "\"Press releases are dead.\" Cision's 2025 State of the Media found 72% of journalists call them the most useful resource PR teams provide.",
+      "\"A longer pitch looks more serious.\" Muck Rack (2025): 69% of journalists prefer pitches under 200 words.",
+      "\"Follow up daily to be sure.\" Same study: 50% say one follow-up is ideal, and 51% want it 3–7 days later.",
+      "\"Releases are an SEO shortcut.\" Google's spam policies list optimized anchor text in distributed press releases as link spam."
+    ],
+    "li_close": "Which myth was hardest to unlearn on your team?",
+    "fb": "Myth vs fact: press release edition 😄 Which one did you believe before?"
+  },
+  "tags": [
+    "#PRlife",
+    "#MarketingPH"
+  ],
+  "price_status": null
+}

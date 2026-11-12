@@ -1,0 +1,147 @@
+{
+  "post_id": "my_20261204_edu",
+  "country": "MY",
+  "language": "en",
+  "date": "2026-12-04",
+  "day": "Fri",
+  "slot": "W3Fri",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "crisis-communication-first-24-hours",
+  "title": "Crisis communication: the first 24 hours",
+  "hook": "The first 24 hours of a crisis decide the headline. Here's the playbook. ⏱️",
+  "cta": "Save this for the day you need it",
+  "times": {
+    "linkedin": "08:30 MYT",
+    "instagram_facebook": "12:30 MYT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/my?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261204_edu",
+    "facebook": "https://www.vritimes.com/my?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261204_edu",
+    "linkedin": "https://www.vritimes.com/my?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261204_edu"
+  },
+  "sources": [
+    {
+      "name": "Billy Penn / Museum of Public Relations",
+      "title": "Ivy Lee, the 1906 Atlantic City train wreck and the first press release",
+      "year": 2023,
+      "url": "https://billypenn.com/2023/11/05/ivy-lee-jersey-shore-train-crash-press-release/",
+      "short": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "name": "Reuters Institute",
+      "title": "Digital News Report 2025",
+      "year": 2025,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf",
+      "short": "Reuters Institute, Digital News Report 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "crisis comms",
+      "title": "the *first 24 hours* of a crisis",
+      "sub": "a playbook for SMEs",
+      "icons": [
+        "clock",
+        "shield",
+        "mega"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "0–1h",
+      "title": "confirm, don't *speculate*",
+      "body": "Get the facts from the people closest to the issue. Name **one spokesperson** and one approver. Everyone else stays off the record."
+    },
+    {
+      "t": "point",
+      "n": "1–3h",
+      "title": "a *holding statement*",
+      "body": "Short beats perfect. Say what you know, what you're doing and when the next update comes.",
+      "ex": "\"We are aware of (issue). Our priority is (people/customers). We are (action). We will share an update by (time) today.\""
+    },
+    {
+      "t": "point",
+      "n": "3–6h",
+      "title": "*bahasa* and english, same message",
+      "body": "In Malaysia your audience reads in more than one language. Publish the statement in BM and English at the same time, with identical facts, so no version looks like it is hiding something."
+    },
+    {
+      "t": "stat",
+      "big": "37%",
+      "label": "of malaysians trust *most news most of the time*",
+      "body": "Low trust means rumours move fast. A clear, sourced statement from you gives journalists something solid to quote.",
+      "src": "Reuters Institute, Digital News Report 2025"
+    },
+    {
+      "t": "point",
+      "n": "6–24h",
+      "title": "update on *the clock you promised*",
+      "body": "Miss your own deadline and the story becomes about silence. Update even if the update is \"investigation ongoing, next update at 10am\"."
+    },
+    {
+      "t": "list",
+      "title": "don't, *ever*",
+      "items": [
+        "~\"No comment\"",
+        "~Deleting critical comments",
+        "~Blaming a junior staffer in public",
+        "~Guessing numbers before they are confirmed"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "speak first, *with facts*. it's worked since 1906.",
+      "items": [
+        "Save this playbook",
+        "Share it with your management team",
+        "Prepare a holding statement template today"
+      ],
+      "sources": [
+        "Reuters Institute, Digital News Report 2025",
+        "Billy Penn (2023) on Ivy Lee, 1906"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "The first 24 hours of a crisis decide the headline. Here's the playbook. ⏱️",
+    "lines": [
+      "0–1h: confirm facts, name one spokesperson",
+      "1–3h: holding statement (know / doing / next update)",
+      "3–6h: BM + English, identical facts",
+      "6–24h: update exactly when you promised",
+      "",
+      "Never: \"no comment\", deleting comments, public blame, guessed numbers.",
+      "",
+      "Only 37% of Malaysians trust most news most of the time (Reuters Institute, 2025). Rumours fill silence."
+    ],
+    "li_hook": "In a crisis, the story is written in the first 24 hours, with or without you.\nA practical playbook for Malaysian SMEs.",
+    "li_body": [
+      "Reuters Institute's Digital News Report 2025 puts trust in news in Malaysia at 37%. In a low-trust environment rumours spread faster, and a clear, sourced statement becomes the thing journalists can rely on.",
+      "The timeline we recommend:"
+    ],
+    "li_points": [
+      "0–1 hour: confirm facts with the people closest to the issue. One spokesperson, one approver.",
+      "1–3 hours: a holding statement covering what you know, what you're doing and when the next update will come.",
+      "3–6 hours: publish in Bahasa Malaysia and English simultaneously with identical facts.",
+      "6–24 hours: update on the schedule you promised, even if the update is \"investigation ongoing\".",
+      "Avoid: \"no comment\", deleting criticism, blaming individuals publicly, or guessing numbers."
+    ],
+    "li_close": "Does your company have a holding statement template ready? If not, slide 3 is a start.",
+    "fb": "Hopefully you'll never need it, but save this: a 24-hour crisis communication playbook for SMEs 👇"
+  },
+  "tags": [
+    "#CrisisComms",
+    "#PRtips"
+  ],
+  "price_status": null
+}

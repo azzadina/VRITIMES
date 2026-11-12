@@ -1,0 +1,93 @@
+{
+  "post_id": "sg_20261127_promo",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-11-27",
+  "day": "Fri",
+  "slot": "W2Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "b",
+  "slug": "one-dashboard-write-distribute-report",
+  "title": "Write, distribute and see results in one dashboard",
+  "hook": "Black Friday can discount anything. Your credibility isn't on sale. 😉",
+  "cta": "See plans at vritimes.com/sg",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "12:30 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261127_promo",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261127_promo",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261127_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Service page (SG)",
+      "year": 2026,
+      "url": "https://www.vritimes.com/sg/service",
+      "short": "vritimes.com/sg/service"
+    },
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (SG) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/sg/service/pricing",
+      "short": "vritimes.com/sg/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "one dashboard",
+      "title": "write it. *send it.*\nsee what it did.",
+      "items": [
+        "Guaranteed media placement per release (count depends on plan)",
+        "Backlink + sharing on VRITIMES social channels",
+        "Post-distribution report for your boss or client"
+      ],
+      "price": "starts from — see link",
+      "src": "vritimes.com/sg/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Black Friday can discount anything. Your credibility isn't on sale. 😉",
+    "lines": [
+      "VRITIMES puts it all in one dashboard:",
+      "✓ Write and submit your press release",
+      "✓ Guaranteed media placement per release (count depends on plan)",
+      "✓ Backlink + sharing on VRITIMES social channels",
+      "✓ Post-distribution report",
+      "",
+      "Latest plans and pricing: link in bio."
+    ],
+    "ig_cta": "See the latest plans via the link in bio.",
+    "li_hook": "Plenty of marketing teams still distribute releases with a contact spreadsheet, one-by-one emails and screenshots as a report.\nThere's a tidier way.",
+    "li_body": [
+      "VRITIMES is built for start-ups and SMEs that want their releases published without building a media database from scratch.",
+      "The workflow sits in one dashboard:"
+    ],
+    "li_points": [
+      "Write and upload your press release.",
+      "Distribution with guaranteed media placement per release (the number of outlets depends on the plan).",
+      "A backlink to your site and sharing on VRITIMES social channels.",
+      "A post-distribution report ready to forward to your manager or client."
+    ],
+    "li_close": "Current plans and pricing are always on our official page.",
+    "fb": "Press releases without the admin: write, distribute and see the results in one dashboard. Plans here 👇"
+  },
+  "tags": [
+    "#PressRelease",
+    "#SMEs"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

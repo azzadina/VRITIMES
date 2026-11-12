@@ -1,0 +1,127 @@
+{
+  "post_id": "th_20261118_fun",
+  "country": "TH",
+  "language": "th",
+  "date": "2026-11-18",
+  "day": "Wed",
+  "slot": "W1Wed",
+  "pillar": "FUN",
+  "format": "carousel",
+  "grid_tile": "b",
+  "slug": "khao-prachasamphan-chabap-raek-1906",
+  "title": "ข่าวประชาสัมพันธ์ฉบับแรกเกิดจากอุบัติเหตุรถไฟ",
+  "hook": "ข่าวประชาสัมพันธ์ฉบับแรกของโลกเกิดจาก… อุบัติเหตุรถไฟ 🚆",
+  "cta": "แชร์ให้เพื่อนสาย PR",
+  "times": {
+    "linkedin": "08:30 น.",
+    "instagram_facebook": "20:00 น."
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/th?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261118_fun",
+    "facebook": "https://www.vritimes.com/th?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261118_fun",
+    "linkedin": "https://www.vritimes.com/th?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261118_fun"
+  },
+  "sources": [
+    {
+      "name": "Billy Penn / Museum of Public Relations",
+      "title": "Ivy Lee, the 1906 Atlantic City train wreck and the first press release",
+      "year": 2023,
+      "url": "https://billypenn.com/2023/11/05/ivy-lee-jersey-shore-train-crash-press-release/",
+      "short": "Billy Penn (2023); Museum of Public Relations"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "ข่าวประชาสัมพันธ์\n*ฉบับแรก*\nเกิดจากอุบัติเหตุรถไฟ",
+      "icons": [
+        "train",
+        "news",
+        "mega"
+      ],
+      "art": "frames"
+    },
+    {
+      "t": "point",
+      "icon": "train",
+      "title": "28 ตุลาคม *1906*",
+      "body": "รถไฟของบริษัทในเครือ Pennsylvania Railroad ตกจากสะพานที่ Atlantic City สหรัฐฯ ยุคนั้นบริษัทรถไฟมัก**กันนักข่าวออกจากพื้นที่**และไม่พูดถึงสาเหตุ",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "point",
+      "icon": "mega",
+      "title": "ivy lee เลือก*พูดก่อน*",
+      "body": "Ivy Lee ที่ปรึกษาด้านประชาสัมพันธ์ เขียนแถลงการณ์ของบริษัทเอง แจกให้นักข่าว และพานักข่าวเข้าพื้นที่",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "stat",
+      "big": "30.10.1906",
+      "bsize": 170,
+      "label": "The New York Times ตีพิมพ์*แบบคำต่อคำ*",
+      "lsize": 58,
+      "body": "แถลงการณ์นี้มักถูกเรียกว่าข่าวประชาสัมพันธ์ฉบับแรกของงานประชาสัมพันธ์ยุคใหม่",
+      "src": "Billy Penn (2023); Museum of Public Relations"
+    },
+    {
+      "t": "list",
+      "title": "บทเรียนที่*ยังใช้ได้*แม้ผ่านมา 120 ปี",
+      "items": [
+        "!พูดก่อน ก่อนที่คนอื่นจะเล่าเรื่องแทนคุณ",
+        "!ข้อเท็จจริงมีพลังกว่าคำกล่าวอ้าง",
+        "!ทำให้งานนักข่าวง่ายขึ้น: เข้าถึงพื้นที่ ข้อมูล แหล่งข่าว"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "เกิดจาก*วิกฤต* วันนี้ใช้เพื่อ*เติบโต*",
+      "items": [
+        "บันทึกไว้ใช้สอนทีม",
+        "แท็กเพื่อนที่ชอบประวัติศาสตร์ PR"
+      ],
+      "sources": [
+        "Billy Penn, 2023",
+        "Museum of Public Relations"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "ข่าวประชาสัมพันธ์ฉบับแรกของโลกเกิดจาก… อุบัติเหตุรถไฟ 🚆",
+    "lines": [
+      "28 ตุลาคม 1906 ที่ Atlantic City สหรัฐฯ",
+      "บริษัทรถไฟยุคนั้นมักเงียบและกันนักข่าวออกไป",
+      "",
+      "Ivy Lee กลับเขียนแถลงการณ์และแจกให้สื่อเอง",
+      "The New York Times ตีพิมพ์แบบคำต่อคำเมื่อ 30 ตุลาคม 1906",
+      "",
+      "บทเรียนที่ยังจริงอยู่: พูดก่อน ใช้ข้อเท็จจริง ทำให้งานนักข่าวง่ายขึ้น"
+    ],
+    "li_hook": "ข่าวประชาสัมพันธ์ที่มักถูกเรียกว่าฉบับแรก ไม่ได้มาจากการเปิดตัวสินค้า แต่มาจากวิกฤต\nและบทเรียนนั้นยังใช้ได้กับธุรกิจวันนี้",
+    "li_body": [
+      "ตุลาคม 1906 รถไฟของบริษัทในเครือ Pennsylvania Railroad ตกจากสะพานที่ Atlantic City ธรรมเนียมของอุตสาหกรรมตอนนั้นคือปิดข้อมูลและไม่ให้สัมภาษณ์",
+      "Ivy Lee ทำตรงกันข้าม เขาเขียนแถลงการณ์อย่างเป็นทางการ แจกให้นักข่าว และเปิดให้เข้าพื้นที่ The New York Times ตีพิมพ์แบบคำต่อคำเมื่อ 30 ตุลาคม 1906",
+      "หลักสามข้อที่ยังเห็นผลจนถึงวันนี้:"
+    ],
+    "li_points": [
+      "ใครพูดก่อนด้วยข้อเท็จจริง คนนั้นกำหนดกรอบของเรื่อง",
+      "แถลงการณ์ที่หยิบไปอ้างได้ทันที ถูกใช้มากกว่าคำกล่าวอ้าง",
+      "การอำนวยความสะดวกให้นักข่าวคือกลยุทธ์ ไม่ใช่ของแถม"
+    ],
+    "li_close": "คุณคิดว่าแบรนด์มักละเลยหลักข้อไหนมากที่สุดเวลาเกิดวิกฤต?",
+    "fb": "เกร็ดความรู้สำหรับคนทำการตลาดและ PR: ข่าวประชาสัมพันธ์ฉบับแรกเกิดขึ้นในปี 1906 จากอุบัติเหตุรถไฟ อ่านเรื่องราวได้ในคารูเซลนี้ 👇"
+  },
+  "tags": [
+    "#ประวัติศาสตร์PR",
+    "#FunFact"
+  ],
+  "price_status": null
+}

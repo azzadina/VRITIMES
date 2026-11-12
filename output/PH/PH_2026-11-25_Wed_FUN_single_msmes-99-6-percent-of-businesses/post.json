@@ -1,0 +1,76 @@
+{
+  "post_id": "ph_20261125_fun",
+  "country": "PH",
+  "language": "en",
+  "date": "2026-11-25",
+  "day": "Wed",
+  "slot": "W2Wed",
+  "pillar": "FUN",
+  "format": "single",
+  "grid_tile": "c",
+  "slug": "msmes-99-6-percent-of-businesses",
+  "title": "MSMEs are 99.6% of Philippine businesses",
+  "hook": "99.6% of Philippine businesses are MSMEs. How many have been in the news? 🤔",
+  "cta": "Tag a negosyante whose story deserves coverage",
+  "times": {
+    "linkedin": "08:30 PHT",
+    "instagram_facebook": "20:00 PHT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/ph?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_ph_202611&utm_content=ph_20261125_fun",
+    "facebook": "https://www.vritimes.com/ph?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_ph_202611&utm_content=ph_20261125_fun",
+    "linkedin": "https://www.vritimes.com/ph?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_ph_202611&utm_content=ph_20261125_fun"
+  },
+  "sources": [
+    {
+      "name": "DTI",
+      "title": "2023 Philippine MSME Statistics",
+      "year": 2024,
+      "url": "https://dti.gov.ph/businesses/msmes/msmeresources/msme-statistics",
+      "short": "DTI, 2023 MSME Statistics"
+    }
+  ],
+  "slides": [
+    {
+      "t": "single_stat",
+      "tag": "fun fact",
+      "pre": "MSMEs are",
+      "big": "99.6%",
+      "label": "of philippine *businesses*",
+      "body": "And they generate **66.97%** of all jobs. That's a lot of untold business stories.",
+      "sub": "may kwento ka? write the release",
+      "src": "DTI, 2023 MSME Statistics"
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "99.6% of Philippine businesses are MSMEs. How many have been in the news? 🤔",
+    "lines": [
+      "DTI 2023 MSME Statistics:",
+      "• 1,246,373 business enterprises",
+      "• 99.6% are MSMEs",
+      "• MSMEs generated 6,351,466 jobs = 66.97% of employment",
+      "",
+      "New branches, first exports, 50 new hires: these are real news stories.",
+      "They just rarely get written in a format newsrooms can use."
+    ],
+    "li_hook": "MSMEs make up 99.6% of Philippine businesses and generate 66.97% of jobs.\nTheir share of business headlines is a fraction of that.",
+    "li_body": [
+      "DTI's 2023 figures (1,246,373 enterprises, 6,351,466 MSME jobs) are usually quoted in policy discussions. We read them as a communications gap: more than a million businesses with stories that never reach a reporter.",
+      "Not because they lack news value, but because they aren't packaged as news. A third branch in Davao, a first export order or 50 new hires is a strong local story when it comes with clear numbers and a quotable spokesperson."
+    ],
+    "li_close": "If you run an MSME: which story from this year should the public hear?",
+    "fb": "Fun fact: 99.6% of businesses in the Philippines are MSMEs. If yours is one of them, your story deserves coverage too 💙"
+  },
+  "tags": [
+    "#MSMEPH",
+    "#FunFact"
+  ],
+  "price_status": null
+}

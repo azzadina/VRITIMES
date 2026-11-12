@@ -1,0 +1,150 @@
+{
+  "post_id": "au_20261130_edu",
+  "country": "AU",
+  "language": "en",
+  "date": "2026-11-30",
+  "day": "Mon",
+  "slot": "W3Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "b",
+  "slug": "press-release-backlinks-seo",
+  "title": "Press releases for SEO? Read Google's policy first",
+  "hook": "Sending press releases for backlinks? Google has a policy on that. 🔗",
+  "cta": "Save & send to your SEO team",
+  "times": {
+    "linkedin": "08:00 AEDT",
+    "instagram_facebook": "12:00 AEDT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/au?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_au_202611&utm_content=au_20261130_edu",
+    "facebook": "https://www.vritimes.com/au?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_au_202611&utm_content=au_20261130_edu",
+    "linkedin": "https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202611&utm_content=au_20261130_edu"
+  },
+  "sources": [
+    {
+      "name": "Google Search Central",
+      "title": "Spam policies for Google web search (link spam)",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "short": "Google Search Central, Spam policies"
+    },
+    {
+      "name": "Google Search Central",
+      "title": "Qualify your outbound links to Google",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links",
+      "short": "Google Search Central, Qualify outbound links"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "seo x pr",
+      "title": "press releases for SEO? *read this first*",
+      "sub": "straight from google"
+    },
+    {
+      "t": "quote",
+      "text": "Google lists links with *\"optimized anchor text in … press releases\"* distributed on other sites as *link spam*.",
+      "size": 76,
+      "by": "— Google Search Central, spam policies",
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "compare",
+      "title": "*risky* vs *safe*",
+      "left": {
+        "h": "risky",
+        "items": [
+          "Anchor \"cheap SEO services Sydney\" in every paragraph",
+          "A release with no news, just for the link",
+          "A dozen links in one release"
+        ]
+      },
+      "right": {
+        "h": "safe",
+        "items": [
+          "Brand name or URL as the anchor",
+          "News that earns follow-up coverage",
+          "1–2 links to a relevant page"
+        ]
+      },
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "point",
+      "icon": "link",
+      "title": "so what are release links *worth*?",
+      "body": "Three real things: **referral traffic** from readers, **brand mentions** on news sites that help people recognise you, and **follow-up coverage** from journalists who find your release."
+    },
+    {
+      "t": "point",
+      "icon": "shield",
+      "title": "rel=\"sponsored\" is *normal*",
+      "body": "Google asks for paid or placed links to carry **rel=\"sponsored\"** or **nofollow**. So judge a release by who reads it and who writes about it next, not by \"link juice\".",
+      "src": "Google Search Central, Qualify outbound links"
+    },
+    {
+      "t": "list",
+      "title": "an *SEO-safe* release checklist",
+      "items": [
+        "Keywords appear naturally in the headline, not stuffed",
+        "One main link to a relevant page",
+        "Anchor = brand name or URL",
+        "Data or a quote other media will want to cite",
+        "Track brand mentions, not just link counts"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "good PR *helps* SEO. not the other way round.",
+      "items": [
+        "Save this checklist",
+        "Send it to your SEO team"
+      ],
+      "sources": [
+        "Google Search Central — Spam policies",
+        "Google Search Central — Qualify outbound links"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Sending press releases for backlinks? Google has a policy on that. 🔗",
+    "lines": [
+      "Google lists optimised anchor text in press releases distributed on other sites as link spam.",
+      "",
+      "The safe way:",
+      "✓ Anchor = brand name / URL",
+      "✓ 1–2 links to a relevant page",
+      "✓ News that earns follow-up coverage",
+      "",
+      "The real value: referral traffic, brand mentions and organic coverage."
+    ],
+    "li_hook": "\"Send a press release to get backlinks\" is a tactic Google names specifically in its spam policies.\nHere is how to use releases for SEO without the risk.",
+    "li_body": [
+      "In its Spam policies documentation, Google Search Central lists links with optimised anchor text in articles, guest posts or press releases distributed on other sites as an example of link spam. It also asks for paid or placed links to be qualified with rel=\"sponsored\" or nofollow.",
+      "Does that make releases useless for SEO? Quite the opposite, as long as you measure the right things:"
+    ],
+    "li_points": [
+      "Referral traffic from readers who click through.",
+      "Brand mentions on news sites that strengthen how your entity is recognised.",
+      "Organic coverage from journalists who find the release and write their own story. That is where the biggest SEO value sits.",
+      "Safe practice: brand/URL anchors, one main link, and news genuinely worth citing."
+    ],
+    "li_close": "How does your team measure the SEO impact of releases today?",
+    "fb": "Lots of teams send press releases just for backlinks. Before you do, here is what Google actually says 👇"
+  },
+  "tags": [
+    "#SEO",
+    "#DigitalPR"
+  ],
+  "price_status": null
+}

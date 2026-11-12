@@ -1,0 +1,138 @@
+{
+  "post_id": "ph_20261204_edu",
+  "country": "PH",
+  "language": "en",
+  "date": "2026-12-04",
+  "day": "Fri",
+  "slot": "W3Fri",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "writing-quotes-journalists-use",
+  "title": "How to write spokesperson quotes journalists actually use",
+  "hook": "\"We are thrilled to announce…\" is the most deleted sentence in PR. 😅",
+  "cta": "Save before your next release",
+  "times": {
+    "linkedin": "08:30 PHT",
+    "instagram_facebook": "12:00 PHT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/ph?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261204_edu",
+    "facebook": "https://www.vritimes.com/ph?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261204_edu",
+    "linkedin": "https://www.vritimes.com/ph?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261204_edu"
+  },
+  "sources": [
+    {
+      "name": "Cision",
+      "title": "2025 State of the Media Report (press release, 7 May 2025)",
+      "year": 2025,
+      "url": "https://www.cision.com/about/press-releases/2025-press-releases/cisions-2025-state-of-the-media-report-reveals-a-tipping-point-for-trust-technology-and-pr-journalist-partnerships-302448410/",
+      "short": "Cision, State of the Media 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "pr writing",
+      "title": "quotes journalists *actually use*",
+      "sub": "and the ones they cut",
+      "icons": [
+        "quote",
+        "mega",
+        "news"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "01",
+      "title": "the \"thrilled\" test",
+      "body": "If the quote would fit any company's release, it fits none. Delete \"thrilled\", \"proud\", \"excited\" and see what's left.",
+      "ex": "✕ \"We are thrilled to launch our new app.\"\n✓ \"Half our orders come after 9PM. The app is built for people who shop after their shift.\""
+    },
+    {
+      "t": "point",
+      "n": "02",
+      "title": "give an *opinion*, not a summary",
+      "body": "The body of the release covers the facts. The quote is where a human explains **why it matters** or **what happens next**."
+    },
+    {
+      "t": "point",
+      "n": "03",
+      "title": "one number, *said like a person*",
+      "body": "Numbers make quotes quotable, but read them out loud first. If it sounds like a spreadsheet, rewrite it.",
+      "ex": "✕ \"Revenue increased by 37.42% YoY.\"\n✓ \"We grew by more than a third this year, mostly outside Metro Manila.\""
+    },
+    {
+      "t": "point",
+      "n": "04",
+      "title": "keep it *under 40 words*",
+      "body": "Reporters trim long quotes or skip them. Two sentences: the point, then the reason."
+    },
+    {
+      "t": "stat",
+      "big": "72%",
+      "label": "of journalists call press releases the *most useful* PR resource",
+      "body": "A quote that can be lifted word for word is part of what makes a release usable.",
+      "src": "Cision, State of the Media 2025"
+    },
+    {
+      "t": "list",
+      "title": "quote checklist",
+      "items": [
+        "No \"thrilled / proud / excited\"",
+        "States a view or what happens next",
+        "At most one number, said naturally",
+        "Under 40 words, two sentences",
+        "Approved by the person named"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "write it like they'll *quote it*",
+      "items": [
+        "Save this checklist",
+        "Send it to whoever drafts your CEO quotes"
+      ],
+      "sources": [
+        "Cision, State of the Media 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "\"We are thrilled to announce…\" is the most deleted sentence in PR. 😅",
+    "lines": [
+      "Quotes journalists actually use:",
+      "01 Pass the \"thrilled\" test",
+      "02 Give an opinion, not a summary",
+      "03 One number, said like a person",
+      "04 Under 40 words",
+      "",
+      "Before/after examples in the carousel."
+    ],
+    "li_hook": "The quote is the only part of a press release where a person speaks. Most companies waste it.\nHow to write one a journalist will actually use.",
+    "li_body": [
+      "Cision's 2025 State of the Media found 72% of journalists call press releases the most useful resource from PR teams. What makes a release usable is that parts of it can be lifted as is, and the quote is the most common candidate.",
+      "Four rules we apply:"
+    ],
+    "li_points": [
+      "The \"thrilled\" test: if the quote fits any company's release, rewrite it.",
+      "Opinion over summary: explain why it matters or what happens next.",
+      "One number, phrased the way a person would say it.",
+      "Under 40 words, two sentences: the point, then the reason."
+    ],
+    "li_close": "What's the worst quote you've been asked to approve? (No names, please.)",
+    "fb": "Quotes that journalists actually use, with before & after examples. Save this before your next release 👇"
+  },
+  "tags": [
+    "#PRwriting",
+    "#PRtipsPH"
+  ],
+  "price_status": null
+}

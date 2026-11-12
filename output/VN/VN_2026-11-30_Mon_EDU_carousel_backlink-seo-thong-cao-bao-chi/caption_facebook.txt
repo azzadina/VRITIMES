@@ -1,0 +1,19 @@
+Nhiều doanh nghiệp gửi thông cáo chỉ để lấy backlink. Trước khi làm tiếp, hãy xem Google nói gì 👇
+
+Google xếp anchor text tối ưu hoá trong thông cáo phát tán sang website khác vào nhóm link spam.
+
+Cách an toàn:
+✓ Anchor = tên thương hiệu / URL
+✓ 1–2 link tới trang liên quan
+✓ Tin tức khiến báo khác viết tiếp
+
+Giá trị thật: lượt truy cập, lượt nhắc thương hiệu và bài viết tự nhiên.
+
+Lưu lại và chia sẻ cho đội ngũ của bạn 👇
+Xem thêm: https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261130_edu
+
+#VRITIMES #SEO #DigitalPR
+
+Nguồn:
+• Google Search Central, Spam policies — https://developers.google.com/search/docs/essentials/spam-policies
+• Google Search Central, Qualify outbound links — https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links

@@ -1,0 +1,152 @@
+{
+  "post_id": "ph_20261207_edu",
+  "country": "PH",
+  "language": "en",
+  "date": "2026-12-07",
+  "day": "Mon",
+  "slot": "W4Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "pr-calendar-2027-philippines",
+  "title": "PR calendar 2027 for Philippine brands",
+  "hook": "Your 2027 PR calendar can be built today. 🗓️",
+  "cta": "Save for your 2027 planning",
+  "times": {
+    "linkedin": "08:30 PHT",
+    "instagram_facebook": "12:00 PHT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/ph?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261207_edu",
+    "facebook": "https://www.vritimes.com/ph?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261207_edu",
+    "linkedin": "https://www.vritimes.com/ph?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261207_edu"
+  },
+  "sources": [
+    {
+      "name": "DTI",
+      "title": "2023 Philippine MSME Statistics",
+      "year": 2024,
+      "url": "https://dti.gov.ph/businesses/msmes/msmeresources/msme-statistics",
+      "short": "DTI, 2023 MSME Statistics"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "planning 2027",
+      "title": "your 2027 PR calendar, *sorted early*",
+      "sub": "save for the planning meeting",
+      "icons": [
+        "cal",
+        "chart",
+        "mega"
+      ]
+    },
+    {
+      "t": "point",
+      "icon": "cal",
+      "title": "why a calendar beats *reacting*",
+      "body": "Reactive releases almost always arrive late. A calendar means data, photos and spokespeople are ready **before** reporters start looking."
+    },
+    {
+      "t": "list",
+      "title": "Q1 · jan–mar",
+      "items": [
+        "Annual results & 2027 targets: release your 2026 milestones",
+        "Holy Week (25–26 Mar 2027): newsrooms slow, publish before",
+        "Summer travel & graduation season stories"
+      ]
+    },
+    {
+      "t": "list",
+      "title": "Q2 · apr–jun",
+      "items": [
+        "Back-to-school & rainy season preparedness angles",
+        "12 Jun Independence Day: community and local-pride stories",
+        "Mid-year data from your own customers"
+      ]
+    },
+    {
+      "t": "list",
+      "title": "Q3 · jul–sep",
+      "items": [
+        "MSME Development Month (July): MSME stories have a news peg",
+        "National Heroes Day (30 Aug 2027): frontliners & employee stories",
+        "\"Ber\" months start: plan Christmas campaigns now"
+      ]
+    },
+    {
+      "t": "list",
+      "title": "Q4 · oct–dec",
+      "items": [
+        "11.11 & 12.12: release promos before peak days",
+        "Bonifacio Day (30 Nov) & Christmas slowdown: publish early",
+        "Year in review & 2028 outlook"
+      ]
+    },
+    {
+      "t": "point",
+      "title": "the *T-14 to T+3* rule",
+      "body": "A working timeline for every moment:",
+      "exlab": "timeline",
+      "ex": "T-14 research & data · T-7 final release + photos · T-3 pitch reporters · Day 0 publish & share · T+3 coverage recap"
+    },
+    {
+      "t": "stat",
+      "big": "1.25M",
+      "bsize": 220,
+      "label": "business enterprises in the philippines (2023)",
+      "body": "99.6% are MSMEs. Every one has at least one moment a year worth announcing.",
+      "src": "DTI, 2023 MSME Statistics"
+    },
+    {
+      "t": "cta",
+      "title": "plan 2027 PR *now*",
+      "items": [
+        "Save this calendar",
+        "Mark 3 moments for your brand",
+        "Send it to your marketing team"
+      ],
+      "sources": [
+        "DTI, 2023 MSME Statistics"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Your 2027 PR calendar can be built today. 🗓️",
+    "lines": [
+      "Q1: annual results, Holy Week (publish before), summer stories",
+      "Q2: Independence Day (12 Jun), back-to-school",
+      "Q3: MSME Development Month (July), National Heroes Day, \"ber\" months",
+      "Q4: 11.11, 12.12, Bonifacio Day, Christmas slowdown",
+      "",
+      "Workflow: T-14 research → T-7 final release → T-3 pitch → Day 0 → T+3 recap."
+    ],
+    "li_hook": "The brands that show up in the news around big moments prepared their releases weeks before.\nHere is a 2027 PR calendar framework for the Philippines.",
+    "li_body": [
+      "With 1,246,373 enterprises in the country (DTI, 2023), competition for attention around peak moments is real. Preparation, not volume, decides who gets covered.",
+      "A quarterly framework to adapt:"
+    ],
+    "li_points": [
+      "Q1: annual milestones, Holy Week (newsrooms slow, so publish before), summer and graduation angles.",
+      "Q2: Independence Day on 12 June, back-to-school and mid-year customer data.",
+      "Q3: MSME Development Month in July, National Heroes Day, and the start of the \"ber\" months for Christmas planning.",
+      "Q4: 11.11 and 12.12, Bonifacio Day and the Christmas slowdown. Publish early.",
+      "For every moment: T-14 research, T-7 final release, T-3 pitch, Day 0 publish, T+3 recap."
+    ],
+    "li_close": "Which moment matters most for your brand next year?",
+    "fb": "Started planning 2027? Here's a quarter-by-quarter PR calendar for Philippine brands 👇"
+  },
+  "tags": [
+    "#PRcalendar",
+    "#Planning2027"
+  ],
+  "price_status": null
+}

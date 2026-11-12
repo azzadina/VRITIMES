@@ -1,0 +1,140 @@
+{
+  "post_id": "vn_20261204_edu",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-12-04",
+  "day": "Fri",
+  "slot": "W3Fri",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "cong-thuc-tieu-de-thong-cao",
+  "title": "5 công thức tiêu đề thông cáo báo chí kèm ví dụ",
+  "hook": "Tiêu đề quyết định thông cáo của bạn có được mở hay không. Đây là 5 công thức kèm ví dụ ✍️",
+  "cta": "Lưu lại cho lần viết tiếp theo",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "11:30 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261204_edu",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261204_edu",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261204_edu"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "pr writing",
+      "title": "5 công thức *tiêu đề* thông cáo kèm ví dụ",
+      "sub": "copy được ngay",
+      "icons": [
+        "news",
+        "chart",
+        "mega"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "01",
+      "title": "chủ thể + hành động + *con số*",
+      "body": "Công thức an toàn nhất cho tin doanh nghiệp.",
+      "ex": "\"Chuỗi cà phê X mở 10 cửa hàng tại Đà Nẵng, tạo 150 việc làm\""
+    },
+    {
+      "t": "point",
+      "n": "02",
+      "title": "số liệu *mới* làm tiêu đề",
+      "body": "Khi bạn có dữ liệu riêng, hãy để dữ liệu là tin.",
+      "ex": "\"Khảo sát 1.000 chủ shop online: 6/10 dự kiến tăng ngân sách quảng cáo dịp Tết\""
+    },
+    {
+      "t": "point",
+      "n": "03",
+      "title": "lần *đầu tiên* (có kiểm chứng)",
+      "body": "Chỉ dùng khi chứng minh được, nhà báo sẽ kiểm tra.",
+      "ex": "\"Doanh nghiệp Cần Thơ đầu tiên xuất khẩu gạo hữu cơ sang Nhật Bản\""
+    },
+    {
+      "t": "point",
+      "n": "04",
+      "title": "hợp tác: *ai + ai + để làm gì*",
+      "body": "Tin hợp tác chỉ hấp dẫn khi nói rõ kết quả cho người dùng.",
+      "ex": "\"Ví điện tử Y và chuỗi siêu thị Z cho phép thanh toán bằng QR tại 300 điểm\""
+    },
+    {
+      "t": "point",
+      "n": "05",
+      "title": "sự kiện: *tên + thời gian + giá trị*",
+      "body": "Đặt lợi ích cho người tham dự lên trước.",
+      "ex": "\"Hội thảo miễn phí về xuất khẩu nông sản cho 200 doanh nghiệp, TP.HCM ngày 15/1\""
+    },
+    {
+      "t": "list",
+      "title": "tránh *ngay*",
+      "items": [
+        "~\"Đột phá\", \"hàng đầu\", \"số 1\" không có bằng chứng",
+        "~Tiêu đề không có động từ",
+        "~Viết hoa toàn bộ",
+        "~Dài hơn hai dòng trên điện thoại"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "tiêu đề tốt = *nửa chặng đường*",
+      "items": [
+        "Lưu 5 công thức này",
+        "Gửi cho người viết thông cáo của bạn"
+      ],
+      "sources": [
+        "Muck Rack, State of Journalism 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Tiêu đề quyết định thông cáo của bạn có được mở hay không. Đây là 5 công thức kèm ví dụ ✍️",
+    "lines": [
+      "01 Chủ thể + hành động + con số",
+      "02 Số liệu mới làm tiêu đề",
+      "03 Lần đầu tiên (có kiểm chứng)",
+      "04 Hợp tác: ai + ai + để làm gì",
+      "05 Sự kiện: tên + thời gian + giá trị",
+      "",
+      "Tránh: \"đột phá\", \"số 1\" không bằng chứng, tiêu đề không động từ, viết hoa toàn bộ."
+    ],
+    "li_hook": "Phần lớn thông cáo bị bỏ qua ngay từ tiêu đề.\nNăm công thức chúng tôi khuyên dùng, kèm ví dụ minh hoạ.",
+    "li_body": [
+      "Nhà báo nhận rất nhiều pitch mỗi ngày, và Muck Rack (2025) cho thấy 69% thích pitch dưới 200 từ. Trong bối cảnh đó, tiêu đề phải nói được tin chính trong một lần đọc.",
+      "Năm công thức (ví dụ chỉ mang tính minh hoạ):"
+    ],
+    "li_points": [
+      "Chủ thể + hành động + con số: tin doanh nghiệp rõ ràng nhất.",
+      "Số liệu mới làm tiêu đề: khi bạn có dữ liệu riêng.",
+      "\"Lần đầu tiên\": chỉ khi chứng minh được.",
+      "Hợp tác: nói rõ ai với ai và kết quả cho người dùng.",
+      "Sự kiện: tên, thời gian và giá trị cho người tham dự."
+    ],
+    "li_close": "Công thức nào đội của bạn dùng nhiều nhất?",
+    "fb": "5 công thức viết tiêu đề thông cáo báo chí, kèm ví dụ dễ áp dụng. Lưu lại nhé 👇"
+  },
+  "tags": [
+    "#vietthongcao",
+    "#PRtips"
+  ],
+  "price_status": null
+}

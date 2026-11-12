@@ -1,0 +1,137 @@
+{
+  "post_id": "au_20261209_fun",
+  "country": "AU",
+  "language": "en",
+  "date": "2026-12-09",
+  "day": "Wed",
+  "slot": "W4Wed",
+  "pillar": "FUN",
+  "format": "reel",
+  "grid_tile": "b",
+  "slug": "australians-avoiding-the-news",
+  "title": "69% of Australians avoid the news sometimes or often",
+  "hook": "69% of Australians avoid the news sometimes or often. Here's what that means for your announcement.",
+  "cta": "Share with your comms team",
+  "times": {
+    "linkedin": "08:00 AEDT",
+    "instagram_facebook": "19:30 AEDT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/au?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261209_fun",
+    "facebook": "https://www.vritimes.com/au?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261209_fun",
+    "linkedin": "https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261209_fun"
+  },
+  "sources": [
+    {
+      "name": "University of Canberra",
+      "title": "Digital News Report: Australia 2025 (media release)",
+      "year": 2025,
+      "url": "https://www.canberra.edu.au/about-uc/media/media-releases/2025/june-2025/digital-news-report-dnr-australia-2025-shows-social-media-is-driving-changes-in-news-consumption-trends",
+      "short": "University of Canberra, Digital News Report: Australia 2025"
+    },
+    {
+      "name": "Reuters Institute",
+      "title": "Digital News Report 2025",
+      "year": 2025,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf",
+      "short": "Reuters Institute, Digital News Report 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "*69%* of australians avoid the news"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "fun fact",
+        "text": "*69%* of australians avoid the news",
+        "sub": "sometimes or often",
+        "src": "University of Canberra, Digital News Report: Australia 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "trust in news: *43%*",
+        "sub": "up 3 points on last year",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "social media has overtaken going *direct* to news sites",
+        "src": "University of Canberra, Digital News Report: Australia 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "so: make your news *easy to understand* and *easy to share*",
+        "dur": 4.0,
+        "theme": "blue"
+      },
+      {
+        "text": "plain words. real numbers. *one clear point*.",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "news people *don't* skip",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "Sixty-nine percent of Australians avoid the news, sometimes or often.",
+      "Trust in news sits at forty-three percent.",
+      "Social media has overtaken going direct to news sites.",
+      "So make your news easy to understand and easy to share.",
+      "Plain words, real numbers, one clear point.",
+      "News people don't skip."
+    ],
+    "broll": [
+      "Thumb scrolling past headlines (mock UI)",
+      "Animated 69% / 43% counters (from text cards)",
+      "Team member reading a one-paragraph release aloud (internal talent)"
+    ],
+    "audio": "Calm, understated beat from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "69% of Australians avoid the news sometimes or often. Here's what that means for your announcement.",
+    "lines": [
+      "Digital News Report: Australia 2025:",
+      "• News avoidance: 69%",
+      "• Trust in news: 43% (+3)",
+      "• Social media has overtaken going direct to news sites",
+      "",
+      "If people skim or skip, your news has to be clear, specific and easy to share."
+    ],
+    "li_hook": "News avoidance in Australia is 69%, according to the Digital News Report: Australia 2025.\nIf your audience is skimming, your announcement needs to work harder.",
+    "li_body": [
+      "The same research found social media has overtaken going directly to news websites, while the Reuters Institute puts trust in news at 43%, up three points.",
+      "For business announcements, that suggests a few practical rules:"
+    ],
+    "li_points": [
+      "Lead with one clear point in plain language.",
+      "Use real numbers instead of adjectives.",
+      "Make it easy to share: a clean web page, a strong image, a short summary.",
+      "Reuse earned coverage on your own social channels, where people now find their news."
+    ],
+    "li_close": "How are you adapting announcements for audiences who skim?",
+    "fb": "Fun fact: 69% of Australians avoid the news at least sometimes. Here's how to make your announcement worth stopping for."
+  },
+  "tags": [
+    "#MediaAustralia",
+    "#FunFact"
+  ],
+  "price_status": null
+}

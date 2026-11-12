@@ -1,0 +1,128 @@
+{
+  "post_id": "my_20261209_fun",
+  "country": "MY",
+  "language": "en",
+  "date": "2026-12-09",
+  "day": "Wed",
+  "slot": "W4Wed",
+  "pillar": "FUN",
+  "format": "reel",
+  "grid_tile": "b",
+  "slug": "how-malaysians-get-their-news",
+  "title": "How Malaysians get their news",
+  "hook": "40% of Malaysians now use TikTok for news. But trust is another story. 📱",
+  "cta": "Share with your social media team",
+  "times": {
+    "linkedin": "08:30 MYT",
+    "instagram_facebook": "20:30 MYT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/my?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261209_fun",
+    "facebook": "https://www.vritimes.com/my?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261209_fun",
+    "linkedin": "https://www.vritimes.com/my?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261209_fun"
+  },
+  "sources": [
+    {
+      "name": "Reuters Institute",
+      "title": "Digital News Report 2025",
+      "year": 2025,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf",
+      "short": "Reuters Institute, Digital News Report 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "where do malaysians *get their news*?"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "fun fact",
+        "text": "where do malaysians *get their news*?",
+        "icon": "news",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "*40%* now use TikTok for news",
+        "sub": "the fastest-growing network",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "but only *37%* trust most news most of the time",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "discovery happens in *the feed*. trust is checked at *the source*.",
+        "dur": 4.0,
+        "theme": "blue"
+      },
+      {
+        "text": "so your news needs to be *published* AND *shared*",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "credible in the media, *visible* in the feed",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "Where do Malaysians get their news?",
+      "Forty percent now use TikTok for news.",
+      "But only thirty-seven percent trust most news most of the time.",
+      "Discovery happens in the feed. Trust is checked at the source.",
+      "So your news needs to be published and shared.",
+      "Credible in the media, visible in the feed."
+    ],
+    "broll": [
+      "Phone scrolling a short-video feed (mock UI, no real accounts)",
+      "Animated bars 40% / 37% (from text cards)",
+      "Hands holding a newspaper and a phone (internal talent)"
+    ],
+    "audio": "Upbeat \"fact reveal\" or ticking beat from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "40% of Malaysians now use TikTok for news. But trust is another story. 📱",
+    "lines": [
+      "Reuters Institute Digital News Report 2025:",
+      "• TikTok is the fastest-growing network for news: 40%",
+      "• Only 37% trust most news most of the time",
+      "",
+      "Discovery happens in the feed. Trust is checked at the source.",
+      "You need both: published in the media, shared on social."
+    ],
+    "li_hook": "Reuters Institute's 2025 data shows 40% of Malaysians use TikTok for news, while only 37% trust most news most of the time.\nWhat does that mean for brand communications?",
+    "li_body": [
+      "The two numbers look contradictory but work together. Audiences discover stories in the feed, then judge credibility by the source.",
+      "For brands, the implications are practical:"
+    ],
+    "li_points": [
+      "Coverage in established media gives people a source they can check.",
+      "That coverage should be reshared on your social channels, including short video.",
+      "The message must match across media and social, or doubt creeps in."
+    ],
+    "li_close": "How does your team reuse media coverage on social today?",
+    "fb": "Fun fact: 40% of Malaysians now get news on TikTok. But how much do they trust it? Watch to the end 👀"
+  },
+  "tags": [
+    "#MediaMalaysia",
+    "#FunFact"
+  ],
+  "price_status": null
+}

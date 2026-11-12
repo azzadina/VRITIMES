@@ -1,0 +1,145 @@
+{
+  "post_id": "id_20261204_edu",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-12-04",
+  "day": "Fri",
+  "slot": "W3Fri",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "kapan-tidak-perlu-rilis-pers",
+  "title": "5 kali kamu tidak perlu kirim rilis pers",
+  "hook": "Tidak semua hal perlu dijadikan rilis pers. Ini 5 tandanya. 🛑",
+  "cta": "Simpan untuk rapat konten berikutnya",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "12:00 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261204_edu",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261204_edu",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261204_edu"
+  },
+  "sources": [
+    {
+      "name": "Google Search Central",
+      "title": "Spam policies for Google web search (link spam)",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "short": "Google Search Central, Spam policies"
+    },
+    {
+      "name": "Cision",
+      "title": "2025 State of the Media Report (press release, 7 May 2025)",
+      "year": 2025,
+      "url": "https://www.cision.com/about/press-releases/2025-press-releases/cisions-2025-state-of-the-media-report-reveals-a-tipping-point-for-trust-technology-and-pr-journalist-partnerships-302448410/",
+      "short": "Cision, State of the Media 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "pr jujur",
+      "title": "5 kali kamu *tidak perlu* kirim rilis pers",
+      "sub": "hemat budget, jaga reputasi",
+      "icons": [
+        "clock",
+        "shield",
+        "mail"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "01",
+      "title": "tidak ada yang *baru* bagi pembaca",
+      "body": "\"Kami ulang tahun ke-3\" bukan berita, kecuali ada angka, pencapaian, atau rencana yang berdampak. Tes cepat: apakah orang di luar kantor Anda peduli?"
+    },
+    {
+      "t": "point",
+      "n": "02",
+      "title": "faktanya *belum final*",
+      "body": "Kerja sama yang \"sedang dijajaki\" bisa jadi bumerang bila batal. Tunggu tanda tangan, baru umumkan."
+    },
+    {
+      "t": "point",
+      "n": "03",
+      "title": "hanya demi *dapat link*",
+      "body": "Google menyebut anchor text yang dioptimasi di rilis pers sebagai link spam. Rilis tanpa berita yang dibuat demi tautan justru berisiko.",
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "point",
+      "n": "04",
+      "title": "krisis yang *belum dipahami*",
+      "body": "Saat krisis, pernyataan singkat yang jujur lebih aman daripada rilis panjang yang spekulatif.",
+      "ex": "Yang kami tahu: … · Yang kami lakukan: … · Update berikutnya: pukul …"
+    },
+    {
+      "t": "point",
+      "n": "05",
+      "title": "momennya *sudah lewat*",
+      "body": "Rilis promo 12.12 yang terbit setelah 12.12 hanya jadi arsip. Redaksi butuh waktu: kirim beberapa hari sebelum momen."
+    },
+    {
+      "t": "list",
+      "title": "kapan *wajib* kirim rilis",
+      "items": [
+        "!Peluncuran produk/layanan dengan tanggal pasti",
+        "!Pendanaan, akuisisi, kemitraan resmi",
+        "!Data atau riset orisinal",
+        "!Pencapaian terukur (angka, bukan klaim)",
+        "!Event dengan nilai berita untuk publik"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "rilis yang *lebih sedikit* tapi lebih kuat",
+      "items": [
+        "Simpan untuk rapat konten",
+        "Kirim ke atasan yang minta rilis tiap minggu 😅"
+      ],
+      "sources": [
+        "Google Search Central — Spam policies",
+        "Cision, State of the Media 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Tidak semua hal perlu dijadikan rilis pers. Ini 5 tandanya. 🛑",
+    "lines": [
+      "01 Tidak ada yang baru bagi pembaca",
+      "02 Faktanya belum final",
+      "03 Hanya demi dapat link",
+      "04 Krisis yang belum dipahami",
+      "05 Momennya sudah lewat",
+      "",
+      "Kapan wajib? Peluncuran, pendanaan/kemitraan, data orisinal, pencapaian terukur, event bernilai berita."
+    ],
+    "li_hook": "Rilis pers yang terlalu sering justru menurunkan peluang rilis penting Anda dibaca.\nLima situasi ketika sebaiknya Anda tidak mengirimnya.",
+    "li_body": [
+      "Jurnalis masih mengandalkan rilis. Cision (2025) mencatat 72% jurnalis menyebutnya sumber paling berguna dari tim PR. Justru karena itu, reputasi pengirim penting: rilis yang tidak berisi berita membuat rilis berikutnya lebih mudah diabaikan."
+    ],
+    "li_points": [
+      "Tidak ada informasi baru bagi pembaca di luar perusahaan.",
+      "Faktanya belum final, misalnya kerja sama yang masih dijajaki.",
+      "Tujuannya hanya backlink. Google menyebut anchor text yang dioptimasi di rilis pers sebagai link spam.",
+      "Krisis yang belum dipahami. Gunakan pernyataan singkat: apa yang diketahui, apa yang dilakukan, kapan update berikutnya.",
+      "Momennya sudah lewat."
+    ],
+    "li_close": "Sebaliknya, kirim rilis untuk peluncuran, pendanaan, data orisinal, pencapaian terukur, dan event. Anda setuju?",
+    "fb": "Sebelum minta tim bikin rilis lagi minggu ini, cek dulu 5 situasi ini 😄"
+  },
+  "tags": [
+    "#StrategiPR",
+    "#TipsPR"
+  ],
+  "price_status": null
+}

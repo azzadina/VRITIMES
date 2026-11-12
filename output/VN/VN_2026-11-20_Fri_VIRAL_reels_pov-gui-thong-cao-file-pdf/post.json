@@ -1,0 +1,131 @@
+{
+  "post_id": "vn_20261120_viral",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-11-20",
+  "day": "Fri",
+  "slot": "W1Fri",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "pov-gui-thong-cao-file-pdf",
+  "title": "POV: bạn gửi thông cáo báo chí bằng file PDF đính kèm",
+  "hook": "POV: bạn gửi thông cáo báo chí bằng file PDF đính kèm 📎😶",
+  "cta": "Gửi cho team vẫn còn dùng PDF",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "20:00 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261120_viral",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261120_viral",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261120_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "POV",
+      "title": "bạn gửi thông cáo báo chí bằng *file PDF đính kèm*"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "POV",
+        "text": "bạn gửi thông cáo bằng *file PDF đính kèm*",
+        "icon": "pdf",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "tiêu đề email:\n*\"Thông cáo báo chí\"*",
+        "sub": "…cùng hàng trăm email khác hôm nay",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "nhà báo phải tải về, mở ra rồi *tự copy*",
+        "sub": "(nếu họ có thời gian)",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "trong khi *69%* nhà báo thích pitch dưới 200 từ",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "đúng ra: *nội dung trong thân email*, tiêu đề thông cáo làm subject, ảnh gửi qua link",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "để thông cáo gặp *báo chí*, không phải *thư mục lưu trữ*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "POV: bạn gửi thông cáo báo chí bằng file PDF đính kèm.",
+      "Tiêu đề email chỉ ghi \"Thông cáo báo chí\".",
+      "Nhà báo phải tải về, mở ra rồi tự copy.",
+      "Trong khi sáu mươi chín phần trăm nhà báo thích pitch dưới hai trăm từ.",
+      "Hãy dán nội dung vào thân email, dùng tiêu đề thông cáo làm subject, gửi ảnh qua link.",
+      "Để thông cáo gặp báo chí, không phải thư mục lưu trữ."
+    ],
+    "broll": [
+      "Hộp thư đầy email (mô phỏng, không có tên thật)",
+      "Nhấp vào file PDF, tải chậm (quay màn hình mô phỏng)",
+      "Biểu cảm \"hmm\" của thành viên VRITIMES (diễn viên nội bộ)",
+      "Mẫu email đúng trên màn hình (template nội bộ)"
+    ],
+    "audio": "Âm thanh hài kiểu \"awkward pause\" hoặc lo-fi vui tươi từ thư viện âm thanh có bản quyền của nền tảng"
+  },
+  "captions_meta": {
+    "hook": "POV: bạn gửi thông cáo báo chí bằng file PDF đính kèm 📎😶",
+    "lines": [
+      "Tải về → mở ra → copy. Mỗi bước thừa là một cơ hội bị mất.",
+      "69% nhà báo thích pitch dưới 200 từ (Muck Rack, 2025).",
+      "",
+      "Thay vào đó:",
+      "✓ Dán nội dung thông cáo vào thân email",
+      "✓ Tiêu đề thông cáo = tiêu đề email",
+      "✓ Ảnh và tài liệu gửi qua link"
+    ],
+    "li_hook": "Một thói quen nhỏ khiến thông cáo hay không được đọc: gửi dưới dạng file PDF đính kèm.\nNghe có vẻ không đáng kể. Tác động thì có.",
+    "li_body": [
+      "Muck Rack (State of Journalism 2025) cho thấy 69% nhà báo thích pitch dưới 200 từ. Họ muốn quyết định nhanh, không thêm bước nào.",
+      "File PDF đính kèm thêm tới ba bước: tải về, mở, sao chép. Cộng với tiêu đề email chung chung, khả năng được đọc giảm rõ rệt."
+    ],
+    "li_points": [
+      "Dán nội dung thông cáo trực tiếp vào thân email.",
+      "Dùng tiêu đề thông cáo làm tiêu đề email.",
+      "Chia sẻ ảnh và tài liệu kèm theo qua link.",
+      "Nếu dùng nền tảng phân phối, hãy đảm bảo thông cáo nằm trên một trang web có thể truy cập và trích dẫn."
+    ],
+    "li_close": "Doanh nghiệp của bạn có còn yêu cầu gửi PDF vì \"trông trang trọng hơn\" không?",
+    "fb": "Ai còn gửi thông cáo báo chí bằng file PDF đính kèm không? 😅 Xem hết video nhé, có cách nhà báo thích hơn nhiều."
+  },
+  "tags": [
+    "#doiPR",
+    "#thongcaobaochi"
+  ],
+  "price_status": null
+}

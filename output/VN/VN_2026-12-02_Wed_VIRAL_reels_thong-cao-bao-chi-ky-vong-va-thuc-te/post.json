@@ -1,0 +1,142 @@
+{
+  "post_id": "vn_20261202_viral",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-12-02",
+  "day": "Wed",
+  "slot": "W3Wed",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "thong-cao-bao-chi-ky-vong-va-thuc-te",
+  "title": "Thông cáo báo chí: kỳ vọng vs thực tế",
+  "hook": "Thông cáo báo chí: kỳ vọng vs thực tế 😅",
+  "cta": "Bình luận: bạn từng gặp cảnh nào?",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "20:00 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261202_viral",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261202_viral",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261202_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "kỳ vọng vs thực tế",
+      "title": "thông cáo báo chí: *kỳ vọng* vs *thực tế*"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "kỳ vọng",
+        "text": "\"gửi 1 lần là *lên báo khắp nơi*\"",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "top": "thực tế",
+        "text": "không có tin thì *không ai đăng*",
+        "sub": "tin trước, thông cáo sau",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "top": "kỳ vọng",
+        "text": "\"viết dài cho *chuyên nghiệp*\"",
+        "dur": 2.5,
+        "theme": "navy"
+      },
+      {
+        "top": "thực tế",
+        "text": "*69%* nhà báo thích pitch dưới 200 từ",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "top": "kỳ vọng",
+        "text": "\"nhắn nhà báo *mỗi ngày* cho chắc\"",
+        "dur": 2.5,
+        "theme": "pale"
+      },
+      {
+        "top": "thực tế",
+        "text": "*50%* nhà báo thấy follow-up một lần là đủ",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "kỳ vọng hợp lý + *quy trình đúng* = được đăng",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "blue"
+      }
+    ],
+    "vo": [
+      "Kỳ vọng: gửi một lần là lên báo khắp nơi.",
+      "Thực tế: không có tin thì không ai đăng.",
+      "Kỳ vọng: viết dài cho chuyên nghiệp.",
+      "Thực tế: sáu mươi chín phần trăm nhà báo thích pitch dưới hai trăm từ.",
+      "Kỳ vọng: nhắn nhà báo mỗi ngày cho chắc.",
+      "Thực tế: một nửa nhà báo thấy follow-up một lần là đủ.",
+      "Kỳ vọng hợp lý cộng quy trình đúng bằng được đăng."
+    ],
+    "broll": [
+      "Chia đôi màn hình \"kỳ vọng / thực tế\" với diễn viên nội bộ",
+      "Màn hình đếm số từ trong email (mô phỏng)",
+      "Điện thoại với tin nhắn chưa đọc (mô phỏng, không có tên thật)"
+    ],
+    "audio": "Âm thanh trend \"expectation vs reality\" từ thư viện có bản quyền của nền tảng"
+  },
+  "captions_meta": {
+    "hook": "Thông cáo báo chí: kỳ vọng vs thực tế 😅",
+    "lines": [
+      "Kỳ vọng: gửi 1 lần là lên báo khắp nơi",
+      "Thực tế: không có tin thì không ai đăng",
+      "",
+      "Kỳ vọng: viết dài cho chuyên nghiệp",
+      "Thực tế: 69% nhà báo thích pitch dưới 200 từ",
+      "",
+      "Kỳ vọng: nhắn nhà báo mỗi ngày",
+      "Thực tế: 50% thấy follow-up một lần là đủ",
+      "",
+      "Bạn từng gặp cảnh nào? 👇"
+    ],
+    "ig_cta": "Tag đồng nghiệp từng \"kỳ vọng\" như vậy 😆 Link ở bio.",
+    "li_hook": "Ba kỳ vọng phổ biến về thông cáo báo chí, và thực tế theo số liệu.",
+    "li_body": [
+      "Nhiều kỳ vọng về PR đến từ thói quen, không phải dữ liệu. Muck Rack State of Journalism 2025 cho một bức tranh rõ ràng hơn:"
+    ],
+    "li_points": [
+      "Gửi một lần không đảm bảo lên báo khắp nơi. Giá trị tin tức mới là yếu tố quyết định.",
+      "Dài không đồng nghĩa với chuyên nghiệp: 69% nhà báo thích pitch dưới 200 từ.",
+      "Nhắn mỗi ngày không tăng cơ hội: 50% nhà báo thấy một lần follow-up là lý tưởng, 51% muốn cách 3–7 ngày."
+    ],
+    "li_close": "Kỳ vọng nào bạn thường phải \"điều chỉnh\" với sếp hoặc khách hàng?",
+    "fb": "Kỳ vọng vs thực tế khi gửi thông cáo báo chí 😄 Bạn đã từng ở phía \"kỳ vọng\" chưa?"
+  },
+  "tags": [
+    "#doiPR",
+    "#marketing"
+  ],
+  "price_status": null
+}

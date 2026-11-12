@@ -1,0 +1,144 @@
+{
+  "post_id": "id_20261123_edu",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-11-23",
+  "day": "Mon",
+  "slot": "W2Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "a",
+  "slug": "pitch-email-200-kata",
+  "title": "Pitch email di bawah 200 kata yang dibalas",
+  "hook": "Pitch email kamu kepanjangan? 69% jurnalis lebih suka di bawah 200 kata. ✂️",
+  "cta": "Simpan templatenya",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "12:00 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261123_edu",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261123_edu",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261123_edu"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "pr tips",
+      "title": "pitch email *di bawah 200 kata* yang dibalas",
+      "sub": "template di slide 6"
+    },
+    {
+      "t": "stat",
+      "big": "69%",
+      "label": "jurnalis lebih suka pitch *di bawah 200 kata*",
+      "body": "Pitch adalah undangan, bukan rilisnya. Detail lengkap cukup lewat link.",
+      "src": "Muck Rack, State of Journalism 2025"
+    },
+    {
+      "t": "list",
+      "title": "struktur *4 baris*",
+      "items": [
+        "Baris 1 — kenapa relevan untuk rubrik/pembacanya",
+        "Baris 2 — beritanya dalam 1 kalimat (dengan angka)",
+        "Baris 3 — yang bisa Anda tawarkan: data, narasumber, foto",
+        "Baris 4 — link rilis lengkap + kontak"
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "subjek email: *beda nasib*",
+      "left": {
+        "h": "dilewati",
+        "items": [
+          "\"Press Release PT ABC\"",
+          "\"URGENT!!! Info Penting\"",
+          "\"Kolaborasi Spesial\""
+        ]
+      },
+      "right": {
+        "h": "dibuka",
+        "items": [
+          "\"Data: 3 dari 5 UMKM kuliner naikkan harga Q4\"",
+          "\"Narasumber: CFO soal biaya logistik 2027\"",
+          "\"Embargo 24/11 09.00: peluncuran …\""
+        ]
+      }
+    },
+    {
+      "t": "stat",
+      "big": "1×",
+      "label": "follow-up, *3–7 hari* kemudian",
+      "body": "50% jurnalis bilang satu kali follow-up itu ideal. 51% ingin jaraknya 3–7 hari. Lebih dari itu = mengganggu.",
+      "src": "Muck Rack, State of Journalism 2025"
+    },
+    {
+      "t": "point",
+      "title": "template *siap pakai*",
+      "body": "Ganti bagian dalam kurung.",
+      "exlab": "template",
+      "bsize": 36,
+      "ex": "Halo (nama), saya baca liputan Anda soal (topik) minggu lalu.\n(Perusahaan) baru merilis (berita dalam 1 kalimat + angka).\nKami bisa sediakan (data lengkap / wawancara / foto) minggu ini.\nRilis & foto: (link). Terima kasih — (nama, nomor)"
+    },
+    {
+      "t": "cta",
+      "title": "pitch pendek, *peluang* panjang",
+      "items": [
+        "Simpan template ini",
+        "Kirim ke rekan yang pegang media relations",
+        "Follow untuk tips PR mingguan"
+      ],
+      "sources": [
+        "Muck Rack, State of Journalism 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Pitch email kamu kepanjangan? 69% jurnalis lebih suka di bawah 200 kata. ✂️",
+    "lines": [
+      "Struktur 4 baris yang kami pakai:",
+      "1️⃣ Kenapa relevan untuk rubriknya",
+      "2️⃣ Beritanya dalam 1 kalimat + angka",
+      "3️⃣ Yang bisa ditawarkan: data, narasumber, foto",
+      "4️⃣ Link rilis + kontak",
+      "",
+      "Follow-up? Cukup 1 kali, 3–7 hari kemudian.",
+      "Template lengkap di slide 6."
+    ],
+    "li_hook": "Pitch yang dibalas jurnalis biasanya lebih pendek dari yang Anda kira.\nMenurut Muck Rack, 69% jurnalis lebih suka pitch di bawah 200 kata.",
+    "li_body": [
+      "Kesalahan paling umum yang kami lihat: pitch berisi seluruh rilis. Padahal pitch adalah undangan untuk membaca, bukan rilis itu sendiri.",
+      "Data yang sama dari Muck Rack State of Journalism 2025 juga menjawab soal follow-up: 50% jurnalis menganggap satu kali follow-up itu ideal, dan 51% ingin jaraknya 3–7 hari.",
+      "Struktur empat baris yang bisa langsung dipakai tim Anda:"
+    ],
+    "li_points": [
+      "Relevansi: kenapa topik ini cocok untuk rubrik atau pembacanya.",
+      "Berita dalam satu kalimat, lengkap dengan angka.",
+      "Penawaran: data, narasumber, atau foto yang siap.",
+      "Link rilis lengkap dan kontak yang aktif."
+    ],
+    "li_close": "Template lengkapnya ada di slide 6. Berapa panjang pitch tim Anda saat ini?",
+    "fb": "Ini template pitch email di bawah 200 kata. Strukturnya cuma 4 baris dan bisa langsung dipakai tim kamu 👇"
+  },
+  "tags": [
+    "#MediaRelations",
+    "#TipsPR"
+  ],
+  "price_status": null
+}

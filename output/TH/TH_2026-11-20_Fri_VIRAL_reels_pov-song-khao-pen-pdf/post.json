@@ -1,0 +1,131 @@
+{
+  "post_id": "th_20261120_viral",
+  "country": "TH",
+  "language": "th",
+  "date": "2026-11-20",
+  "day": "Fri",
+  "slot": "W1Fri",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "pov-song-khao-pen-pdf",
+  "title": "POV: ส่งข่าวประชาสัมพันธ์เป็นไฟล์ PDF แนบ",
+  "hook": "POV: คุณส่งข่าวประชาสัมพันธ์เป็นไฟล์ PDF แนบ 📎😶",
+  "cta": "ส่งต่อให้ทีมที่ยังแนบ PDF",
+  "times": {
+    "linkedin": "08:30 น.",
+    "instagram_facebook": "20:00 น."
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/th?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261120_viral",
+    "facebook": "https://www.vritimes.com/th?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261120_viral",
+    "linkedin": "https://www.vritimes.com/th?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261120_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "POV",
+      "title": "คุณส่งข่าว\nประชาสัมพันธ์เป็น\n*ไฟล์ PDF แนบ*"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "POV",
+        "text": "คุณส่งข่าวเป็น\n*ไฟล์ PDF แนบ*",
+        "icon": "pdf",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "หัวข้ออีเมล:\n*“Press Release”*",
+        "sub": "…ปนกับอีเมลอีกหลายร้อยฉบับวันนี้",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "นักข่าวต้องดาวน์โหลด เปิด แล้ว*คัดลอกเอง*",
+        "sub": "(ถ้ามีเวลา)",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "ทั้งที่นักข่าว *69%* ชอบ pitch ไม่เกิน 200 คำ",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "ที่ถูก: *ใส่เนื้อข่าวในตัวอีเมล* พาดหัวเป็นหัวข้อ ภาพส่งเป็นลิงก์",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "ให้ข่าวได้เจอ*สื่อ* ไม่ใช่เจอ*โฟลเดอร์เก็บถาวร*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "POV: คุณส่งข่าวประชาสัมพันธ์เป็นไฟล์ PDF แนบ",
+      "หัวข้ออีเมลเขียนแค่ Press Release",
+      "นักข่าวต้องดาวน์โหลด เปิด แล้วคัดลอกเอง",
+      "ทั้งที่นักข่าวหกสิบเก้าเปอร์เซ็นต์ชอบ pitch ไม่เกินสองร้อยคำ",
+      "ใส่เนื้อข่าวในตัวอีเมล ใช้พาดหัวเป็นหัวข้อ ส่งภาพเป็นลิงก์",
+      "ให้ข่าวได้เจอสื่อ ไม่ใช่เจอโฟลเดอร์เก็บถาวร"
+    ],
+    "broll": [
+      "กล่องจดหมายเต็มไปด้วยอีเมล (ภาพจำลอง ไม่มีชื่อจริง)",
+      "คลิกไฟล์ PDF แล้วโหลดช้า (screen recording จำลอง)",
+      "สีหน้าทีม VRITIMES (นักแสดงภายใน) แบบ “อืม…”",
+      "ตัวอย่างอีเมลที่ถูกต้องบนจอ (เทมเพลตภายใน)"
+    ],
+    "audio": "เสียงตลกแนว “awkward pause” หรือ lo-fi จังหวะสนุกจากคลังเสียงที่มีลิขสิทธิ์ของแพลตฟอร์ม"
+  },
+  "captions_meta": {
+    "hook": "POV: คุณส่งข่าวประชาสัมพันธ์เป็นไฟล์ PDF แนบ 📎😶",
+    "lines": [
+      "ดาวน์โหลด → เปิด → คัดลอก ทุกขั้นตอนที่เพิ่มขึ้นคือโอกาสที่หายไป",
+      "นักข่าว 69% ชอบ pitch ไม่เกิน 200 คำ (Muck Rack, 2025)",
+      "",
+      "ทำแบบนี้แทน:",
+      "✓ ใส่เนื้อข่าวในตัวอีเมล",
+      "✓ ใช้พาดหัวข่าวเป็นหัวข้ออีเมล",
+      "✓ ส่งภาพและเอกสารเป็นลิงก์"
+    ],
+    "li_hook": "นิสัยเล็กๆ ที่ทำให้ข่าวดีๆ ไม่ถูกอ่าน คือการส่งเป็นไฟล์ PDF แนบ\nฟังดูไม่สำคัญ แต่ผลกระทบไม่เล็ก",
+    "li_body": [
+      "Muck Rack (State of Journalism 2025) พบว่านักข่าว 69% ชอบ pitch ที่สั้นไม่เกิน 200 คำ นักข่าวต้องการตัดสินใจเร็วโดยไม่มีขั้นตอนเพิ่ม",
+      "ไฟล์ PDF แนบเพิ่มขั้นตอนถึงสามขั้น คือดาวน์โหลด เปิด และคัดลอก เมื่อรวมกับหัวข้ออีเมลกว้างๆ โอกาสถูกอ่านยิ่งลดลง"
+    ],
+    "li_points": [
+      "วางเนื้อข่าวในตัวอีเมลโดยตรง",
+      "ใช้พาดหัวข่าวเป็นหัวข้ออีเมล",
+      "ส่งภาพและเอกสารประกอบเป็นลิงก์",
+      "หากใช้แพลตฟอร์มกระจายข่าว ให้ข่าวอยู่บนหน้าเว็บที่เข้าถึงและอ้างอิงได้"
+    ],
+    "li_close": "องค์กรของคุณยังยืนยันให้ส่ง PDF เพราะดู “เป็นทางการกว่า” หรือไม่?",
+    "fb": "ใครยังส่งข่าวประชาสัมพันธ์เป็น PDF แนบบ้าง 😅 ดูให้จบ มีวิธีที่นักข่าวชอบมากกว่า"
+  },
+  "tags": [
+    "#ชีวิตคนทำPR",
+    "#ข่าวประชาสัมพันธ์"
+  ],
+  "price_status": null
+}

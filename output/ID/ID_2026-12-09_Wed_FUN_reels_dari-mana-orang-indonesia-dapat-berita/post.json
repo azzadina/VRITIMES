@@ -1,0 +1,129 @@
+{
+  "post_id": "id_20261209_fun",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-12-09",
+  "day": "Wed",
+  "slot": "W4Wed",
+  "pillar": "FUN",
+  "format": "reel",
+  "grid_tile": "b",
+  "slug": "dari-mana-orang-indonesia-dapat-berita",
+  "title": "Dari mana orang Indonesia dapat berita?",
+  "hook": "57% orang Indonesia dapat berita dari media sosial & aplikasi chat. 📱",
+  "cta": "Share ke tim social media",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "19:30 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261209_fun",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261209_fun",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261209_fun"
+  },
+  "sources": [
+    {
+      "name": "Reuters Institute",
+      "title": "Digital News Report 2025",
+      "year": 2025,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf",
+      "short": "Reuters Institute, Digital News Report 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "dari mana orang Indonesia *dapat berita*?"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "fun fact",
+        "text": "dari mana orang Indonesia *dapat berita*?",
+        "icon": "news",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "*57%* dari media sosial & aplikasi chat",
+        "sub": "WhatsApp, YouTube, Facebook, Instagram",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "*34%* pakai TikTok untuk berita",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.0,
+        "theme": "navy"
+      },
+      {
+        "text": "tapi hanya *36%* percaya sebagian besar berita",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "artinya: rilis perlu *dimuat media* & *dibagikan di sosial*",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "kredibel di media, *terlihat* di feed",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "Dari mana orang Indonesia dapat berita?",
+      "Lima puluh tujuh persen dari media sosial dan aplikasi chat.",
+      "Tiga puluh empat persen pakai TikTok untuk berita.",
+      "Tapi hanya tiga puluh enam persen yang percaya sebagian besar berita.",
+      "Jadi rilis kamu perlu dimuat media dan dibagikan di sosial.",
+      "Kredibel di media, terlihat di feed."
+    ],
+    "broll": [
+      "Scroll feed ponsel (mock UI, tanpa akun asli)",
+      "Grafik batang animasi 57% / 34% / 36% (dari kartu teks)",
+      "Tangan memegang koran + ponsel (talent internal)"
+    ],
+    "audio": "Upbeat \"fact reveal\" / ticking beat dari pustaka audio berlisensi platform"
+  },
+  "captions_meta": {
+    "hook": "57% orang Indonesia dapat berita dari media sosial & aplikasi chat. 📱",
+    "lines": [
+      "Data Reuters Institute Digital News Report 2025:",
+      "• 57% dari platform sosial (WhatsApp, YouTube, Facebook, Instagram)",
+      "• 34% pakai TikTok untuk berita",
+      "• Hanya 36% percaya sebagian besar berita",
+      "",
+      "Pelajarannya: kredibilitas datang dari media, jangkauan datang dari sosial. Butuh dua-duanya."
+    ],
+    "li_hook": "Menurut Reuters Institute (2025), 57% responden Indonesia mendapat berita dari platform sosial, tetapi hanya 36% yang percaya sebagian besar berita.\nApa artinya untuk strategi komunikasi brand?",
+    "li_body": [
+      "Dua angka itu terlihat bertentangan, padahal saling melengkapi. Audiens menemukan berita di feed, tetapi menimbang kredibilitasnya dari sumber.",
+      "Bagi brand, implikasinya praktis:"
+    ],
+    "li_points": [
+      "Rilis yang dimuat media memberi sumber yang bisa dirujuk dan diverifikasi.",
+      "Liputan itu perlu dibagikan ulang di kanal sosial, termasuk format video pendek (TikTok dipakai 34% responden untuk berita).",
+      "Pesan harus konsisten di media dan di sosial agar tidak menimbulkan keraguan."
+    ],
+    "li_close": "Bagaimana tim Anda membagikan liputan media di kanal sosial?",
+    "fb": "Fun fact: 57% orang Indonesia mendapat berita dari media sosial. Tapi tingkat kepercayaannya? Tonton sampai habis 👀"
+  },
+  "tags": [
+    "#MediaIndonesia",
+    "#FunFact"
+  ],
+  "price_status": null
+}

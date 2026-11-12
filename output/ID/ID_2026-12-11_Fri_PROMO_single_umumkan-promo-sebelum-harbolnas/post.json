@@ -1,0 +1,94 @@
+{
+  "post_id": "id_20261211_promo",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-12-11",
+  "day": "Fri",
+  "slot": "W4Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "a",
+  "slug": "umumkan-promo-sebelum-harbolnas",
+  "title": "Umumkan promo 12.12 sebelum 12.12",
+  "hook": "Harbolnas tinggal hitungan hari. Rilis promo kamu sudah siap? 🛒",
+  "cta": "Cek harga terbaru di link",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "12:00 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261211_promo",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261211_promo",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202612&utm_content=id_20261211_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (ID) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/id/service/pricing",
+      "short": "vritimes.com/id/service/pricing"
+    },
+    {
+      "name": "ANTARA News",
+      "title": "Harbolnas 2025 transactions reach Rp36.4 trillion",
+      "year": 2025,
+      "url": "https://en.antaranews.com/news/398479/homepage-v2.html",
+      "short": "ANTARA (2025)"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "jelang 12.12",
+      "title": "umumkan promo 12.12 *sebelum* 12.12",
+      "items": [
+        "Rilis tayang di media sebelum puncak belanja",
+        "Backlink ke halaman promo atau toko Anda",
+        "Laporan distribusi untuk evaluasi kampanye"
+      ],
+      "price": "harga mulai dari — cek link",
+      "src": "vritimes.com/id/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Harbolnas tinggal hitungan hari. Rilis promo kamu sudah siap? 🛒",
+    "lines": [
+      "Harbolnas 2025 dilaporkan mencatat transaksi Rp36,4 triliun (ANTARA).",
+      "Di momen sebesar itu, yang muncul duluan di media yang dilirik.",
+      "",
+      "Dengan VRITIMES:",
+      "✓ Rilis tayang sebelum puncak belanja",
+      "✓ Backlink ke halaman promo/toko",
+      "✓ Laporan distribusi untuk evaluasi",
+      "",
+      "Harga & paket terbaru di link bio."
+    ],
+    "ig_cta": "Cek harga & paket terbaru di link bio.",
+    "li_hook": "Rilis promo akhir tahun yang terbit setelah puncak belanja hampir tidak punya nilai berita.\nWaktunya adalah sekarang.",
+    "li_body": [
+      "Harbolnas 2025 dilaporkan mencatat transaksi Rp36,4 triliun (ANTARA). Persaingan perhatian di media pada pekan itu sangat ketat. Rilis yang terbit beberapa hari sebelumnya punya peluang lebih besar dikutip dan dibagikan.",
+      "Yang bisa Anda lakukan minggu ini lewat VRITIMES:"
+    ],
+    "li_points": [
+      "Distribusikan rilis promo atau program 12.12 dengan penempatan media terjamin (jumlah sesuai paket).",
+      "Arahkan backlink ke halaman promo atau toko online Anda.",
+      "Gunakan laporan distribusi untuk evaluasi kampanye akhir tahun."
+    ],
+    "li_close": "Detail paket dan harga terbaru ada di halaman resmi kami.",
+    "fb": "Jangan sampai rilis promo 12.12 kamu terbit setelah 12.12 😅 Cek paket VRITIMES di sini 👇"
+  },
+  "tags": [
+    "#Harbolnas",
+    "#UMKM"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

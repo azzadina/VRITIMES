@@ -1,0 +1,150 @@
+{
+  "post_id": "vn_20261130_edu",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-11-30",
+  "day": "Mon",
+  "slot": "W3Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "b",
+  "slug": "backlink-seo-thong-cao-bao-chi",
+  "title": "Dùng thông cáo báo chí để làm SEO? Đọc chính sách của Google trước",
+  "hook": "Gửi thông cáo báo chí để lấy backlink? Google có chính sách riêng về việc này. 🔗",
+  "cta": "Lưu lại và gửi cho team SEO",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "11:30 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261130_edu",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261130_edu",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261130_edu"
+  },
+  "sources": [
+    {
+      "name": "Google Search Central",
+      "title": "Spam policies for Google web search (link spam)",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "short": "Google Search Central, Spam policies"
+    },
+    {
+      "name": "Google Search Central",
+      "title": "Qualify your outbound links to Google",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links",
+      "short": "Google Search Central, Qualify outbound links"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "seo x pr",
+      "title": "thông cáo để làm SEO? *đọc cái này trước*",
+      "sub": "google nói thẳng"
+    },
+    {
+      "t": "quote",
+      "text": "Google xếp các liên kết có *anchor text tối ưu hoá* trong thông cáo báo chí phát tán sang website khác vào nhóm *link spam*.",
+      "size": 68,
+      "by": "— Google Search Central, chính sách spam",
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "compare",
+      "title": "*rủi ro* vs *an toàn*",
+      "left": {
+        "h": "rủi ro",
+        "items": [
+          "Anchor \"dịch vụ SEO giá rẻ TP.HCM\" ở mọi đoạn",
+          "Thông cáo không có tin, chỉ để lấy link",
+          "Hàng chục link trong một thông cáo"
+        ]
+      },
+      "right": {
+        "h": "an toàn",
+        "items": [
+          "Tên thương hiệu hoặc URL làm anchor",
+          "Tin tức khiến báo khác viết tiếp",
+          "1–2 link tới trang liên quan"
+        ]
+      },
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "point",
+      "icon": "link",
+      "title": "vậy link từ thông cáo *có giá trị* gì?",
+      "body": "Ba điều thực tế: **lượt truy cập giới thiệu** từ người đọc, **nhắc đến thương hiệu** trên trang tin giúp mọi người nhận diện bạn, và **bài viết tiếp theo** từ nhà báo tìm thấy thông cáo."
+    },
+    {
+      "t": "point",
+      "icon": "shield",
+      "title": "rel=\"sponsored\" là *bình thường*",
+      "body": "Google yêu cầu link trả phí hoặc đặt bài phải gắn **rel=\"sponsored\"** hoặc **nofollow**. Vì vậy hãy đo thông cáo bằng ai đọc và ai viết tiếp, không phải \"link juice\".",
+      "src": "Google Search Central, Qualify outbound links"
+    },
+    {
+      "t": "list",
+      "title": "checklist thông cáo *an toàn SEO*",
+      "items": [
+        "Từ khoá xuất hiện tự nhiên trong tiêu đề",
+        "Một link chính tới trang liên quan",
+        "Anchor = tên thương hiệu hoặc URL",
+        "Có số liệu hoặc trích dẫn đáng để báo khác dẫn lại",
+        "Theo dõi lượt nhắc thương hiệu, không chỉ đếm link"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "PR tốt *hỗ trợ* SEO. không phải ngược lại.",
+      "items": [
+        "Lưu checklist này",
+        "Gửi cho team SEO của bạn"
+      ],
+      "sources": [
+        "Google Search Central — Spam policies",
+        "Google Search Central — Qualify outbound links"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Gửi thông cáo báo chí để lấy backlink? Google có chính sách riêng về việc này. 🔗",
+    "lines": [
+      "Google xếp anchor text tối ưu hoá trong thông cáo phát tán sang website khác vào nhóm link spam.",
+      "",
+      "Cách an toàn:",
+      "✓ Anchor = tên thương hiệu / URL",
+      "✓ 1–2 link tới trang liên quan",
+      "✓ Tin tức khiến báo khác viết tiếp",
+      "",
+      "Giá trị thật: lượt truy cập, lượt nhắc thương hiệu và bài viết tự nhiên."
+    ],
+    "li_hook": "\"Gửi thông cáo để lấy backlink\" là chiến thuật Google nêu đích danh trong chính sách spam.\nĐây là cách dùng thông cáo báo chí cho SEO mà không gặp rủi ro.",
+    "li_body": [
+      "Trong tài liệu Spam policies, Google Search Central liệt kê các liên kết có anchor text tối ưu hoá trong bài viết, guest post hoặc thông cáo báo chí phát tán sang website khác là ví dụ của link spam. Google cũng yêu cầu link trả phí hoặc đặt bài gắn rel=\"sponsored\" hoặc nofollow.",
+      "Vậy thông cáo vô dụng với SEO? Ngược lại, miễn là bạn đo đúng thứ:"
+    ],
+    "li_points": [
+      "Lượt truy cập giới thiệu từ người đọc bấm vào.",
+      "Lượt nhắc thương hiệu trên trang tin, giúp củng cố nhận diện.",
+      "Bài viết tự nhiên từ nhà báo tìm thấy thông cáo và viết phiên bản của riêng họ. Đây là giá trị SEO lớn nhất.",
+      "Thực hành an toàn: anchor là tên thương hiệu/URL, một link chính và tin tức thật sự đáng trích dẫn."
+    ],
+    "li_close": "Đội của bạn hiện đo tác động SEO của thông cáo như thế nào?",
+    "fb": "Nhiều doanh nghiệp gửi thông cáo chỉ để lấy backlink. Trước khi làm tiếp, hãy xem Google nói gì 👇"
+  },
+  "tags": [
+    "#SEO",
+    "#DigitalPR"
+  ],
+  "price_status": null
+}

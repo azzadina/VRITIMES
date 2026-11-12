@@ -1,0 +1,93 @@
+{
+  "post_id": "th_20261127_promo",
+  "country": "TH",
+  "language": "th",
+  "date": "2026-11-27",
+  "day": "Fri",
+  "slot": "W2Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "b",
+  "slug": "dashboard-diaw-khian-krajai-rai-ngan",
+  "title": "เขียน กระจาย และดูผลลัพธ์ในแดชบอร์ดเดียว",
+  "hook": "Black Friday ลดอะไรก็ได้ ยกเว้นความน่าเชื่อถือของแบรนด์ 😉",
+  "cta": "ดูแพ็กเกจที่ vritimes.com/th",
+  "times": {
+    "linkedin": "08:30 น.",
+    "instagram_facebook": "12:00 น."
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/th?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261127_promo",
+    "facebook": "https://www.vritimes.com/th?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261127_promo",
+    "linkedin": "https://www.vritimes.com/th?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261127_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Service page (TH)",
+      "year": 2026,
+      "url": "https://www.vritimes.com/th/service",
+      "short": "vritimes.com/th/service"
+    },
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (TH) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/th/service/pricing",
+      "short": "vritimes.com/th/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "แดชบอร์ดเดียว",
+      "title": "เขียน *ส่ง*\nแล้วดูผลลัพธ์",
+      "items": [
+        "การันตีการเผยแพร่บนสื่อต่อข่าว (จำนวนตามแพ็กเกจ)",
+        "Backlink + แชร์บนช่องทางโซเชียลของ VRITIMES",
+        "รายงานหลังเผยแพร่ ส่งต่อหัวหน้าหรือลูกค้าได้ทันที"
+      ],
+      "price": "ราคาเริ่มต้น — ดูที่ลิงก์",
+      "src": "vritimes.com/th/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Black Friday ลดอะไรก็ได้ ยกเว้นความน่าเชื่อถือของแบรนด์ 😉",
+    "lines": [
+      "VRITIMES รวมทุกอย่างไว้ในแดชบอร์ดเดียว:",
+      "✓ เขียนและส่งข่าวประชาสัมพันธ์",
+      "✓ การันตีการเผยแพร่บนสื่อต่อข่าว (จำนวนตามแพ็กเกจ)",
+      "✓ Backlink + แชร์บนโซเชียลของ VRITIMES",
+      "✓ รายงานหลังเผยแพร่",
+      "",
+      "แพ็กเกจและราคาล่าสุด: ลิงก์ในไบโอ"
+    ],
+    "ig_cta": "ดูแพ็กเกจล่าสุดได้ที่ลิงก์ในไบโอ",
+    "li_hook": "หลายทีมการตลาดยังกระจายข่าวด้วยสเปรดชีตรายชื่อสื่อ ส่งอีเมลทีละฉบับ และใช้ภาพแคปหน้าจอเป็นรายงาน\nมีวิธีที่เป็นระบบกว่านั้น",
+    "li_body": [
+      "VRITIMES สร้างมาสำหรับสตาร์ทอัพและ SME ที่อยากให้ข่าวได้เผยแพร่ โดยไม่ต้องสร้างฐานข้อมูลสื่อเอง",
+      "ขั้นตอนทั้งหมดอยู่ในแดชบอร์ดเดียว:"
+    ],
+    "li_points": [
+      "เขียนและอัปโหลดข่าวประชาสัมพันธ์",
+      "กระจายข่าวพร้อมการันตีการเผยแพร่บนสื่อต่อข่าว (จำนวนสื่อตามแพ็กเกจ)",
+      "Backlink กลับมายังเว็บไซต์และแชร์บนโซเชียลของ VRITIMES",
+      "รายงานหลังเผยแพร่ที่ส่งต่อหัวหน้าหรือลูกค้าได้ทันที"
+    ],
+    "li_close": "แพ็กเกจและราคาล่าสุดอยู่บนหน้าเว็บไซต์ทางการของเรา",
+    "fb": "ส่งข่าวประชาสัมพันธ์แบบไม่วุ่นวาย: เขียน กระจาย และดูผลลัพธ์ในแดชบอร์ดเดียว ดูแพ็กเกจได้ที่นี่ 👇"
+  },
+  "tags": [
+    "#ข่าวประชาสัมพันธ์",
+    "#SMEไทย"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

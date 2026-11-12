@@ -1,0 +1,133 @@
+{
+  "post_id": "th_20261202_viral",
+  "country": "TH",
+  "language": "th",
+  "date": "2026-12-02",
+  "day": "Wed",
+  "slot": "W3Wed",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "mai-mi-khrai-tham-khon-tham-pr",
+  "title": "ไม่มีใครถาม / คนทำ PR:",
+  "hook": "ไม่มีใครถาม: / คนทำ PR: 😅",
+  "cta": "คอมเมนต์ว่าข้อไหนคือคุณ",
+  "times": {
+    "linkedin": "08:30 น.",
+    "instagram_facebook": "20:00 น."
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/th?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_th_202612&utm_content=th_20261202_viral",
+    "facebook": "https://www.vritimes.com/th?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_th_202612&utm_content=th_20261202_viral",
+    "linkedin": "https://www.vritimes.com/th?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_th_202612&utm_content=th_20261202_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "relatable",
+      "title": "ไม่มีใครถาม:\n*คนทำ PR:*"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "relatable",
+        "text": "ไม่มีใครถาม:\n*คนทำ PR:*",
+        "dur": 2.5,
+        "theme": "navy"
+      },
+      {
+        "text": "“ขอเช็กพาดหัวอีก*รอบเดียว*”",
+        "sub": "(รอบที่ 14)",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "อ่าน*ย่อหน้าแรก*ของทุกข่าวที่เจอ แล้วแอบให้คะแนน",
+        "sub": "5W1H ครบไหมเนี่ย",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "ตัด pitch จาก 450 คำ เหลือ *180 คำ*",
+        "sub": "เพราะนักข่าว 69% ชอบไม่เกิน 200 คำ",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "ตั้งเตือน “ตามงาน” *5 วัน*หลังส่ง",
+        "sub": "ไม่ใช่ทุกวัน ใจเย็น",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "เห็นข่าวตัวเองได้ลง = *ฟินทั้งวัน*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "blue"
+      }
+    ],
+    "vo": [
+      "ไม่มีใครถาม คนทำ PR",
+      "ขอเช็กพาดหัวอีกรอบเดียว รอบที่สิบสี่",
+      "อ่านย่อหน้าแรกของทุกข่าว แล้วแอบให้คะแนน",
+      "ตัด pitch เหลือไม่ถึงสองร้อยคำ",
+      "ตั้งเตือนตามงานห้าวันหลังส่ง",
+      "เห็นข่าวตัวเองได้ลง ฟินทั้งวัน"
+    ],
+    "broll": [
+      "นักแสดงภายในทำท่าเช็กเอกสารซ้ำ (props กระดาษ)",
+      "หน้าจอแก้ไขอีเมลและตัวนับคำ (ภาพจำลอง)",
+      "ปฏิทินในโทรศัพท์ตั้งเตือน “ตามงาน” (ภาพจำลอง)",
+      "ภาพหน้าจอข่าวที่เผยแพร่จากบัญชีเดโม"
+    ],
+    "audio": "เสียงเทรนด์แนว “nobody: / me:” หรือบีตสนุกจากคลังเสียงที่มีลิขสิทธิ์ของแพลตฟอร์ม"
+  },
+  "captions_meta": {
+    "hook": "ไม่มีใครถาม: / คนทำ PR: 😅",
+    "lines": [
+      "• เช็กพาดหัวอีก “รอบเดียว” (รอบที่ 14)",
+      "• อ่านย่อหน้าแรกของทุกข่าวแล้วแอบให้คะแนน",
+      "• ตัด pitch ให้เหลือไม่เกิน 200 คำ (นักข่าว 69% ชอบแบบนี้)",
+      "• ตามงานครั้งเดียว 3–7 วันหลังส่ง",
+      "• เห็นข่าวตัวเองได้ลง = ฟินทั้งวัน",
+      "",
+      "ข้อไหนคือคุณ? คอมเมนต์เลย 👇"
+    ],
+    "ig_cta": "แท็กเพื่อนสาย PR ที่ต้องเห็นคลิปนี้ ลิงก์อยู่ในไบโอ",
+    "li_hook": "คลิปขำๆ เกี่ยวกับนิสัยคนทำ PR แต่เบื้องหลังคือแนวปฏิบัติที่มีข้อมูลรองรับ",
+    "li_body": [
+      "นิสัยที่ดูเหมือน “เยอะ” ของคนทำ PR หลายข้อ จริงๆ แล้วสอดคล้องกับสิ่งที่นักข่าวต้องการ Muck Rack State of Journalism 2025 ให้ตัวเลขที่ใช้อ้างอิงได้:"
+    ],
+    "li_points": [
+      "นักข่าว 69% ชอบ pitch ไม่เกิน 200 คำ",
+      "50% บอกว่าตามงานครั้งเดียวกำลังดี",
+      "51% อยากให้ตามงานหลังส่ง 3–7 วัน",
+      "ย่อหน้าแรกที่ตอบ 5W1H ช่วยให้บรรณาธิการตัดสินใจได้เร็ว"
+    ],
+    "li_close": "นิสัยไหนของคุณที่คนรอบตัวว่าเยอะ แต่ได้ผลจริง?",
+    "fb": "คนทำ PR ดูแล้วต้องร้อง “นี่มันเราชัดๆ” 😆 ข้อไหนตรงกับคุณที่สุด?"
+  },
+  "tags": [
+    "#ชีวิตคนทำPR",
+    "#การตลาด"
+  ],
+  "price_status": null
+}

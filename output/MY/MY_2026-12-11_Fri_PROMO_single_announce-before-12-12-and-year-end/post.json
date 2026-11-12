@@ -1,0 +1,84 @@
+{
+  "post_id": "my_20261211_promo",
+  "country": "MY",
+  "language": "en",
+  "date": "2026-12-11",
+  "day": "Fri",
+  "slot": "W4Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "a",
+  "slug": "announce-before-12-12-and-year-end",
+  "title": "Get your year-end news out before 12.12",
+  "hook": "12.12 is tomorrow. Next year's announcements can start today. 🛒",
+  "cta": "Check current pricing via the link",
+  "times": {
+    "linkedin": "08:30 MYT",
+    "instagram_facebook": "12:30 MYT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/my?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261211_promo",
+    "facebook": "https://www.vritimes.com/my?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261211_promo",
+    "linkedin": "https://www.vritimes.com/my?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261211_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (MY) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/my/service/pricing",
+      "short": "vritimes.com/my/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "before 12.12",
+      "title": "year-end news? *publish it* before the rush",
+      "items": [
+        "Published before peak shopping & holiday days",
+        "Backlink to your promo or product page",
+        "Distribution report to review the campaign"
+      ],
+      "price": "starts from — see link",
+      "src": "vritimes.com/my/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "12.12 is tomorrow. Next year's announcements can start today. 🛒",
+    "lines": [
+      "Year-end newsrooms fill up fast. Get in early:",
+      "✓ Published before peak shopping & holiday days",
+      "✓ Backlink to your promo/product page",
+      "✓ Distribution report to review results",
+      "",
+      "Latest plans & pricing: link in bio."
+    ],
+    "ig_cta": "Check current plans & pricing via the link in bio.",
+    "li_hook": "A year-end release published after the peak has almost no news value.\nThe window is now, and it closes with the holidays.",
+    "li_body": [
+      "Between 12.12, Christmas and New Year, newsrooms run lean and inboxes run full. Releases that land before the slowdown have a far better chance of being picked up and shared.",
+      "What you can do this week with VRITIMES:"
+    ],
+    "li_points": [
+      "Distribute your year-end promo, results or January announcement with guaranteed media placement (count depends on plan).",
+      "Point the backlink to your promo or product page.",
+      "Use the distribution report to review the campaign and plan Q1."
+    ],
+    "li_close": "Current plans and pricing are on our official page.",
+    "fb": "Don't let your year-end news land after everyone's gone on leave 😅 See VRITIMES plans here 👇"
+  },
+  "tags": [
+    "#12dot12",
+    "#MalaysiaSME"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

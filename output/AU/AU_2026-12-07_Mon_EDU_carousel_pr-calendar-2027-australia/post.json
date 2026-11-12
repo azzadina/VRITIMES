@@ -1,0 +1,151 @@
+{
+  "post_id": "au_20261207_edu",
+  "country": "AU",
+  "language": "en",
+  "date": "2026-12-07",
+  "day": "Mon",
+  "slot": "W4Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "pr-calendar-2027-australia",
+  "title": "PR calendar 2027 for Australian businesses",
+  "hook": "Your 2027 PR calendar can be built today. 🗓️",
+  "cta": "Save for your 2027 planning",
+  "times": {
+    "linkedin": "08:00 AEDT",
+    "instagram_facebook": "12:00 AEDT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/au?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261207_edu",
+    "facebook": "https://www.vritimes.com/au?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261207_edu",
+    "linkedin": "https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261207_edu"
+  },
+  "sources": [
+    {
+      "name": "ASBFEO",
+      "title": "Contribution to Australian business numbers",
+      "year": 2026,
+      "url": "https://www.asbfeo.gov.au/contribution-australian-business-numbers",
+      "short": "ASBFEO (2026)"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "planning 2027",
+      "title": "your 2027 PR calendar, *sorted early*",
+      "sub": "save it for the planning meeting",
+      "icons": [
+        "cal",
+        "chart",
+        "mega"
+      ]
+    },
+    {
+      "t": "point",
+      "icon": "cal",
+      "title": "why a calendar beats *reacting*",
+      "body": "Reactive releases almost always arrive late. A calendar means data, photos and spokespeople are ready **before** journalists go looking."
+    },
+    {
+      "t": "list",
+      "title": "Q1 · jan–mar",
+      "items": [
+        "Mid-Jan return to work: newsrooms hungry for fresh news",
+        "Back-to-school & new-year consumer angles",
+        "Half-year results (Feb): publish your milestones"
+      ]
+    },
+    {
+      "t": "list",
+      "title": "Q2 · apr–jun",
+      "items": [
+        "Federal Budget (usually May): react with small-business commentary",
+        "EOFY on 30 June: tax-time and planning angles",
+        "Mid-year customer data"
+      ]
+    },
+    {
+      "t": "list",
+      "title": "Q3 · jul–sep",
+      "items": [
+        "New financial year from 1 July: plans, hires, pricing",
+        "Partnership & funding announcements",
+        "Prep for spring events"
+      ]
+    },
+    {
+      "t": "list",
+      "title": "Q4 · oct–dec",
+      "items": [
+        "Black Friday (26 Nov 2027) & Cyber Monday",
+        "Christmas shutdown from mid-Dec: publish before",
+        "Year in review & 2028 outlook"
+      ]
+    },
+    {
+      "t": "point",
+      "title": "the *T-14 to T+3* rule",
+      "body": "A working timeline for every moment:",
+      "exlab": "timeline",
+      "ex": "T-14 research & data · T-7 final release + photos · T-3 pitch journalists · Day 0 publish & share · T+3 coverage recap"
+    },
+    {
+      "t": "stat",
+      "big": "97%",
+      "label": "of actively trading businesses are small businesses",
+      "body": "They all compete for the same news days around Budget, EOFY and Christmas. Preparation decides who gets a run.",
+      "src": "ASBFEO (2026)"
+    },
+    {
+      "t": "cta",
+      "title": "plan 2027 PR *now*",
+      "items": [
+        "Save this calendar",
+        "Mark 3 moments for your business",
+        "Send it to your marketing team"
+      ],
+      "sources": [
+        "ASBFEO (2026)"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Your 2027 PR calendar can be built today. 🗓️",
+    "lines": [
+      "Q1: back-to-work news appetite, half-year results",
+      "Q2: Federal Budget, EOFY (30 June)",
+      "Q3: new financial year, partnerships & funding",
+      "Q4: Black Friday, Cyber Monday, Christmas shutdown",
+      "",
+      "Workflow: T-14 research → T-7 final release → T-3 pitch → Day 0 → T+3 recap."
+    ],
+    "li_hook": "The businesses that get coverage around big moments prepared their releases weeks earlier.\nA 2027 PR calendar framework for Australia.",
+    "li_body": [
+      "Small businesses make up 97% of actively trading businesses in Australia (ASBFEO, 2026), and they all compete for the same news days. Preparation, not volume, decides who gets covered.",
+      "A quarterly framework to adapt:"
+    ],
+    "li_points": [
+      "Q1: the mid-January return to work, when newsrooms are hungry for news, plus half-year results.",
+      "Q2: Federal Budget commentary (usually May) and EOFY angles.",
+      "Q3: new financial year plans, hires and pricing, plus partnership and funding news.",
+      "Q4: Black Friday and Cyber Monday, then publish before the Christmas shutdown.",
+      "For every moment: T-14 research, T-7 final release, T-3 pitch, Day 0 publish, T+3 recap."
+    ],
+    "li_close": "Which moment matters most for your business next year?",
+    "fb": "Started on 2027 yet? Here's a quarter-by-quarter PR calendar for Australian businesses 👇"
+  },
+  "tags": [
+    "#PRcalendar",
+    "#Planning2027"
+  ],
+  "price_status": null
+}

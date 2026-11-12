@@ -1,0 +1,137 @@
+{
+  "post_id": "au_20261204_edu",
+  "country": "AU",
+  "language": "en",
+  "date": "2026-12-04",
+  "day": "Fri",
+  "slot": "W3Fri",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "press-release-embargoes-explained",
+  "title": "Press release embargoes, explained",
+  "hook": "Embargoes can make your launch, or burn a media relationship. Here's how to use them properly. ⏰",
+  "cta": "Save before your next launch",
+  "times": {
+    "linkedin": "08:00 AEDT",
+    "instagram_facebook": "12:00 AEDT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/au?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261204_edu",
+    "facebook": "https://www.vritimes.com/au?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261204_edu",
+    "linkedin": "https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261204_edu"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "media relations",
+      "title": "embargoes: *how to use them* without burning bridges",
+      "icons": [
+        "clock",
+        "mail",
+        "shield"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "01",
+      "title": "what an embargo *is*",
+      "body": "A request that journalists don't publish before a set date and time. It gives them time to prepare a better story. It is an **agreement**, not a legal contract."
+    },
+    {
+      "t": "point",
+      "n": "02",
+      "title": "when it's *worth it*",
+      "body": "Complex news that needs time: research findings, funding rounds, product launches with demos. If the news fits in one sentence, you probably don't need one."
+    },
+    {
+      "t": "point",
+      "n": "03",
+      "title": "ask *before* you send",
+      "body": "Offer the news under embargo and wait for a yes. Sending embargoed material unasked and hoping it's honoured is how leaks happen."
+    },
+    {
+      "t": "point",
+      "n": "04",
+      "title": "timezone-proof *timing*",
+      "body": "Write the full time and zone, and check it against the journalist's timezone.",
+      "ex": "\"EMBARGOED UNTIL 6:00am AEDT, Tuesday 24 November 2026\""
+    },
+    {
+      "t": "point",
+      "n": "05",
+      "title": "respect their *workload*",
+      "body": "Journalists are stretched: 62% took on more responsibilities this year. Give enough lead time (two to five working days for most news) and everything they need in one go.",
+      "src": "Muck Rack, State of Journalism 2025"
+    },
+    {
+      "t": "list",
+      "title": "embargo checklist",
+      "items": [
+        "News complex enough to need prep time",
+        "Journalist agreed before receiving details",
+        "Date, time AND timezone in the subject line",
+        "Assets, data and spokesperson ready on day one",
+        "A plan if it breaks early"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "embargo = *trust*. treat it that way.",
+      "items": [
+        "Save this checklist",
+        "Send it to whoever runs your launches"
+      ],
+      "sources": [
+        "Muck Rack, State of Journalism 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Embargoes can make your launch, or burn a media relationship. Here's how to use them properly. ⏰",
+    "lines": [
+      "01 It's an agreement, not a contract",
+      "02 Use it for complex news that needs prep time",
+      "03 Ask before you send the details",
+      "04 Full date, time and timezone (AEDT!)",
+      "05 Respect their workload: 62% of journalists took on more this year",
+      "",
+      "Checklist on slide 7."
+    ],
+    "li_hook": "An embargo is one of the few tools that gives journalists more time to do a better story.\nUsed badly, it is also the fastest way to lose their trust.",
+    "li_body": [
+      "Newsrooms are stretched. Muck Rack's State of Journalism 2025 found 62% of journalists took on more responsibilities this year. An embargo helps when it gives them time to prepare; it hurts when it adds admin or confusion.",
+      "How we recommend using one:"
+    ],
+    "li_points": [
+      "Reserve it for news that needs preparation: research, funding, launches with demos.",
+      "Ask first. Share details only after the journalist agrees to the embargo.",
+      "State the date, time and timezone in full, e.g. 6:00am AEDT, Tuesday 24 November 2026.",
+      "Give reasonable lead time and send every asset in one package.",
+      "Have a plan if it breaks early: publish your own version immediately."
+    ],
+    "li_close": "Have you had an embargo broken? What did you change afterwards?",
+    "fb": "Planning a launch? Here's how to use a press release embargo without upsetting journalists 👇"
+  },
+  "tags": [
+    "#MediaRelations",
+    "#PRtips"
+  ],
+  "price_status": null
+}

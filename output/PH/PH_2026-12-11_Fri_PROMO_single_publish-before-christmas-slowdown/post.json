@@ -1,0 +1,84 @@
+{
+  "post_id": "ph_20261211_promo",
+  "country": "PH",
+  "language": "en",
+  "date": "2026-12-11",
+  "day": "Fri",
+  "slot": "W4Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "a",
+  "slug": "publish-before-christmas-slowdown",
+  "title": "Publish your holiday news before the Christmas slowdown",
+  "hook": "Christmas is coming and newsrooms are slowing down. Is your announcement out? 🎄",
+  "cta": "Check current pricing via the link",
+  "times": {
+    "linkedin": "08:30 PHT",
+    "instagram_facebook": "12:00 PHT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/ph?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261211_promo",
+    "facebook": "https://www.vritimes.com/ph?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261211_promo",
+    "linkedin": "https://www.vritimes.com/ph?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261211_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (PH) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/ph/service/pricing",
+      "short": "vritimes.com/ph/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "before the holidays",
+      "title": "holiday news? *publish it* before the slowdown",
+      "items": [
+        "Published before 12.12 and the Christmas rush",
+        "Backlink to your promo or product page",
+        "Distribution report to review the campaign"
+      ],
+      "price": "starts from — see link",
+      "src": "vritimes.com/ph/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Christmas is coming and newsrooms are slowing down. Is your announcement out? 🎄",
+    "lines": [
+      "Get in before 12.12 and the holiday rush:",
+      "✓ Published before peak shopping days",
+      "✓ Backlink to your promo/product page",
+      "✓ Distribution report to review results",
+      "",
+      "Latest plans & pricing: link in bio."
+    ],
+    "ig_cta": "Check current plans & pricing via the link in bio.",
+    "li_hook": "A holiday announcement published after newsrooms go on Christmas mode has very little news value.\nThe window is now.",
+    "li_body": [
+      "Between 12.12, the 8 December holiday and Christmas, newsrooms run lean and inboxes run full. Releases that land before the slowdown have a better chance of being picked up and shared.",
+      "What you can do this week with VRITIMES:"
+    ],
+    "li_points": [
+      "Distribute your holiday promo, year-end results or January announcement with guaranteed media placement (count depends on plan).",
+      "Point the backlink to your promo or product page.",
+      "Use the distribution report to review the campaign and plan Q1."
+    ],
+    "li_close": "Current plans and pricing are on our official page.",
+    "fb": "Huwag hintayin ang Christmas break 😅 Publish your holiday news early. See VRITIMES plans here 👇"
+  },
+  "tags": [
+    "#Pasko",
+    "#MSMEPH"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

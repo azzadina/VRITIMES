@@ -1,0 +1,20 @@
+"Gửi thông cáo để lấy backlink" là chiến thuật Google nêu đích danh trong chính sách spam.
+Đây là cách dùng thông cáo báo chí cho SEO mà không gặp rủi ro.
+
+Trong tài liệu Spam policies, Google Search Central liệt kê các liên kết có anchor text tối ưu hoá trong bài viết, guest post hoặc thông cáo báo chí phát tán sang website khác là ví dụ của link spam. Google cũng yêu cầu link trả phí hoặc đặt bài gắn rel="sponsored" hoặc nofollow.
+Vậy thông cáo vô dụng với SEO? Ngược lại, miễn là bạn đo đúng thứ:
+
+1. Lượt truy cập giới thiệu từ người đọc bấm vào.
+2. Lượt nhắc thương hiệu trên trang tin, giúp củng cố nhận diện.
+3. Bài viết tự nhiên từ nhà báo tìm thấy thông cáo và viết phiên bản của riêng họ. Đây là giá trị SEO lớn nhất.
+4. Thực hành an toàn: anchor là tên thương hiệu/URL, một link chính và tin tức thật sự đáng trích dẫn.
+
+Đội của bạn hiện đo tác động SEO của thông cáo như thế nào?
+
+Tìm hiểu VRITIMES: https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261130_edu
+
+#VRITIMES #SEO #DigitalPR #thongcaobaochi #PR
+
+Nguồn:
+• Google Search Central, Spam policies — https://developers.google.com/search/docs/essentials/spam-policies
+• Google Search Central, Qualify outbound links — https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links

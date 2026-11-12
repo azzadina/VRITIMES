@@ -1,0 +1,131 @@
+{
+  "post_id": "id_20261120_viral",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-11-20",
+  "day": "Fri",
+  "slot": "W1Fri",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "pov-rilis-lampiran-pdf",
+  "title": "POV: kirim rilis pers sebagai lampiran PDF",
+  "hook": "POV: kamu kirim rilis pers sebagai lampiran PDF 📎😶",
+  "cta": "Kirim ke tim yang masih pakai PDF",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "19:30 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261120_viral",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261120_viral",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261120_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "POV",
+      "title": "kamu kirim rilis pers sebagai *lampiran PDF*"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "POV",
+        "text": "kamu kirim rilis pers sebagai *lampiran PDF*",
+        "icon": "pdf",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "subjek email:\n*\"Press Release\"*",
+        "sub": "…bersama ratusan email lain hari ini",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "jurnalis harus unduh, buka, lalu *copy-paste* sendiri",
+        "sub": "(itu pun kalau sempat)",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "padahal *69%* jurnalis lebih suka pitch di bawah 200 kata",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "yang benar: *teks di badan email*, judul jadi subjek, link foto siap unduh",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "biar rilisnya ketemu *media*, bukan ketemu *folder arsip*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "POV: kamu kirim rilis pers sebagai lampiran PDF.",
+      "Subjeknya cuma \"Press Release\".",
+      "Jurnalisnya harus unduh, buka, copy-paste sendiri.",
+      "Padahal 69 persen jurnalis lebih suka pitch di bawah 200 kata.",
+      "Tulis di badan email, judul jadi subjek, foto via link.",
+      "Biar rilisnya ketemu media, bukan arsip."
+    ],
+    "broll": [
+      "Close-up layar laptop: kotak masuk email penuh (mock-up, tanpa nama/alamat asli)",
+      "Tangan mengklik lampiran PDF, loading lama (screen recording mock)",
+      "Reaksi wajah tim VRITIMES (talent internal) — ekspresi \"hmm\"",
+      "Contoh email yang benar di layar (template internal)"
+    ],
+    "audio": "Trending comedic/\"awkward pause\" sound atau lo-fi upbeat dari pustaka audio berlisensi Instagram/TikTok"
+  },
+  "captions_meta": {
+    "hook": "POV: kamu kirim rilis pers sebagai lampiran PDF 📎😶",
+    "lines": [
+      "Jurnalis harus unduh → buka → copy-paste sendiri.",
+      "Sementara 69% jurnalis lebih suka pitch di bawah 200 kata (Muck Rack, 2025).",
+      "",
+      "Yang lebih baik:",
+      "✓ Teks rilis langsung di badan email",
+      "✓ Judul rilis = subjek email",
+      "✓ Foto & dokumen lewat link"
+    ],
+    "li_hook": "Kesalahan kecil yang membuat rilis bagus tidak terbaca: mengirimnya sebagai lampiran PDF.\nKedengarannya sepele. Dampaknya tidak.",
+    "li_body": [
+      "Muck Rack (State of Journalism 2025) mencatat 69% jurnalis lebih suka pitch di bawah 200 kata. Artinya, jurnalis ingin memutuskan cepat tanpa langkah tambahan.",
+      "Lampiran PDF menambah tiga langkah: unduh, buka, salin. Ditambah subjek email generik, peluang dibaca turun drastis."
+    ],
+    "li_points": [
+      "Tempel teks rilis langsung di badan email.",
+      "Gunakan judul rilis sebagai subjek email.",
+      "Sediakan foto dan dokumen pendukung lewat link.",
+      "Jika memakai platform distribusi, pastikan rilis tayang sebagai halaman web yang bisa diakses dan dikutip."
+    ],
+    "li_close": "Masih ada tim yang wajib kirim PDF karena \"lebih resmi\"? Ceritakan di komentar.",
+    "fb": "Siapa di sini yang masih kirim rilis pers sebagai lampiran PDF? 😅 Tonton sampai habis, ada cara yang lebih ramah untuk jurnalis."
+  },
+  "tags": [
+    "#PRlife",
+    "#RilisPers"
+  ],
+  "price_status": null
+}

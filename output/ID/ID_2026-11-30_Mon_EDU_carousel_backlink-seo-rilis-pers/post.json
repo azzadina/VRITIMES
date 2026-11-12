@@ -1,0 +1,150 @@
+{
+  "post_id": "id_20261130_edu",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-11-30",
+  "day": "Mon",
+  "slot": "W3Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "b",
+  "slug": "backlink-seo-rilis-pers",
+  "title": "Rilis pers untuk SEO? Baca kebijakan Google dulu",
+  "hook": "Kirim rilis pers biar dapat backlink? Google punya aturan soal ini. 🔗",
+  "cta": "Simpan & kirim ke tim SEO",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "12:00 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261130_edu",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261130_edu",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261130_edu"
+  },
+  "sources": [
+    {
+      "name": "Google Search Central",
+      "title": "Spam policies for Google web search (link spam)",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "short": "Google Search Central, Spam policies"
+    },
+    {
+      "name": "Google Search Central",
+      "title": "Qualify your outbound links to Google",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links",
+      "short": "Google Search Central, Qualify outbound links"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "seo x pr",
+      "title": "rilis pers untuk SEO? *baca ini dulu*",
+      "sub": "kata google sendiri"
+    },
+    {
+      "t": "quote",
+      "text": "Google menyebut tautan dengan *anchor text yang dioptimasi* di rilis pers yang disebar ke situs lain sebagai *link spam*.",
+      "size": 74,
+      "by": "— Google Search Central, kebijakan spam",
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "compare",
+      "title": "yang *berisiko* vs yang *aman*",
+      "left": {
+        "h": "berisiko",
+        "items": [
+          "Anchor \"jasa SEO murah Jakarta\" di tiap paragraf",
+          "Rilis tanpa berita, hanya demi link",
+          "Belasan link dalam satu rilis"
+        ]
+      },
+      "right": {
+        "h": "aman",
+        "items": [
+          "Nama brand atau URL sebagai tautan",
+          "Berita yang memancing liputan lanjutan",
+          "1–2 link ke halaman yang relevan"
+        ]
+      },
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "point",
+      "icon": "link",
+      "title": "lalu apa *nilai* backlink rilis?",
+      "body": "Tiga hal nyata: **trafik rujukan** dari pembaca, **penyebutan brand** di situs berita yang membantu orang mengenali Anda, dan **liputan lanjutan** dari jurnalis yang menemukan rilis Anda."
+    },
+    {
+      "t": "point",
+      "icon": "shield",
+      "title": "rel=\"sponsored\" itu *normal*",
+      "body": "Google meminta tautan berbayar atau penempatan ditandai **rel=\"sponsored\"** atau **nofollow**. Jadi ukur rilis dari siapa yang membaca dan siapa yang ikut menulis, bukan dari \"link juice\".",
+      "src": "Google Search Central, Qualify outbound links"
+    },
+    {
+      "t": "list",
+      "title": "checklist rilis *aman SEO*",
+      "items": [
+        "Kata kunci muncul alami di judul, tidak dijejalkan",
+        "Satu link utama ke halaman yang relevan",
+        "Anchor = nama brand atau URL",
+        "Ada data/kutipan yang layak dikutip media lain",
+        "Pantau penyebutan brand, bukan cuma jumlah link"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "PR yang bagus *membantu* SEO. bukan sebaliknya.",
+      "items": [
+        "Simpan checklist ini",
+        "Kirim ke tim SEO kamu"
+      ],
+      "sources": [
+        "Google Search Central — Spam policies",
+        "Google Search Central — Qualify outbound links"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Kirim rilis pers biar dapat backlink? Google punya aturan soal ini. 🔗",
+    "lines": [
+      "Google menyebut anchor text yang dioptimasi di rilis pers yang disebar ke situs lain sebagai link spam.",
+      "",
+      "Yang aman:",
+      "✓ Anchor = nama brand / URL",
+      "✓ 1–2 link ke halaman relevan",
+      "✓ Berita yang memancing liputan lanjutan",
+      "",
+      "Nilai sebenarnya: trafik rujukan, penyebutan brand, dan liputan organik."
+    ],
+    "li_hook": "\"Kirim rilis pers biar dapat backlink\" adalah strategi yang Google sebut secara spesifik di kebijakan spamnya.\nBerikut cara memakai rilis pers untuk SEO tanpa risiko.",
+    "li_body": [
+      "Di dokumentasi Spam policies, Google Search Central memasukkan tautan dengan anchor text yang dioptimasi di artikel, guest post, atau rilis pers yang disebar ke situs lain sebagai contoh link spam. Google juga meminta tautan berbayar atau penempatan ditandai rel=\"sponsored\" atau nofollow.",
+      "Apakah rilis pers lalu tidak berguna untuk SEO? Justru sebaliknya, asal ukurannya tepat:"
+    ],
+    "li_points": [
+      "Trafik rujukan dari pembaca yang mengklik.",
+      "Penyebutan brand di situs berita yang memperkuat pengenalan entitas Anda.",
+      "Liputan organik dari jurnalis yang menemukan rilis dan menulis versinya sendiri. Di sinilah nilai SEO terbesar.",
+      "Praktik aman: anchor berupa nama brand/URL, satu link utama, dan berita yang benar-benar layak dikutip."
+    ],
+    "li_close": "Bagaimana tim Anda mengukur dampak rilis terhadap SEO saat ini?",
+    "fb": "Banyak yang kirim rilis pers demi backlink. Sebelum lanjut, cek dulu apa kata Google soal ini 👇"
+  },
+  "tags": [
+    "#SEO",
+    "#DigitalPR"
+  ],
+  "price_status": null
+}

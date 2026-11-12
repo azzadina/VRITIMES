@@ -1,0 +1,84 @@
+{
+  "post_id": "sg_20261211_promo",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-12-11",
+  "day": "Fri",
+  "slot": "W4Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "a",
+  "slug": "plan-january-news-before-slowdown",
+  "title": "Line up January news before the year-end slowdown",
+  "hook": "Mid-December, Singapore newsrooms slow down. Your January news shouldn't. 📅",
+  "cta": "Check current pricing via the link",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "12:30 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261211_promo",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261211_promo",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261211_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (SG) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/sg/service/pricing",
+      "short": "vritimes.com/sg/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "before the slowdown",
+      "title": "january news? *line it up* before december ends",
+      "items": [
+        "Schedule your release before the year-end slowdown",
+        "Backlink to your launch or product page",
+        "Distribution report to review the campaign"
+      ],
+      "price": "starts from — see link",
+      "src": "vritimes.com/sg/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Mid-December, Singapore newsrooms slow down. Your January news shouldn't. 📅",
+    "lines": [
+      "Get ahead before the break:",
+      "✓ Plan & prep your release before year-end",
+      "✓ Backlink to your launch/product page",
+      "✓ Distribution report to review results",
+      "",
+      "Latest plans & pricing: link in bio."
+    ],
+    "ig_cta": "Check current plans & pricing via the link in bio.",
+    "li_hook": "The first two weeks of January are crowded with announcements that were all prepared in December.\nIf yours isn't ready yet, now is the time.",
+    "li_body": [
+      "From mid-December, many newsrooms and comms teams run lean. Teams that finalise January releases before the break go into the new year with momentum instead of a backlog.",
+      "What you can do this week with VRITIMES:"
+    ],
+    "li_points": [
+      "Prepare and distribute your year-end results or January announcement with guaranteed media placement (count depends on plan).",
+      "Point the backlink to your launch or product page.",
+      "Use the distribution report to review results and plan Q1."
+    ],
+    "li_close": "Current plans and pricing are on our official page.",
+    "fb": "Finish 2026 with your January news ready to go. See VRITIMES plans here 👇"
+  },
+  "tags": [
+    "#SGbusiness",
+    "#SingaporeSME"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

@@ -1,0 +1,130 @@
+{
+  "post_id": "th_20261209_fun",
+  "country": "TH",
+  "language": "th",
+  "date": "2026-12-09",
+  "day": "Wed",
+  "slot": "W4Wed",
+  "pillar": "FUN",
+  "format": "reel",
+  "grid_tile": "b",
+  "slug": "khon-thai-rap-khao-jak-nai",
+  "title": "คนไทยรับข่าวจากไหน และเชื่อข่าวแค่ไหน",
+  "hook": "คนไทย 49% ใช้ TikTok ดูข่าว และ 55% เชื่อถือข่าวส่วนใหญ่ 📱",
+  "cta": "แชร์ให้ทีมโซเชียลมีเดีย",
+  "times": {
+    "linkedin": "08:30 น.",
+    "instagram_facebook": "20:00 น."
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/th?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_th_202612&utm_content=th_20261209_fun",
+    "facebook": "https://www.vritimes.com/th?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_th_202612&utm_content=th_20261209_fun",
+    "linkedin": "https://www.vritimes.com/th?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_th_202612&utm_content=th_20261209_fun"
+  },
+  "sources": [
+    {
+      "name": "Reuters Institute",
+      "title": "Digital News Report 2025",
+      "year": 2025,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf",
+      "short": "Reuters Institute, Digital News Report 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "คนไทยรับข่าว\n*จากไหน*?"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "fun fact",
+        "text": "คนไทยรับข่าว\n*จากไหน*?",
+        "icon": "news",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "*49%* ใช้ TikTok ดูข่าว",
+        "sub": "สูงที่สุดกลุ่มหนึ่งในโลก",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "*43%* ชอบดูข่าว มากกว่าอ่าน (*32%*)",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "และ *55%* เชื่อถือข่าวส่วนใหญ่",
+        "sub": "สูงสุดในตลาดที่เราทำงานด้วย",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "blue"
+      },
+      {
+        "text": "ข่าวที่ได้ลงสื่อ + *วิดีโอสั้น*ที่เล่าต่อ = ครบทั้งความน่าเชื่อถือและการเข้าถึง",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "น่าเชื่อถือบนสื่อ *มองเห็น*บนฟีด",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "คนไทยรับข่าวจากไหน",
+      "สี่สิบเก้าเปอร์เซ็นต์ใช้ TikTok ดูข่าว",
+      "สี่สิบสามเปอร์เซ็นต์ชอบดูข่าวมากกว่าอ่าน",
+      "และห้าสิบห้าเปอร์เซ็นต์เชื่อถือข่าวส่วนใหญ่",
+      "ข่าวที่ได้ลงสื่อบวกวิดีโอสั้นที่เล่าต่อ ครบทั้งความน่าเชื่อถือและการเข้าถึง",
+      "น่าเชื่อถือบนสื่อ มองเห็นบนฟีด"
+    ],
+    "broll": [
+      "เลื่อนฟีดวิดีโอสั้นบนมือถือ (UI จำลอง ไม่มีบัญชีจริง)",
+      "กราฟแท่ง 49% / 43% / 55% (จากการ์ดข้อความ)",
+      "มือถือหนังสือพิมพ์และโทรศัพท์ (นักแสดงภายใน)"
+    ],
+    "audio": "บีตแนว “fact reveal” จากคลังเสียงที่มีลิขสิทธิ์ของแพลตฟอร์ม"
+  },
+  "captions_meta": {
+    "hook": "คนไทย 49% ใช้ TikTok ดูข่าว และ 55% เชื่อถือข่าวส่วนใหญ่ 📱",
+    "lines": [
+      "Reuters Institute Digital News Report 2025:",
+      "• 49% ใช้ TikTok เพื่อรับข่าว",
+      "• 43% ชอบดูข่าวออนไลน์มากกว่าอ่าน (32%)",
+      "• 55% เชื่อถือข่าวส่วนใหญ่ เกือบตลอดเวลา",
+      "",
+      "ความน่าเชื่อถือมาจากสื่อ การเข้าถึงมาจากวิดีโอสั้น แบรนด์ต้องมีทั้งสองอย่าง"
+    ],
+    "li_hook": "ตาม Reuters Institute Digital News Report 2025 คนไทย 49% ใช้ TikTok รับข่าว และ 55% เชื่อถือข่าวส่วนใหญ่ สูงที่สุดในหกตลาดเอเชียแปซิฟิกที่เราทำงานด้วย\nสิ่งนี้มีความหมายอย่างไรต่อการสื่อสารของแบรนด์?",
+    "li_body": [
+      "รายงานเดียวกันพบว่า 43% ชอบดูข่าวออนไลน์มากกว่าอ่าน (32%) ผู้ชมค้นพบเรื่องราวผ่านวิดีโอ แต่ยังให้ความเชื่อถือสื่อในระดับสูง",
+      "สำหรับแบรนด์ แนวทางที่ใช้ได้จริงคือ:"
+    ],
+    "li_points": [
+      "ให้ข่าวได้ลงสื่อที่น่าเชื่อถือก่อน เพื่อมีแหล่งอ้างอิง",
+      "นำข่าวที่ได้ลงมาเล่าต่อในรูปแบบวิดีโอสั้น",
+      "ใช้ข้อความหลักเดียวกันทั้งบนสื่อและโซเชียล"
+    ],
+    "li_close": "ทีมของคุณนำข่าวที่ได้ลงสื่อมาใช้ต่อบนโซเชียลอย่างไร?",
+    "fb": "รู้หรือไม่: คนไทย 49% ดูข่าวผ่าน TikTok และระดับความเชื่อถือข่าวของไทยสูงที่สุดในภูมิภาคที่เราทำงานด้วย ดูให้จบ 👀"
+  },
+  "tags": [
+    "#สื่อไทย",
+    "#FunFact"
+  ],
+  "price_status": null
+}

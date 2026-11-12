@@ -1,0 +1,20 @@
+"Send a press release to get backlinks" is a tactic Google names specifically in its spam policies.
+Here is how to use releases for SEO without the risk.
+
+In its Spam policies documentation, Google Search Central lists links with optimised anchor text in articles, guest posts or press releases distributed on other sites as an example of link spam. It also asks for paid or placed links to be qualified with rel="sponsored" or nofollow.
+Does that make releases useless for SEO? Quite the opposite, as long as you measure the right things:
+
+1. Referral traffic from readers who click through.
+2. Brand mentions on news sites that strengthen how your entity is recognised.
+3. Organic coverage from journalists who find the release and write their own story. That is where the biggest SEO value sits.
+4. Safe practice: brand/URL anchors, one main link, and news genuinely worth citing.
+
+How does your team measure the SEO impact of releases today?
+
+More on VRITIMES: https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202611&utm_content=au_20261130_edu
+
+#VRITIMES #SEO #DigitalPR #AusBiz #SmallBusinessAustralia
+
+Sources:
+• Google Search Central, Spam policies — https://developers.google.com/search/docs/essentials/spam-policies
+• Google Search Central, Qualify outbound links — https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links

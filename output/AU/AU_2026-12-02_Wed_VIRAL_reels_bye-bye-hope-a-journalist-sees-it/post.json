@@ -1,0 +1,131 @@
+{
+  "post_id": "au_20261202_viral",
+  "country": "AU",
+  "language": "en",
+  "date": "2026-12-02",
+  "day": "Wed",
+  "slot": "W3Wed",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "bye-bye-hope-a-journalist-sees-it",
+  "title": "Say bye bye to \"hope a journalist sees it\"",
+  "hook": "Say bye bye to \"hope a journalist sees it\" 👋",
+  "cta": "Comment which \"hope\" you're retiring",
+  "times": {
+    "linkedin": "08:00 AEDT",
+    "instagram_facebook": "19:30 AEDT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/au?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261202_viral",
+    "facebook": "https://www.vritimes.com/au?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261202_viral",
+    "linkedin": "https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202612&utm_content=au_20261202_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "we've all done it",
+      "title": "say bye bye to *\"hope a journalist sees it\"*"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "bye bye 👋",
+        "text": "*\"hope a journalist sees it\"*",
+        "dur": 2.5,
+        "theme": "navy"
+      },
+      {
+        "text": "\"hope they find our *LinkedIn post*\"",
+        "sub": "→ send them the news directly",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "\"hope they open the *attachment*\"",
+        "sub": "→ text in the email body",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "\"hope a *600-word* pitch shows we're serious\"",
+        "sub": "→ 69% prefer under 200 words",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "\"hope they reply if I *chase daily*\"",
+        "sub": "→ one follow-up, 3–7 days later",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "swap hope for *a process*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "blue"
+      }
+    ],
+    "vo": [
+      "Say bye bye to hope a journalist sees it.",
+      "Hope they find our LinkedIn post? Send the news directly.",
+      "Hope they open the attachment? Put the text in the email.",
+      "Hope a long pitch looks serious? Sixty-nine percent prefer under two hundred words.",
+      "Hope they reply if you chase daily? One follow-up, three to seven days later.",
+      "Swap hope for a process."
+    ],
+    "broll": [
+      "Team member waving goodbye to sticky notes labelled \"hope\" (props)",
+      "Mock inbox with a long unread pitch",
+      "Calendar reminder \"follow up in 5 days\" (mock)"
+    ],
+    "audio": "Trending \"bye bye\" sound or upbeat beat from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "Say bye bye to \"hope a journalist sees it\" 👋",
+    "lines": [
+      "\"Hope they find our LinkedIn post\" → send the news directly",
+      "\"Hope they open the attachment\" → text in the email body",
+      "\"Hope a long pitch looks serious\" → 69% prefer under 200 words",
+      "\"Hope they reply if I chase daily\" → one follow-up, 3–7 days later",
+      "",
+      "Hope isn't a media strategy. A process is."
+    ],
+    "ig_cta": "Send this to your marketing team. Link in bio.",
+    "li_hook": "Most small-business media strategies quietly rely on hope.\nFour hopes worth replacing with a process.",
+    "li_body": [
+      "Muck Rack's State of Journalism 2025 gives a useful baseline: 69% of journalists prefer pitches under 200 words, 50% say one follow-up is ideal, and 51% want it 3–7 days after the pitch."
+    ],
+    "li_points": [
+      "Instead of hoping a journalist finds your social post, send the news to the right person.",
+      "Instead of hoping they open the attachment, put the release text in the email body.",
+      "Instead of hoping length signals seriousness, keep the pitch under 200 words.",
+      "Instead of chasing daily, follow up once, 3–7 days later."
+    ],
+    "li_close": "Which \"hope\" is still in your team's media plan?",
+    "fb": "Hope isn't a media strategy 👋 Here are four swaps that actually work."
+  },
+  "tags": [
+    "#PRlife",
+    "#MarketingAustralia"
+  ],
+  "price_status": null
+}

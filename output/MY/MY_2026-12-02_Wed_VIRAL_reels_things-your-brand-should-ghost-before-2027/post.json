@@ -1,0 +1,141 @@
+{
+  "post_id": "my_20261202_viral",
+  "country": "MY",
+  "language": "en",
+  "date": "2026-12-02",
+  "day": "Wed",
+  "slot": "W3Wed",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "things-your-brand-should-ghost-before-2027",
+  "title": "Things your brand should ghost before 2027",
+  "hook": "Things your brand should ghost before 2027 👻 (we give you permission)",
+  "cta": "Comment the one you're ghosting first",
+  "times": {
+    "linkedin": "08:30 MYT",
+    "instagram_facebook": "20:30 MYT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/my?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261202_viral",
+    "facebook": "https://www.vritimes.com/my?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261202_viral",
+    "linkedin": "https://www.vritimes.com/my?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_my_202612&utm_content=my_20261202_viral"
+  },
+  "sources": [
+    {
+      "name": "AMEC",
+      "title": "Barcelona Principles 4.0 launch presentation",
+      "year": 2025,
+      "url": "https://www.observer.at/wp-content/uploads/2025/06/AMEC-Barcelona-Principles-4.0-Launch-Presentation-Final.pdf",
+      "short": "AMEC, Barcelona Principles 4.0 (2025)"
+    },
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "we give you permission",
+      "title": "things your brand should *ghost* before 2027"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "hot take",
+        "text": "things your brand should *ghost* before 2027",
+        "dur": 2.5,
+        "theme": "navy"
+      },
+      {
+        "text": "\"leading\", \"revolutionary\", \"world-class\" in the *headline*",
+        "sub": "show the number instead",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "quotes that say *nothing*",
+        "sub": "\"we are thrilled…\" — ghosted",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "following up *every day*",
+        "sub": "50% of journalists say once is ideal",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "navy"
+      },
+      {
+        "text": "reporting PR in *AVE*",
+        "sub": "Barcelona Principles 4.0 says don't",
+        "src": "AMEC, Barcelona Principles 4.0 (2025)",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "\"hope a journalist *sees our post*\"",
+        "sub": "send a real release instead",
+        "dur": 3.0,
+        "theme": "blue"
+      }
+    ],
+    "vo": [
+      "Things your brand should ghost before 2027.",
+      "Leading, revolutionary, world-class in the headline. Show the number.",
+      "Quotes that say nothing.",
+      "Following up every day. Half of journalists say once is ideal.",
+      "Reporting PR in ad value equivalents. The Barcelona Principles say don't.",
+      "Hoping a journalist sees your post. Send a real release."
+    ],
+    "broll": [
+      "Team member swiping \"left\" on printed buzzwords (props)",
+      "Phone notification spam close-up (mock)",
+      "Spreadsheet labelled \"AVE\" being deleted (mock screen)",
+      "Laptop sending a release from the VRITIMES dashboard (demo account)"
+    ],
+    "audio": "Trending \"ghosting\"/\"bye\" sound or playful beat from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "Things your brand should ghost before 2027 👻 (we give you permission)",
+    "lines": [
+      "👻 \"Leading\", \"revolutionary\", \"world-class\" headlines",
+      "👻 Quotes that say nothing",
+      "👻 Following up every day (50% of journalists say once is ideal)",
+      "👻 Reporting PR in AVE (Barcelona Principles 4.0 says no)",
+      "👻 Hoping a journalist sees your post",
+      "",
+      "Which one are you ghosting first?"
+    ],
+    "ig_cta": "Send this to your team before the 2027 planning meeting. Link in bio.",
+    "li_hook": "Five PR habits worth retiring before 2027.\nA light video, a serious point.",
+    "li_body": [
+      "Most of these survive because nobody questions them in the planning meeting. A quick audit:"
+    ],
+    "li_points": [
+      "Superlatives in headlines. Editors look for a number, a place or an impact, not \"leading\".",
+      "Empty quotes. If it couldn't appear in an article, cut it.",
+      "Daily follow-ups. Muck Rack (2025) found 50% of journalists say one follow-up is ideal, and 51% want it 3–7 days later.",
+      "AVE reports. AMEC's Barcelona Principles 4.0 (2025) say invalid measures such as AVEs should not be used. Report outcomes and business impact instead.",
+      "Waiting for a journalist to stumble on your social post instead of sending news to the right desk."
+    ],
+    "li_close": "Which one is hardest to drop in your organisation?",
+    "fb": "Bye bye to these five PR habits before 2027 👋 Which one are you ditching first?"
+  },
+  "tags": [
+    "#PRlife",
+    "#MarketingMalaysia"
+  ],
+  "price_status": null
+}

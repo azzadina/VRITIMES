@@ -1,0 +1,139 @@
+{
+  "post_id": "sg_20261202_viral",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-12-02",
+  "day": "Wed",
+  "slot": "W3Wed",
+  "pillar": "VIRAL",
+  "format": "reel",
+  "grid_tile": "a",
+  "slug": "red-flags-in-a-press-release",
+  "title": "Red flags in a press release",
+  "hook": "Red flags in a press release 🚩 (editors notice, trust us)",
+  "cta": "Comment the red flag you see most",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "20:00 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261202_viral",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261202_viral",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202612&utm_content=sg_20261202_viral"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "editors notice",
+      "title": "red flags in a *press release* 🚩"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "🚩 red flags",
+        "text": "in a *press release*",
+        "sub": "editors notice. trust us.",
+        "dur": 2.5,
+        "theme": "navy"
+      },
+      {
+        "text": "a headline with *no verb*",
+        "sub": "\"Excellence. Innovation. Tomorrow.\"",
+        "dur": 3.0,
+        "theme": "pale"
+      },
+      {
+        "text": "the news is in *paragraph four*",
+        "sub": "nobody reads paragraph four",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "\"world's first\" with *no proof*",
+        "sub": "journalists will check",
+        "dur": 3.0,
+        "theme": "navy"
+      },
+      {
+        "text": "a 600-word *pitch email*",
+        "sub": "69% prefer under 200 words",
+        "src": "Muck Rack, State of Journalism 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "media contact: *\"info@\"*",
+        "sub": "nobody answers info@",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "green flag: news first, *proof* attached, a real person to call",
+        "dur": 3.5,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "Red flags in a press release. Editors notice.",
+      "A headline with no verb.",
+      "The news buried in paragraph four.",
+      "World's first, with no proof.",
+      "A six-hundred-word pitch. Sixty-nine percent of journalists prefer under two hundred.",
+      "Media contact: info at.",
+      "Green flag: news first, proof attached, a real person to call."
+    ],
+    "broll": [
+      "Red flag props waved on each point (internal talent)",
+      "Mock release on screen with paragraph four highlighted",
+      "Phone dialling a number that rings out (mock)"
+    ],
+    "audio": "Trending \"red flag\" sound or playful beat from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "Red flags in a press release 🚩 (editors notice, trust us)",
+    "lines": [
+      "🚩 A headline with no verb",
+      "🚩 The news buried in paragraph four",
+      "🚩 \"World's first\" with no proof",
+      "🚩 A 600-word pitch (69% of journalists prefer under 200 words)",
+      "🚩 Media contact: info@",
+      "",
+      "✅ Green flag: news first, proof attached, a real person to call."
+    ],
+    "ig_cta": "Send this to whoever writes your releases. Link in bio.",
+    "li_hook": "Five red flags that make editors stop reading a press release.\nAll of them are easy to fix before you send.",
+    "li_body": [
+      "None of these are about writing talent. They are process gaps that a two-minute review would catch."
+    ],
+    "li_points": [
+      "A headline with no verb: if nothing happens, there is no news.",
+      "The news buried below the fold: lead with it.",
+      "Unverified superlatives such as \"world's first\": journalists check, and credibility drops when they can't.",
+      "Long pitches: Muck Rack (2025) found 69% of journalists prefer pitches under 200 words.",
+      "A generic contact: name a person who will answer the phone today."
+    ],
+    "li_close": "Which red flag do you see most often?",
+    "fb": "🚩 Five red flags editors spot in a press release. Which one have you seen lately?"
+  },
+  "tags": [
+    "#PRlife",
+    "#MarketingSG"
+  ],
+  "price_status": null
+}

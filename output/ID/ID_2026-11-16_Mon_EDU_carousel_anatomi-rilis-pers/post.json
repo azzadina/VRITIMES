@@ -1,0 +1,136 @@
+{
+  "post_id": "id_20261116_edu",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-11-16",
+  "day": "Mon",
+  "slot": "W1Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "anatomi-rilis-pers",
+  "title": "Anatomi rilis pers yang dimuat editor",
+  "hook": "Rilis pers kamu dibaca editor… atau cuma dibuka lalu ditutup? 👀",
+  "cta": "Simpan sebagai checklist sebelum kirim rilis",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "12:00 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261116_edu",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261116_edu",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261116_edu"
+  },
+  "sources": [
+    {
+      "name": "Cision",
+      "title": "2025 State of the Media Report (press release, 7 May 2025)",
+      "year": 2025,
+      "url": "https://www.cision.com/about/press-releases/2025-press-releases/cisions-2025-state-of-the-media-report-reveals-a-tipping-point-for-trust-technology-and-pr-journalist-partnerships-302448410/",
+      "short": "Cision, State of the Media 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "rilis pers 101",
+      "title": "anatomi rilis pers yang *dimuat* editor",
+      "sub": "bukan yang dibuang"
+    },
+    {
+      "t": "point",
+      "n": "01",
+      "title": "judul = *berita*, bukan slogan",
+      "body": "Subjek + aksi + dampak. Idealnya 10–14 kata, ada angka atau nama tempat.",
+      "ex": "✕ \"Inovasi Tanpa Batas untuk Negeri\"\n✓ \"Startup Logistik Buka 5 Hub Baru di Jawa Timur, Waktu Kirim Jadi 1 Hari\""
+    },
+    {
+      "t": "point",
+      "n": "02",
+      "title": "lead menjawab 5W1H dalam *2 kalimat*",
+      "body": "Editor memutuskan dalam hitungan detik. Kalau paragraf pertama belum menjawab **apa, siapa, kapan, di mana, dan kenapa sekarang**, rilis berhenti dibaca di situ."
+    },
+    {
+      "t": "point",
+      "n": "03",
+      "title": "satu kutipan yang *punya opini*",
+      "body": "Kutipan bukan tempat bilang \"kami bangga\". Isi dengan sudut pandang, angka, atau rencana yang bisa dikutip media.",
+      "ex": "✕ \"Kami sangat bangga atas pencapaian ini.\"\n✓ \"Pengiriman sehari bukan lagi kemewahan kota besar. Surabaya dan Malang baru awal.\""
+    },
+    {
+      "t": "stat",
+      "big": "72%",
+      "label": "jurnalis menyebut rilis pers *sumber paling berguna* dari tim PR",
+      "body": "Rilis tidak mati. Yang mati adalah rilis yang tidak bisa langsung dipakai redaksi.",
+      "src": "Cision, State of the Media 2025"
+    },
+    {
+      "t": "list",
+      "title": "badan rilis yang *siap pakai*",
+      "items": [
+        "Piramida terbalik: fakta terpenting di atas",
+        "Data + pembanding (naik dari berapa ke berapa?)",
+        "1–2 foto resolusi tinggi lengkap dengan caption",
+        "Kontak media yang benar-benar bisa dihubungi"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "05",
+      "title": "boilerplate: *3 kalimat* yang sering diremehkan",
+      "body": "Siapa Anda, sejak kapan, seberapa besar, di mana, dan link resmi. Tulis sekali, perbarui tiap kuartal. Jurnalis menyalinnya apa adanya."
+    },
+    {
+      "t": "cta",
+      "title": "cek 3 hal ini *sebelum kirim*",
+      "items": [
+        "Judul: ada subjek, aksi, dan angka?",
+        "Lead: 5W1H selesai dalam 2 kalimat?",
+        "Kutipan: berisi opini atau data?"
+      ],
+      "sources": [
+        "Cision, State of the Media 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Rilis pers kamu dibaca editor… atau cuma dibuka lalu ditutup? 👀",
+    "lines": [
+      "Editor memutuskan dalam hitungan detik. Ini anatomi rilis yang lolos:",
+      "",
+      "01 Judul = berita (subjek + aksi + dampak)",
+      "02 Lead menjawab 5W1H dalam 2 kalimat",
+      "03 Satu kutipan yang punya opini, bukan \"kami bangga\"",
+      "04 Badan rilis: piramida terbalik, data, foto, kontak",
+      "05 Boilerplate 3 kalimat yang selalu diperbarui",
+      "",
+      "Fakta: 72% jurnalis masih menyebut rilis pers sebagai sumber paling berguna dari tim PR (Cision, 2025)."
+    ],
+    "li_hook": "72% jurnalis menyebut rilis pers sebagai sumber paling berguna dari tim PR.\nMasalahnya bukan formatnya. Masalahnya, kebanyakan rilis tidak bisa langsung dipakai.",
+    "li_body": [
+      "Data dari Cision State of the Media 2025 (survei 3.000+ jurnalis di 19 negara) ini sering dibaca sebagai \"rilis masih efektif\". Yang jarang dibahas: jurnalis memakai rilis yang meringankan kerja mereka, bukan yang menambah pekerjaan.",
+      "Pola rilis yang akhirnya dimuat hampir selalu sama:"
+    ],
+    "li_points": [
+      "Judul adalah berita: subjek + aksi + dampak, 10–14 kata, idealnya ada angka atau lokasi.",
+      "Lead menjawab 5W1H dalam dua kalimat. Kalau belum, editor berhenti di situ.",
+      "Kutipan berisi sudut pandang atau data, bukan ucapan bangga.",
+      "Badan rilis memakai piramida terbalik, menyertakan pembanding angka, foto beresolusi tinggi, dan kontak yang aktif.",
+      "Boilerplate tiga kalimat yang diperbarui tiap kuartal, karena jurnalis menyalinnya apa adanya."
+    ],
+    "li_close": "Mana yang paling sering terlewat di tim Anda: judul, lead, atau kutipan? Carousel lengkapnya ada di PDF di atas.",
+    "fb": "Sebelum klik \"kirim\", cek dulu anatomi rilis pers kamu. Ini lima bagian yang menentukan dimuat atau tidaknya rilis oleh editor 👇"
+  },
+  "tags": [
+    "#RilisPers",
+    "#TipsPR"
+  ],
+  "price_status": null
+}

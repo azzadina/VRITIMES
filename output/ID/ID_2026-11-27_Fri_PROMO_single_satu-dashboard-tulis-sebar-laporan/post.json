@@ -1,0 +1,93 @@
+{
+  "post_id": "id_20261127_promo",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-11-27",
+  "day": "Fri",
+  "slot": "W2Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "b",
+  "slug": "satu-dashboard-tulis-sebar-laporan",
+  "title": "Tulis, sebar, lihat hasilnya dalam satu dashboard",
+  "hook": "Black Friday boleh diskon apa saja. Yang penting rilis kamu tetap tayang. 😉",
+  "cta": "Lihat paket di vritimes.com/id",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "12:00 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261127_promo",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261127_promo",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261127_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Service page (ID)",
+      "year": 2026,
+      "url": "https://www.vritimes.com/id/service",
+      "short": "vritimes.com/id/service"
+    },
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (ID) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/id/service/pricing",
+      "short": "vritimes.com/id/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "satu dashboard",
+      "title": "tulis. *sebar.* lihat hasilnya.",
+      "items": [
+        "Penempatan media terjamin per rilis (jumlah sesuai paket)",
+        "Backlink + dibagikan di kanal sosial VRITIMES",
+        "Laporan pasca-distribusi untuk atasan atau klien"
+      ],
+      "price": "harga mulai dari — cek link",
+      "src": "vritimes.com/id/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Black Friday boleh diskon apa saja. Yang penting rilis kamu tetap tayang. 😉",
+    "lines": [
+      "VRITIMES menyatukan semuanya di satu dashboard:",
+      "✓ Tulis & kirim rilis pers",
+      "✓ Penempatan media terjamin per rilis (jumlah sesuai paket)",
+      "✓ Backlink + dibagikan di kanal sosial VRITIMES",
+      "✓ Laporan pasca-distribusi",
+      "",
+      "Detail paket & harga terbaru: link di bio."
+    ],
+    "ig_cta": "Cek paket terbaru di link bio.",
+    "li_hook": "Banyak tim marketing masih menyebar rilis lewat spreadsheet kontak, email satu per satu, dan tangkapan layar sebagai laporan.\nAda cara yang lebih rapi.",
+    "li_body": [
+      "VRITIMES dibuat untuk startup dan UMKM yang ingin rilis persnya tayang tanpa harus membangun database media sendiri.",
+      "Alurnya ada dalam satu dashboard:"
+    ],
+    "li_points": [
+      "Tulis dan unggah rilis pers.",
+      "Distribusi dengan penempatan media terjamin per rilis (jumlah media mengikuti paket yang dipilih).",
+      "Backlink ke situs Anda dan berbagi ke kanal sosial VRITIMES.",
+      "Laporan pasca-distribusi yang siap diteruskan ke atasan atau klien."
+    ],
+    "li_close": "Paket dan harga terbaru selalu ada di halaman resmi kami.",
+    "fb": "Rilis pers tanpa ribet: tulis, sebar, dan lihat hasilnya dalam satu dashboard. Cek paketnya di sini 👇"
+  },
+  "tags": [
+    "#RilisPers",
+    "#UMKM"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

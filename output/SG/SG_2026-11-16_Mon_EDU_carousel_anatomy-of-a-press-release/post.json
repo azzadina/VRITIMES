@@ -1,0 +1,136 @@
+{
+  "post_id": "sg_20261116_edu",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-11-16",
+  "day": "Mon",
+  "slot": "W1Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "anatomy-of-a-press-release",
+  "title": "Anatomy of a press release editors actually publish",
+  "hook": "Is your press release being read by editors… or opened and closed? 👀",
+  "cta": "Save as your pre-send checklist",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "12:30 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261116_edu",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261116_edu",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261116_edu"
+  },
+  "sources": [
+    {
+      "name": "Cision",
+      "title": "2025 State of the Media Report (press release, 7 May 2025)",
+      "year": 2025,
+      "url": "https://www.cision.com/about/press-releases/2025-press-releases/cisions-2025-state-of-the-media-report-reveals-a-tipping-point-for-trust-technology-and-pr-journalist-partnerships-302448410/",
+      "short": "Cision, State of the Media 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "press release 101",
+      "title": "anatomy of a press release editors *actually publish*",
+      "sub": "not the ones they bin"
+    },
+    {
+      "t": "point",
+      "n": "01",
+      "title": "the headline is *news*, not a slogan",
+      "body": "Subject + action + impact. Aim for 10–14 words with a number or a place name.",
+      "ex": "✕ \"Innovation Without Limits\"\n✓ \"Singapore Logistics Start-up Opens 3 Johor Hubs, Cuts Cross-Border Delivery to One Day\""
+    },
+    {
+      "t": "point",
+      "n": "02",
+      "title": "the lead answers 5W1H in *two sentences*",
+      "body": "Editors decide in seconds. If paragraph one doesn't say **what, who, when, where and why now**, that is where reading stops."
+    },
+    {
+      "t": "point",
+      "n": "03",
+      "title": "one quote with an *actual opinion*",
+      "body": "A quote is not the place for \"we are thrilled\". Give a point of view, a number or a plan a reporter can lift.",
+      "ex": "✕ \"We are thrilled to announce this milestone.\"\n✓ \"Cross-border next-day delivery used to be a big-company advantage. We are making it the default for SMEs.\""
+    },
+    {
+      "t": "stat",
+      "big": "72%",
+      "label": "of journalists call press releases the *most useful resource* from PR teams",
+      "body": "Press releases aren't dead. Releases a newsroom can't use straight away are.",
+      "src": "Cision, State of the Media 2025"
+    },
+    {
+      "t": "list",
+      "title": "a body that is *ready to use*",
+      "items": [
+        "Inverted pyramid: the most important fact first",
+        "Data with a comparison (up from what, to what?)",
+        "1–2 high-res photos with captions",
+        "A media contact who actually picks up"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "05",
+      "title": "the boilerplate: *3 sentences* everyone underrates",
+      "body": "Who you are, since when, how big, where, and your official link. Write it once, refresh it every quarter. Journalists copy it as is."
+    },
+    {
+      "t": "cta",
+      "title": "check these 3 *before you hit send*",
+      "items": [
+        "Headline: subject, action and a number?",
+        "Lead: 5W1H done in two sentences?",
+        "Quote: an opinion or a data point?"
+      ],
+      "sources": [
+        "Cision, State of the Media 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Is your press release being read by editors… or opened and closed? 👀",
+    "lines": [
+      "Editors decide in seconds. Here's what the ones that get published have in common:",
+      "",
+      "01 Headline = news (subject + action + impact)",
+      "02 Lead answers 5W1H in two sentences",
+      "03 One quote with an opinion, not \"we're thrilled\"",
+      "04 Body: inverted pyramid, data, photos, contact",
+      "05 A 3-sentence boilerplate you keep updated",
+      "",
+      "72% of journalists still call press releases the most useful thing PR teams send (Cision, 2025)."
+    ],
+    "li_hook": "72% of journalists say press releases are the most useful resource PR teams provide.\nThe format isn't the problem. Most releases just can't be used as they are.",
+    "li_body": [
+      "Cision's 2025 State of the Media report (3,000+ journalists, 19 countries) is often quoted as proof that \"releases still work\". The part that gets skipped: journalists use the releases that save them work, not the ones that create more.",
+      "For Singapore teams, the releases that end up published tend to share the same anatomy:"
+    ],
+    "li_points": [
+      "The headline is news: subject + action + impact, 10–14 words, ideally with a number or a location.",
+      "The lead answers 5W1H in two sentences. If it doesn't, the editor stops there.",
+      "The quote carries a point of view or data, not a line about being thrilled.",
+      "The body uses an inverted pyramid with comparative numbers, high-res photos and a contact who responds.",
+      "A three-sentence boilerplate refreshed every quarter, because journalists copy it verbatim."
+    ],
+    "li_close": "Which part does your team skip most often: headline, lead or quote? The full carousel is in the PDF above.",
+    "fb": "Before you hit \"send\", check your press release against this anatomy. Five parts decide whether an editor runs it 👇"
+  },
+  "tags": [
+    "#PressRelease",
+    "#PRtips"
+  ],
+  "price_status": null
+}

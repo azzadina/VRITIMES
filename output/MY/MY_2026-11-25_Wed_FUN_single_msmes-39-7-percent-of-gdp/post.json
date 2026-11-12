@@ -1,0 +1,83 @@
+{
+  "post_id": "my_20261125_fun",
+  "country": "MY",
+  "language": "en",
+  "date": "2026-11-25",
+  "day": "Wed",
+  "slot": "W2Wed",
+  "pillar": "FUN",
+  "format": "single",
+  "grid_tile": "c",
+  "slug": "msmes-39-7-percent-of-gdp",
+  "title": "MSMEs made up 39.7% of Malaysia's GDP in 2025",
+  "hook": "MSMEs made up 39.7% of Malaysia's GDP in 2025. How many made the news? 🤔",
+  "cta": "Tag an SME owner whose story deserves coverage",
+  "times": {
+    "linkedin": "08:30 MYT",
+    "instagram_facebook": "20:30 MYT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/my?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_my_202611&utm_content=my_20261125_fun",
+    "facebook": "https://www.vritimes.com/my?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_my_202611&utm_content=my_20261125_fun",
+    "linkedin": "https://www.vritimes.com/my?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_my_202611&utm_content=my_20261125_fun"
+  },
+  "sources": [
+    {
+      "name": "DOSM",
+      "title": "Micro, Small & Medium Enterprises (MSMEs) Performance 2025",
+      "year": 2026,
+      "url": "https://www.dosm.gov.my/portal-main/release-content/micro-small--medium-enterprises-msmes-performance-2025",
+      "short": "DOSM, MSMEs Performance 2025"
+    },
+    {
+      "name": "OECD (citing DOSM)",
+      "title": "Financing SMEs and Entrepreneurs 2026: Malaysia",
+      "year": 2026,
+      "url": "https://www.oecd.org/en/publications/financing-smes-and-entrepreneurs-2026_bb7fc5c4-en/malaysia_ebf7a4e9-en.html",
+      "short": "OECD, Financing SMEs & Entrepreneurs 2026"
+    }
+  ],
+  "slides": [
+    {
+      "t": "single_stat",
+      "tag": "fun fact",
+      "pre": "in 2025, MSMEs made up",
+      "big": "39.7%",
+      "label": "of malaysia's *GDP*",
+      "body": "They are **96.1%** of all business establishments. The stories are everywhere. The coverage isn't.",
+      "sub": "got a story? write the release",
+      "src": "DOSM, MSMEs Performance 2025; OECD (2026)"
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "MSMEs made up 39.7% of Malaysia's GDP in 2025. How many made the news? 🤔",
+    "lines": [
+      "From DOSM's MSMEs Performance 2025:",
+      "• MSME GDP grew 5.7%",
+      "• MSMEs = 39.7% of national GDP",
+      "• And 96.1% of all establishments (OECD, citing DOSM 2024)",
+      "",
+      "New outlets, first exports, 50 new hires: these are local news stories.",
+      "They just rarely get written in a format newsrooms can use."
+    ],
+    "li_hook": "Malaysian MSMEs contributed 39.7% of GDP in 2025 and account for 96.1% of business establishments.\nTheir share of business headlines is far smaller.",
+    "li_body": [
+      "DOSM's latest MSME release usually gets read as an economic indicator. We read it as a communications gap: hundreds of thousands of businesses with stories that never reach a journalist.",
+      "Not because they aren't newsworthy, but because they aren't packaged as news. A third outlet, a first export contract or 50 new hires is a strong local story when it comes with clear numbers and a quotable spokesperson."
+    ],
+    "li_close": "If you run an SME: which story from this year should the public know about?",
+    "fb": "Fun fact: MSMEs made up 39.7% of Malaysia's GDP in 2025. If your business is one of them, your story deserves coverage too 💙"
+  },
+  "tags": [
+    "#MalaysiaSME",
+    "#FunFact"
+  ],
+  "price_status": null
+}

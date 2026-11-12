@@ -1,0 +1,137 @@
+{
+  "post_id": "vn_20261116_edu",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-11-16",
+  "day": "Mon",
+  "slot": "W1Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "c",
+  "slug": "giai-phau-thong-cao-bao-chi",
+  "title": "Giải phẫu một thông cáo báo chí được biên tập viên đăng",
+  "hook": "Thông cáo báo chí của bạn được biên tập viên đọc… hay chỉ mở ra rồi đóng lại? 👀",
+  "cta": "Lưu lại làm checklist trước khi gửi",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "11:30 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261116_edu",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261116_edu",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261116_edu"
+  },
+  "sources": [
+    {
+      "name": "Cision",
+      "title": "2025 State of the Media Report (press release, 7 May 2025)",
+      "year": 2025,
+      "url": "https://www.cision.com/about/press-releases/2025-press-releases/cisions-2025-state-of-the-media-report-reveals-a-tipping-point-for-trust-technology-and-pr-journalist-partnerships-302448410/",
+      "short": "Cision, State of the Media 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "thông cáo 101",
+      "title": "thông cáo báo chí mà *biên tập viên* muốn đăng",
+      "sub": "chứ không phải bỏ qua"
+    },
+    {
+      "t": "point",
+      "n": "01",
+      "title": "tiêu đề là *tin tức*, không phải khẩu hiệu",
+      "body": "Chủ thể + hành động + tác động. Khoảng 10–14 chữ, có con số hoặc địa danh càng tốt.",
+      "ex": "✕ \"Đổi mới không giới hạn vì cộng đồng\"\n✓ \"Startup logistics mở 5 kho tại miền Trung, rút thời gian giao hàng còn 1 ngày\""
+    },
+    {
+      "t": "point",
+      "n": "02",
+      "title": "đoạn mở đầu trả lời 5W1H trong *hai câu*",
+      "body": "Biên tập viên quyết định trong vài giây. Nếu đoạn đầu chưa nói rõ **cái gì, ai, khi nào, ở đâu và vì sao là lúc này**, họ sẽ dừng đọc ở đó."
+    },
+    {
+      "t": "point",
+      "n": "03",
+      "title": "một trích dẫn *có quan điểm*",
+      "body": "Trích dẫn không phải chỗ để nói \"chúng tôi vô cùng tự hào\". Hãy đưa ra góc nhìn, con số hoặc kế hoạch mà báo chí có thể dùng.",
+      "ex": "✕ \"Chúng tôi vô cùng tự hào về cột mốc này.\"\n✓ \"Giao hàng trong ngày không nên chỉ dành cho Hà Nội và TP.HCM. Miền Trung là điểm khởi đầu.\""
+    },
+    {
+      "t": "stat",
+      "big": "72%",
+      "label": "nhà báo coi thông cáo báo chí là *nguồn hữu ích nhất* từ đội PR",
+      "lsize": 56,
+      "body": "Thông cáo không hề chết. Thứ \"chết\" là những thông cáo mà toà soạn không thể dùng ngay.",
+      "src": "Cision, State of the Media 2025"
+    },
+    {
+      "t": "list",
+      "title": "phần thân *dùng được ngay*",
+      "items": [
+        "Kim tự tháp ngược: thông tin quan trọng nhất lên đầu",
+        "Số liệu có so sánh (tăng từ bao nhiêu lên bao nhiêu?)",
+        "1–2 ảnh độ phân giải cao kèm chú thích",
+        "Đầu mối liên hệ báo chí luôn nghe máy"
+      ]
+    },
+    {
+      "t": "point",
+      "n": "05",
+      "title": "boilerplate: *3 câu* thường bị xem nhẹ",
+      "body": "Bạn là ai, thành lập năm nào, quy mô ra sao, ở đâu và đường link chính thức. Viết một lần, cập nhật mỗi quý. Nhà báo thường sao chép nguyên văn."
+    },
+    {
+      "t": "cta",
+      "title": "kiểm tra 3 điều *trước khi gửi*",
+      "items": [
+        "Tiêu đề: có chủ thể, hành động và con số?",
+        "Mở đầu: đủ 5W1H trong hai câu?",
+        "Trích dẫn: có quan điểm hoặc số liệu?"
+      ],
+      "sources": [
+        "Cision, State of the Media 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Thông cáo báo chí của bạn được biên tập viên đọc… hay chỉ mở ra rồi đóng lại? 👀",
+    "lines": [
+      "Biên tập viên quyết định trong vài giây. Đây là cấu trúc của những thông cáo được đăng:",
+      "",
+      "01 Tiêu đề = tin tức (chủ thể + hành động + tác động)",
+      "02 Mở đầu trả lời 5W1H trong hai câu",
+      "03 Một trích dẫn có quan điểm, không phải \"vô cùng tự hào\"",
+      "04 Thân bài: kim tự tháp ngược, số liệu, ảnh, liên hệ",
+      "05 Boilerplate 3 câu luôn được cập nhật",
+      "",
+      "72% nhà báo vẫn coi thông cáo báo chí là nguồn hữu ích nhất từ đội PR (Cision, 2025)."
+    ],
+    "li_hook": "72% nhà báo cho rằng thông cáo báo chí là nguồn hữu ích nhất mà đội PR cung cấp.\nVấn đề không nằm ở định dạng, mà ở chỗ phần lớn thông cáo chưa thể dùng ngay.",
+    "li_body": [
+      "Báo cáo State of the Media 2025 của Cision (khảo sát hơn 3.000 nhà báo tại 19 quốc gia) thường được trích dẫn như bằng chứng \"thông cáo vẫn hiệu quả\". Điều ít được nhắc tới: nhà báo dùng những thông cáo giúp họ bớt việc, chứ không phải thêm việc.",
+      "Những thông cáo được đăng thường có chung một cấu trúc:"
+    ],
+    "li_points": [
+      "Tiêu đề là tin tức: chủ thể, hành động, tác động, có con số hoặc địa danh.",
+      "Đoạn mở đầu trả lời 5W1H trong hai câu.",
+      "Trích dẫn mang quan điểm hoặc số liệu, không phải lời bày tỏ tự hào.",
+      "Thân bài theo kim tự tháp ngược, có số liệu so sánh, ảnh chất lượng cao và đầu mối liên hệ thực sự phản hồi.",
+      "Boilerplate ba câu, cập nhật mỗi quý."
+    ],
+    "li_close": "Đội ngũ của bạn hay bỏ sót phần nào nhất: tiêu đề, mở đầu hay trích dẫn? Bản đầy đủ nằm trong file PDF phía trên.",
+    "fb": "Trước khi bấm \"gửi\", hãy đối chiếu thông cáo báo chí của bạn với 5 phần quyết định việc biên tập viên có đăng hay không 👇"
+  },
+  "tags": [
+    "#thongcaobaochi",
+    "#PRtips"
+  ],
+  "price_status": null
+}

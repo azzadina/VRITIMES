@@ -1,0 +1,86 @@
+{
+  "post_id": "vn_20261125_fun",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-11-25",
+  "day": "Wed",
+  "slot": "W2Wed",
+  "pillar": "FUN",
+  "format": "single",
+  "grid_tile": "c",
+  "slug": "233-nghin-doanh-nghiep-moi-2024",
+  "title": "Năm 2024 có 233,4 nghìn doanh nghiệp thành lập mới và quay lại hoạt động",
+  "hook": "Năm 2024, Việt Nam có 233,4 nghìn doanh nghiệp thành lập mới và quay lại hoạt động. Bao nhiêu trong số đó từng lên báo? 🤔",
+  "cta": "Tag một chủ doanh nghiệp có câu chuyện đáng lên báo",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "20:00 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261125_fun",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261125_fun",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261125_fun"
+  },
+  "sources": [
+    {
+      "name": "Tổng cục Thống kê (qua VCCI)",
+      "title": "Năm 2024, số doanh nghiệp quay trở lại hoạt động đạt mức cao nhất từ trước đến nay",
+      "year": 2025,
+      "url": "https://vcci.com.vn/tin-tuc/nam-2024-so-doanh-nghiep-quay-tro-lai-hoat-dong-dat-muc-cao-nhat-tu-truoc-den-nay",
+      "short": "Tổng cục Thống kê (2025)"
+    },
+    {
+      "name": "VCCI (dẫn Bộ KH&ĐT)",
+      "title": "Doanh nghiệp nhỏ và vừa cần cơ chế thực chất, cơ hội bình đẳng",
+      "year": 2024,
+      "url": "https://www.vcci.com.vn/tin-tuc/doanh-nghiep-nho-va-vua-can-co-che-thuc-chat-co-hoi-binh-dang",
+      "short": "VCCI / Bộ KH&ĐT"
+    }
+  ],
+  "slides": [
+    {
+      "t": "single_stat",
+      "tag": "fun fact",
+      "pre": "năm 2024 việt nam có",
+      "big": "233,4K",
+      "bsize": 220,
+      "tsize": 60,
+      "lsize": 60,
+      "label": "doanh nghiệp *thành lập mới & quay lại*",
+      "body": "Trong đó **76,2 nghìn** doanh nghiệp quay lại hoạt động, cao nhất từ trước đến nay. Ai cũng cần được biết đến.",
+      "sub": "có tin vui? viết thông cáo",
+      "src": "Tổng cục Thống kê (2025)"
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Năm 2024, Việt Nam có 233,4 nghìn doanh nghiệp thành lập mới và quay lại hoạt động. Bao nhiêu trong số đó từng lên báo? 🤔",
+    "lines": [
+      "Theo Tổng cục Thống kê:",
+      "• 233,4 nghìn doanh nghiệp thành lập mới & quay lại hoạt động (+7,1%)",
+      "• 76,2 nghìn doanh nghiệp quay lại hoạt động, cao nhất từ trước đến nay",
+      "• Bình quân 13,1 nghìn doanh nghiệp mới mỗi tháng",
+      "",
+      "Mở chi nhánh, đơn hàng xuất khẩu đầu tiên, tuyển 50 nhân sự: đều là tin tức.",
+      "Chỉ là hiếm khi được viết theo cách toà soạn dùng được."
+    ],
+    "li_hook": "Năm 2024, Việt Nam có 233,4 nghìn doanh nghiệp thành lập mới và quay lại hoạt động, trong đó 76,2 nghìn doanh nghiệp quay lại, mức cao nhất từ trước đến nay.\nPhần lớn trong số họ chưa từng xuất hiện trên báo.",
+    "li_body": [
+      "Với khoảng 97% doanh nghiệp là doanh nghiệp nhỏ và vừa (theo Bộ KH&ĐT, VCCI dẫn), cạnh tranh để được chú ý ngày càng gay gắt. Số liệu của Tổng cục Thống kê thường được đọc dưới góc độ kinh tế. Chúng tôi nhìn thấy một khoảng trống truyền thông.",
+      "Không phải vì thiếu giá trị tin tức, mà vì chưa được kể dưới dạng tin tức. Một chi nhánh mới, hợp đồng xuất khẩu đầu tiên hay đợt tuyển dụng lớn đều là tin địa phương tốt khi có số liệu rõ ràng và người phát ngôn có thể trích dẫn."
+    ],
+    "li_close": "Nếu bạn là chủ doanh nghiệp: câu chuyện nào của năm nay công chúng nên được biết?",
+    "fb": "Sự thật thú vị: năm 2024 có 233,4 nghìn doanh nghiệp thành lập mới và quay lại hoạt động. Nếu doanh nghiệp của bạn là một trong số đó, câu chuyện của bạn xứng đáng được lên báo 💙"
+  },
+  "tags": [
+    "#doanhnghiep",
+    "#FunFact"
+  ],
+  "price_status": null
+}

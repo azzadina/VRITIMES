@@ -1,0 +1,84 @@
+{
+  "post_id": "vn_20261211_promo",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-12-11",
+  "day": "Fri",
+  "slot": "W4Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "a",
+  "slug": "cong-bo-tin-truoc-tet",
+  "title": "Công bố tin trước 12.12 và mùa Tết",
+  "hook": "12.12 là ngày mai, Tết đang đến gần. Tin của bạn đã lên báo chưa? 🧧",
+  "cta": "Xem giá mới nhất qua link",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "11:30 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261211_promo",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261211_promo",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202612&utm_content=vn_20261211_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (VN) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/vn/service/pricing",
+      "short": "vritimes.com/vn/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "trước mùa tết",
+      "title": "tin cuối năm? *công bố* trước khi quá muộn",
+      "items": [
+        "Đăng tải trước 12.12 và mùa cao điểm Tết",
+        "Backlink tới trang khuyến mãi hoặc sản phẩm",
+        "Báo cáo phân phối để đánh giá chiến dịch"
+      ],
+      "price": "giá chỉ từ — xem link",
+      "src": "vritimes.com/vn/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "12.12 là ngày mai, Tết đang đến gần. Tin của bạn đã lên báo chưa? 🧧",
+    "lines": [
+      "Đi trước khi toà soạn bước vào mùa Tết:",
+      "✓ Đăng tải trước ngày cao điểm",
+      "✓ Backlink tới trang khuyến mãi/sản phẩm",
+      "✓ Báo cáo phân phối để đánh giá",
+      "",
+      "Gói và giá mới nhất: link ở bio."
+    ],
+    "ig_cta": "Xem gói và giá mới nhất qua link ở bio.",
+    "li_hook": "Thông cáo cuối năm đăng sau mùa cao điểm gần như mất hết giá trị tin tức.\nThời điểm phù hợp là bây giờ.",
+    "li_body": [
+      "Từ 12.12 đến Tết Nguyên Đán, các toà soạn và đội truyền thông đều bận rộn, hộp thư luôn đầy. Thông cáo được gửi trước giai đoạn đó có nhiều cơ hội được đăng và chia sẻ hơn.",
+      "Những gì bạn có thể làm ngay tuần này với VRITIMES:"
+    ],
+    "li_points": [
+      "Phân phối thông cáo khuyến mãi, kết quả cuối năm hoặc tin tháng 1 với cam kết đăng tải trên báo (số lượng theo gói).",
+      "Đặt backlink tới trang khuyến mãi hoặc sản phẩm.",
+      "Dùng báo cáo phân phối để đánh giá chiến dịch và lên kế hoạch quý I."
+    ],
+    "li_close": "Gói dịch vụ và giá mới nhất có trên trang chính thức của chúng tôi.",
+    "fb": "Đừng để tin cuối năm của bạn lên báo khi mọi người đã nghỉ Tết 😅 Xem các gói VRITIMES tại đây 👇"
+  },
+  "tags": [
+    "#thongcaobaochi",
+    "#doanhnghiep"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

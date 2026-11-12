@@ -1,0 +1,144 @@
+{
+  "post_id": "sg_20261123_edu",
+  "country": "SG",
+  "language": "en",
+  "date": "2026-11-23",
+  "day": "Mon",
+  "slot": "W2Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "a",
+  "slug": "pitch-email-under-200-words",
+  "title": "A pitch email under 200 words that gets replies",
+  "hook": "Is your pitch email too long? 69% of journalists prefer under 200 words. ✂️",
+  "cta": "Save the template",
+  "times": {
+    "linkedin": "08:30 SGT",
+    "instagram_facebook": "12:30 SGT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/sg?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261123_edu",
+    "facebook": "https://www.vritimes.com/sg?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261123_edu",
+    "linkedin": "https://www.vritimes.com/sg?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_sg_202611&utm_content=sg_20261123_edu"
+  },
+  "sources": [
+    {
+      "name": "Muck Rack",
+      "title": "State of Journalism 2025 (webinar FAQs)",
+      "year": 2025,
+      "url": "https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+      "short": "Muck Rack, State of Journalism 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "pr tips",
+      "title": "a pitch email *under 200 words* that gets replies",
+      "sub": "template on slide 6"
+    },
+    {
+      "t": "stat",
+      "big": "69%",
+      "label": "of journalists prefer pitches *under 200 words*",
+      "body": "A pitch is an invitation, not the release itself. The details live behind a link.",
+      "src": "Muck Rack, State of Journalism 2025"
+    },
+    {
+      "t": "list",
+      "title": "the *4-line* structure",
+      "items": [
+        "Line 1 — why it matters to their beat or readers",
+        "Line 2 — the news in one sentence (with a number)",
+        "Line 3 — what you can offer: data, a spokesperson, photos",
+        "Line 4 — link to the full release + your contact"
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "subject lines: *different fates*",
+      "left": {
+        "h": "skipped",
+        "items": [
+          "\"Press Release – ABC Pte Ltd\"",
+          "\"URGENT!!! Important Update\"",
+          "\"Exciting Collaboration\""
+        ]
+      },
+      "right": {
+        "h": "opened",
+        "items": [
+          "\"Data: 3 in 5 SG F&B SMEs plan price changes in Q1\"",
+          "\"Spokesperson: CFO on 2027 shipping costs\"",
+          "\"Embargo 24 Nov, 9am: launch of …\""
+        ]
+      }
+    },
+    {
+      "t": "stat",
+      "big": "1×",
+      "label": "follow-up, *3–7 days* later",
+      "body": "50% of journalists say one follow-up is ideal. 51% want it 3–7 days after the pitch. More than that is noise.",
+      "src": "Muck Rack, State of Journalism 2025"
+    },
+    {
+      "t": "point",
+      "title": "a template *you can use today*",
+      "body": "Swap the parts in brackets.",
+      "exlab": "template",
+      "bsize": 36,
+      "ex": "Hi (name), I read your piece on (topic) last week.\n(Company) has just (the news in one sentence + a number).\nWe can share (full data / an interview / photos) this week.\nRelease & images: (link). Thanks — (name, number)"
+    },
+    {
+      "t": "cta",
+      "title": "short pitch, *better odds*",
+      "items": [
+        "Save this template",
+        "Send it to whoever handles media relations",
+        "Follow for weekly PR tips"
+      ],
+      "sources": [
+        "Muck Rack, State of Journalism 2025"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Is your pitch email too long? 69% of journalists prefer under 200 words. ✂️",
+    "lines": [
+      "The 4-line structure:",
+      "1️⃣ Why it matters to their beat",
+      "2️⃣ The news in one sentence + a number",
+      "3️⃣ What you can offer: data, spokesperson, photos",
+      "4️⃣ Release link + contact",
+      "",
+      "Follow-up? Once, 3–7 days later.",
+      "Full template on slide 6."
+    ],
+    "li_hook": "The pitches journalists reply to are usually shorter than you think.\nAccording to Muck Rack, 69% of journalists prefer pitches under 200 words.",
+    "li_body": [
+      "The most common mistake we see: pasting the whole release into the pitch. A pitch is an invitation to read, not the release itself.",
+      "The same Muck Rack State of Journalism 2025 data settles the follow-up question too: 50% of journalists say one follow-up is ideal, and 51% want it 3–7 days later.",
+      "A four-line structure your team can use straight away:"
+    ],
+    "li_points": [
+      "Relevance: why this topic fits their beat or readers.",
+      "The news in one sentence, with a number.",
+      "The offer: data, a spokesperson or photos that are ready now.",
+      "A link to the full release and a contact who responds."
+    ],
+    "li_close": "The full template is on slide 6. How long are your team's pitches right now?",
+    "fb": "Here's a pitch email template under 200 words. Four lines, ready for your team to use 👇"
+  },
+  "tags": [
+    "#MediaRelations",
+    "#PRtips"
+  ],
+  "price_status": null
+}

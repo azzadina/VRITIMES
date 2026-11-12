@@ -1,0 +1,130 @@
+{
+  "post_id": "ph_20261209_fun",
+  "country": "PH",
+  "language": "en",
+  "date": "2026-12-09",
+  "day": "Wed",
+  "slot": "W4Wed",
+  "pillar": "FUN",
+  "format": "reel",
+  "grid_tile": "b",
+  "slug": "trust-in-news-philippines-vs-region",
+  "title": "How much do Filipinos trust the news?",
+  "hook": "Only 38% of Filipinos trust most news most of the time. 📰",
+  "cta": "Share with your comms team",
+  "times": {
+    "linkedin": "08:30 PHT",
+    "instagram_facebook": "20:00 PHT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/ph?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261209_fun",
+    "facebook": "https://www.vritimes.com/ph?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261209_fun",
+    "linkedin": "https://www.vritimes.com/ph?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_ph_202612&utm_content=ph_20261209_fun"
+  },
+  "sources": [
+    {
+      "name": "Reuters Institute",
+      "title": "Digital News Report 2025",
+      "year": 2025,
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf",
+      "short": "Reuters Institute, Digital News Report 2025"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "fun fact",
+      "title": "how much do filipinos *trust the news*?"
+    }
+  ],
+  "reel": {
+    "frames": [
+      {
+        "top": "fun fact",
+        "text": "how much do filipinos *trust the news*?",
+        "icon": "eye",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "*38%* trust most news most of the time",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.5,
+        "theme": "pale"
+      },
+      {
+        "text": "thailand *55%* · singapore *45%* · australia *43%*",
+        "sub": "same survey, 2025",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 4.0,
+        "theme": "navy"
+      },
+      {
+        "text": "malaysia *37%* · indonesia *36%*",
+        "src": "Reuters Institute, Digital News Report 2025",
+        "dur": 3.0,
+        "theme": "blue"
+      },
+      {
+        "text": "low trust = your news needs *proof*: data, names, sources",
+        "dur": 4.0,
+        "theme": "pale"
+      },
+      {
+        "text": "be the source *worth quoting*",
+        "sub": "Raise It With Press Release",
+        "dur": 3.0,
+        "theme": "navy"
+      }
+    ],
+    "vo": [
+      "How much do Filipinos trust the news?",
+      "Thirty-eight percent trust most news most of the time.",
+      "Thailand fifty-five, Singapore forty-five, Australia forty-three.",
+      "Malaysia thirty-seven, Indonesia thirty-six.",
+      "Low trust means your news needs proof: data, names, sources.",
+      "Be the source worth quoting."
+    ],
+    "broll": [
+      "Animated bar chart of the six markets (from text cards)",
+      "Person reading news on phone, skeptical face (internal talent)",
+      "Close-up of a release with highlighted data points (internal template)"
+    ],
+    "audio": "Upbeat \"fact reveal\" beat from the platform's licensed library"
+  },
+  "captions_meta": {
+    "hook": "Only 38% of Filipinos trust most news most of the time. 📰",
+    "lines": [
+      "Reuters Institute Digital News Report 2025, trust in news:",
+      "🇹🇭 55% · 🇸🇬 45% · 🇦🇺 43%",
+      "🇵🇭 38% · 🇲🇾 37% · 🇮🇩 36%",
+      "",
+      "Low trust means audiences look for proof.",
+      "Releases with real data, named spokespeople and sources stand out."
+    ],
+    "li_hook": "Trust in news in the Philippines sits at 38%, according to the Reuters Institute Digital News Report 2025.\nThat changes how brands should communicate.",
+    "li_body": [
+      "For context, the same survey puts Thailand at 55%, Singapore at 45%, Australia at 43%, Malaysia at 37% and Indonesia at 36%.",
+      "In a lower-trust environment, claims are discounted and proof is rewarded. For brand announcements, that means:"
+    ],
+    "li_points": [
+      "Lead with verifiable data, not adjectives.",
+      "Name a real spokesperson who can be contacted.",
+      "Cite your sources and link to them.",
+      "Get published by established media, then share that coverage on social."
+    ],
+    "li_close": "How does your team build credibility into announcements?",
+    "fb": "Fun fact: only 38% of Filipinos trust most news most of the time. See how we compare with the region 👀"
+  },
+  "tags": [
+    "#MediaPH",
+    "#FunFact"
+  ],
+  "price_status": null
+}

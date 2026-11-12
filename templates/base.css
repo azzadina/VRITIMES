@@ -110,7 +110,7 @@ body.reel,body.reel html{height:1920px}
 .card{background:#fff;border-radius:36px;padding:44px 48px;color:var(--navy);box-shadow:0 18px 0 rgba(7,27,110,.12)}
 .t-pale .card{box-shadow:0 14px 0 rgba(0,88,248,.18)}
 .checks{display:flex;flex-direction:column;gap:18px}
-.check{display:flex;align-items:center;gap:22px;background:#fff;color:var(--navy);border-radius:999px;padding:18px 34px 18px 18px;font-family:var(--body);font-weight:600;font-size:32px;line-height:1.2}
+.check{display:flex;align-items:center;gap:22px;background:#fff;color:var(--navy);border-radius:44px;padding:18px 34px 18px 18px;font-family:var(--body);font-weight:600;font-size:32px;line-height:1.25}
 .check i{flex:none;width:58px;height:58px;border-radius:50%;background:var(--blue);display:flex;align-items:center;justify-content:center;color:#fff;font-style:normal;font-family:Poppins;font-weight:800;font-size:32px}
 .check.x i{background:#E2E8F5;color:var(--navy)}
 .t-blue .check,.t-navy .check{background:rgba(255,255,255,.96)}
@@ -152,3 +152,6 @@ body.reel,body.reel html{height:1920px}
 .doc .ln.s{width:60%}
 .reelicon{position:absolute;top:60px;right:60px;width:70px;height:70px;border-radius:18px;background:#fff;z-index:8;display:flex;align-items:center;justify-content:center}
 .reelicon::after{content:"";border-left:26px solid var(--blue);border-top:16px solid transparent;border-bottom:16px solid transparent;margin-left:6px}
+.t-sky{background:linear-gradient(160deg,#00C8F8 0%,#0098F8 45%,#0058F8 100%);color:#fff}
+.t-sky .hl{color:var(--navy)} .t-sky .body b{color:var(--navy)} .t-sky .note{color:#fff}
+.t-sky .stamp{box-shadow:0 0 0 10px rgba(255,255,255,.3)}

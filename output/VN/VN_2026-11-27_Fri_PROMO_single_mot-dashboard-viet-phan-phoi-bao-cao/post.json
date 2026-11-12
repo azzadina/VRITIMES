@@ -1,0 +1,93 @@
+{
+  "post_id": "vn_20261127_promo",
+  "country": "VN",
+  "language": "vn",
+  "date": "2026-11-27",
+  "day": "Fri",
+  "slot": "W2Fri",
+  "pillar": "PROMO",
+  "format": "single",
+  "grid_tile": "b",
+  "slug": "mot-dashboard-viet-phan-phoi-bao-cao",
+  "title": "Viết, phân phối và xem kết quả trong một dashboard",
+  "hook": "Black Friday giảm giá gì cũng được, trừ uy tín thương hiệu. 😉",
+  "cta": "Xem các gói tại vritimes.com/vn",
+  "times": {
+    "linkedin": "08:30 (GMT+7)",
+    "instagram_facebook": "11:30 (GMT+7)"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/vn?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261127_promo",
+    "facebook": "https://www.vritimes.com/vn?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261127_promo",
+    "linkedin": "https://www.vritimes.com/vn?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_vn_202611&utm_content=vn_20261127_promo"
+  },
+  "sources": [
+    {
+      "name": "VRITIMES",
+      "title": "Service page (VN)",
+      "year": 2026,
+      "url": "https://www.vritimes.com/vn/service",
+      "short": "vritimes.com/vn/service"
+    },
+    {
+      "name": "VRITIMES",
+      "title": "Pricing page (VN) — PRICE_UNVERIFIED in this run",
+      "year": 2026,
+      "url": "https://www.vritimes.com/vn/service/pricing",
+      "short": "vritimes.com/vn/service/pricing"
+    }
+  ],
+  "slides": [
+    {
+      "t": "promo",
+      "tag": "một dashboard",
+      "title": "viết. *gửi.*\nxem kết quả.",
+      "items": [
+        "Cam kết đăng tải trên báo cho mỗi thông cáo (số lượng theo gói)",
+        "Backlink + chia sẻ trên kênh mạng xã hội của VRITIMES",
+        "Báo cáo sau phân phối để gửi sếp hoặc khách hàng"
+      ],
+      "price": "giá chỉ từ — xem link",
+      "src": "vritimes.com/vn/service/pricing",
+      "ribbon": true
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Black Friday giảm giá gì cũng được, trừ uy tín thương hiệu. 😉",
+    "lines": [
+      "VRITIMES gom mọi thứ vào một dashboard:",
+      "✓ Viết và gửi thông cáo báo chí",
+      "✓ Cam kết đăng tải trên báo cho mỗi thông cáo (số lượng theo gói)",
+      "✓ Backlink + chia sẻ trên mạng xã hội của VRITIMES",
+      "✓ Báo cáo sau phân phối",
+      "",
+      "Gói dịch vụ và giá mới nhất: link ở bio."
+    ],
+    "ig_cta": "Xem các gói mới nhất qua link ở bio.",
+    "li_hook": "Nhiều đội marketing vẫn phân phối thông cáo bằng file Excel danh sách báo, gửi email từng người và dùng ảnh chụp màn hình làm báo cáo.\nCó cách gọn gàng hơn.",
+    "li_body": [
+      "VRITIMES được xây dựng cho startup và doanh nghiệp nhỏ và vừa muốn thông cáo được đăng tải mà không phải tự xây dựng cơ sở dữ liệu báo chí.",
+      "Toàn bộ quy trình nằm trong một dashboard:"
+    ],
+    "li_points": [
+      "Viết và tải lên thông cáo báo chí.",
+      "Phân phối với cam kết đăng tải trên báo cho mỗi thông cáo (số lượng báo theo gói).",
+      "Backlink về website và chia sẻ trên kênh mạng xã hội của VRITIMES.",
+      "Báo cáo sau phân phối, sẵn sàng gửi cho quản lý hoặc khách hàng."
+    ],
+    "li_close": "Gói dịch vụ và giá mới nhất luôn có trên trang chính thức của chúng tôi.",
+    "fb": "Gửi thông cáo báo chí không còn rắc rối: viết, phân phối và xem kết quả trong một dashboard. Xem các gói tại đây 👇"
+  },
+  "tags": [
+    "#thongcaobaochi",
+    "#doanhnghiep"
+  ],
+  "price_status": "PRICE_UNVERIFIED"
+}

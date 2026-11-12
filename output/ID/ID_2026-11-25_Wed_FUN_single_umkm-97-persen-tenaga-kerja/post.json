@@ -1,0 +1,76 @@
+{
+  "post_id": "id_20261125_fun",
+  "country": "ID",
+  "language": "id",
+  "date": "2026-11-25",
+  "day": "Wed",
+  "slot": "W2Wed",
+  "pillar": "FUN",
+  "format": "single",
+  "grid_tile": "c",
+  "slug": "umkm-97-persen-tenaga-kerja",
+  "title": "UMKM menyerap hampir 97% tenaga kerja",
+  "hook": "Hampir 97% tenaga kerja Indonesia ada di UMKM. Tapi berapa yang pernah masuk berita? 🤔",
+  "cta": "Tag pemilik UMKM yang layak diliput",
+  "times": {
+    "linkedin": "08:30 WIB",
+    "instagram_facebook": "19:30 WIB"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/id?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261125_fun",
+    "facebook": "https://www.vritimes.com/id?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261125_fun",
+    "linkedin": "https://www.vritimes.com/id?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_id_202611&utm_content=id_20261125_fun"
+  },
+  "sources": [
+    {
+      "name": "Kemenko Perekonomian RI",
+      "title": "Pemerintah Dorong UMKM Naik Kelas, Tingkatkan Kontribusi terhadap Ekspor Indonesia",
+      "year": 2025,
+      "url": "https://ekon.go.id/publikasi/detail/6152/pemerintah-dorong-umkm-naik-kelas-tingkatkan-kontribusi-terhadap-ekspor-indonesia",
+      "short": "Kemenko Perekonomian (2025)"
+    }
+  ],
+  "slides": [
+    {
+      "t": "single_stat",
+      "tag": "fun fact umkm",
+      "pre": "UMKM menyerap hampir",
+      "big": "97%",
+      "label": "tenaga kerja *Indonesia*",
+      "body": "Lebih dari **64 juta** unit usaha, menyumbang **lebih dari 60%** PDB. Ceritanya ada di mana-mana. Liputannya belum.",
+      "sub": "punya cerita? tulis rilisnya",
+      "src": "Kemenko Perekonomian (2025)"
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Hampir 97% tenaga kerja Indonesia ada di UMKM. Tapi berapa yang pernah masuk berita? 🤔",
+    "lines": [
+      "Data Kemenko Perekonomian (2025):",
+      "• Lebih dari 64 juta unit UMKM",
+      "• Kontribusi lebih dari 60% PDB",
+      "• Menyerap hampir 97% tenaga kerja",
+      "",
+      "Cerita bisnis yang layak diberitakan ada di mana-mana: ekspansi cabang, produk ekspor, rekrutmen besar.",
+      "Masalahnya, jarang ditulis dalam format yang siap dipakai media."
+    ],
+    "li_hook": "UMKM menyerap hampir 97% tenaga kerja Indonesia dan menyumbang lebih dari 60% PDB.\nNamun porsi mereka di halaman berita bisnis jauh lebih kecil.",
+    "li_body": [
+      "Angka dari Kemenko Perekonomian (2025) ini sering dikutip dalam konteks kebijakan. Kami melihatnya dari sisi komunikasi: ada puluhan juta cerita bisnis yang tidak pernah sampai ke jurnalis.",
+      "Bukan karena tidak layak berita, tetapi karena tidak dikemas sebagai berita. Pembukaan cabang ketiga, kontrak ekspor pertama, atau rekrutmen 50 karyawan baru adalah berita lokal yang kuat bila ditulis dengan data dan kutipan yang jelas."
+    ],
+    "li_close": "Jika Anda pemilik UMKM: cerita apa dari tahun ini yang seharusnya diketahui publik?",
+    "fb": "Fakta menarik: hampir 97% tenaga kerja Indonesia ada di UMKM. Kalau bisnis kamu salah satunya, cerita kamu juga layak diberitakan 💙"
+  },
+  "tags": [
+    "#UMKMIndonesia",
+    "#FunFact"
+  ],
+  "price_status": null
+}

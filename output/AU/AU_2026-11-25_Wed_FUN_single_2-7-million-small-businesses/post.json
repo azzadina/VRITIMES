@@ -1,0 +1,76 @@
+{
+  "post_id": "au_20261125_fun",
+  "country": "AU",
+  "language": "en",
+  "date": "2026-11-25",
+  "day": "Wed",
+  "slot": "W2Wed",
+  "pillar": "FUN",
+  "format": "single",
+  "grid_tile": "c",
+  "slug": "2-7-million-small-businesses",
+  "title": "Australia has 2.74 million small businesses",
+  "hook": "Australia has 2,741,087 small businesses. Most of their news never gets a run. 🤔",
+  "cta": "Tag a small business owner whose story deserves coverage",
+  "times": {
+    "linkedin": "08:00 AEDT",
+    "instagram_facebook": "19:30 AEDT"
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/au?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_au_202611&utm_content=au_20261125_fun",
+    "facebook": "https://www.vritimes.com/au?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_au_202611&utm_content=au_20261125_fun",
+    "linkedin": "https://www.vritimes.com/au?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_au_202611&utm_content=au_20261125_fun"
+  },
+  "sources": [
+    {
+      "name": "ASBFEO",
+      "title": "Contribution to Australian business numbers",
+      "year": 2026,
+      "url": "https://www.asbfeo.gov.au/contribution-australian-business-numbers",
+      "short": "ASBFEO (2026)"
+    }
+  ],
+  "slides": [
+    {
+      "t": "single_stat",
+      "tag": "fun fact",
+      "pre": "australia has",
+      "big": "2.74M",
+      "label": "actively trading *small businesses*",
+      "body": "That's **97%** of all businesses (30 June 2026). Plenty of stories. Not much airtime.",
+      "sub": "got news? write the release",
+      "src": "ASBFEO (2026)"
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "Australia has 2,741,087 small businesses. Most of their news never gets a run. 🤔",
+    "lines": [
+      "From the Australian Small Business and Family Enterprise Ombudsman:",
+      "• 2,741,087 actively trading small businesses (30 June 2026)",
+      "• Up 3.2% on a year earlier",
+      "• 97% of all actively trading businesses",
+      "",
+      "A new site, a first export deal, 20 new hires: genuinely newsworthy.",
+      "Usually just not written up in a way a newsroom can use."
+    ],
+    "li_hook": "There were 2,741,087 actively trading small businesses in Australia at 30 June 2026, 97% of all businesses.\nTheir share of business coverage is a fraction of that.",
+    "li_body": [
+      "ASBFEO's figures are mostly used in policy debates. We see a communications gap: millions of businesses with milestones that never reach a journalist.",
+      "Not because they lack news value, but because they aren't packaged as news. A second location, a first export contract or a hiring round is a solid local story when it comes with clear numbers and a spokesperson who will take a call."
+    ],
+    "li_close": "If you run a small business: what from this year deserved a story?",
+    "fb": "Fun fact: Australia has more than 2.7 million small businesses. If yours is one of them, your news deserves a run too."
+  },
+  "tags": [
+    "#SmallBusinessAustralia",
+    "#FunFact"
+  ],
+  "price_status": null
+}

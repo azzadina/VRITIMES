@@ -1,0 +1,150 @@
+{
+  "post_id": "th_20261130_edu",
+  "country": "TH",
+  "language": "th",
+  "date": "2026-11-30",
+  "day": "Mon",
+  "slot": "W3Mon",
+  "pillar": "EDU",
+  "format": "carousel",
+  "grid_tile": "b",
+  "slug": "backlink-seo-khao-prachasamphan",
+  "title": "ใช้ข่าวประชาสัมพันธ์ทำ SEO? อ่านนโยบาย Google ก่อน",
+  "hook": "ส่งข่าวประชาสัมพันธ์เพื่อเอา backlink? Google มีนโยบายเรื่องนี้ 🔗",
+  "cta": "บันทึกแล้วส่งให้ทีม SEO",
+  "times": {
+    "linkedin": "08:30 น.",
+    "instagram_facebook": "12:00 น."
+  },
+  "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+  ],
+  "status": "ready_for_review",
+  "links": {
+    "instagram": "https://www.vritimes.com/th?utm_source=instagram&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261130_edu",
+    "facebook": "https://www.vritimes.com/th?utm_source=facebook&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261130_edu",
+    "linkedin": "https://www.vritimes.com/th?utm_source=linkedin&utm_medium=organic_social&utm_campaign=sns_th_202611&utm_content=th_20261130_edu"
+  },
+  "sources": [
+    {
+      "name": "Google Search Central",
+      "title": "Spam policies for Google web search (link spam)",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/essentials/spam-policies",
+      "short": "Google Search Central, Spam policies"
+    },
+    {
+      "name": "Google Search Central",
+      "title": "Qualify your outbound links to Google",
+      "year": 2025,
+      "url": "https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links",
+      "short": "Google Search Central, Qualify outbound links"
+    }
+  ],
+  "slides": [
+    {
+      "t": "cover",
+      "tag": "seo x pr",
+      "title": "ใช้ข่าวทำ SEO?\n*อ่านนี่ก่อน*",
+      "sub": "จาก google โดยตรง"
+    },
+    {
+      "t": "quote",
+      "text": "Google ระบุว่าลิงก์ที่ใช้ *anchor text แบบปรับแต่ง* ในข่าวประชาสัมพันธ์ที่กระจายไปยังเว็บอื่น คือ *link spam*",
+      "size": 64,
+      "by": "— Google Search Central, นโยบายสแปม",
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "compare",
+      "title": "*เสี่ยง* vs *ปลอดภัย*",
+      "left": {
+        "h": "เสี่ยง",
+        "items": [
+          "anchor “รับทำ SEO ราคาถูก กรุงเทพ” ทุกย่อหน้า",
+          "ข่าวที่ไม่มีข่าว ทำเพื่อเอาลิงก์",
+          "ลิงก์นับสิบในข่าวเดียว"
+        ]
+      },
+      "right": {
+        "h": "ปลอดภัย",
+        "items": [
+          "ใช้ชื่อแบรนด์หรือ URL เป็นลิงก์",
+          "ข่าวที่ทำให้สื่ออื่นเขียนต่อ",
+          "1–2 ลิงก์ไปยังหน้าที่เกี่ยวข้อง"
+        ]
+      },
+      "src": "Google Search Central, Spam policies"
+    },
+    {
+      "t": "point",
+      "icon": "link",
+      "title": "แล้วลิงก์จากข่าว*มีค่า*อะไร?",
+      "body": "สามอย่างที่จับต้องได้: **ทราฟฟิกจากผู้อ่าน** การ**ถูกกล่าวถึงชื่อแบรนด์**บนเว็บข่าว และ**การรายงานต่อ**จากนักข่าวที่เจอข่าวของคุณ"
+    },
+    {
+      "t": "point",
+      "icon": "shield",
+      "title": "rel=\"sponsored\" *เป็นเรื่องปกติ*",
+      "body": "Google ขอให้ลิงก์แบบจ่ายเงินหรือการวางลิงก์ใส่ **rel=\"sponsored\"** หรือ **nofollow** ดังนั้นวัดผลข่าวจากคนที่อ่านและสื่อที่เขียนต่อ ไม่ใช่ “link juice”",
+      "src": "Google Search Central, Qualify outbound links"
+    },
+    {
+      "t": "list",
+      "title": "เช็กลิสต์ข่าว*ปลอดภัยต่อ SEO*",
+      "items": [
+        "คีย์เวิร์ดในพาดหัวเป็นธรรมชาติ ไม่ยัดเยียด",
+        "ลิงก์หลักหนึ่งลิงก์ไปยังหน้าที่เกี่ยวข้อง",
+        "anchor = ชื่อแบรนด์หรือ URL",
+        "มีข้อมูลหรือคำพูดที่สื่ออื่นอยากอ้างอิง",
+        "ติดตามการกล่าวถึงแบรนด์ ไม่ใช่แค่นับลิงก์"
+      ]
+    },
+    {
+      "t": "cta",
+      "title": "PR ที่ดี*ช่วย* SEO ไม่ใช่กลับกัน",
+      "items": [
+        "บันทึกเช็กลิสต์นี้",
+        "ส่งให้ทีม SEO ของคุณ"
+      ],
+      "sources": [
+        "Google Search Central — Spam policies",
+        "Google Search Central — Qualify outbound links"
+      ]
+    }
+  ],
+  "reel": null,
+  "captions_meta": {
+    "hook": "ส่งข่าวประชาสัมพันธ์เพื่อเอา backlink? Google มีนโยบายเรื่องนี้ 🔗",
+    "lines": [
+      "Google ระบุว่า anchor text แบบปรับแต่งในข่าวประชาสัมพันธ์ที่กระจายไปยังเว็บอื่นคือ link spam",
+      "",
+      "วิธีที่ปลอดภัย:",
+      "✓ anchor = ชื่อแบรนด์ / URL",
+      "✓ 1–2 ลิงก์ไปหน้าที่เกี่ยวข้อง",
+      "✓ ข่าวที่ทำให้สื่ออื่นเขียนต่อ",
+      "",
+      "คุณค่าจริง: ทราฟฟิก การกล่าวถึงแบรนด์ และการรายงานแบบออร์แกนิก"
+    ],
+    "li_hook": "“ส่งข่าวเพื่อเอา backlink” คือกลยุทธ์ที่ Google ระบุไว้ชัดในนโยบายสแปม\nนี่คือวิธีใช้ข่าวประชาสัมพันธ์เพื่อ SEO โดยไม่เสี่ยง",
+    "li_body": [
+      "ในเอกสาร Spam policies ของ Google Search Central ลิงก์ที่ใช้ anchor text แบบปรับแต่งในบทความ guest post หรือข่าวประชาสัมพันธ์ที่กระจายไปยังเว็บอื่น ถูกยกเป็นตัวอย่างของ link spam และ Google ขอให้ลิงก์แบบจ่ายเงินใส่ rel=\"sponsored\" หรือ nofollow",
+      "แล้วข่าวประชาสัมพันธ์ไม่มีประโยชน์ต่อ SEO เลยหรือ? ตรงกันข้าม หากวัดสิ่งที่ถูกต้อง:"
+    ],
+    "li_points": [
+      "ทราฟฟิกจากผู้อ่านที่คลิกเข้ามา",
+      "การกล่าวถึงชื่อแบรนด์บนเว็บข่าว ซึ่งช่วยให้แบรนด์เป็นที่รู้จัก",
+      "การรายงานต่อจากนักข่าวที่เจอข่าวแล้วเขียนเวอร์ชันของตัวเอง นี่คือคุณค่า SEO ที่มากที่สุด",
+      "แนวปฏิบัติ: anchor เป็นชื่อแบรนด์หรือ URL ลิงก์หลักหนึ่งลิงก์ และข่าวที่มีคุณค่าจริง"
+    ],
+    "li_close": "ตอนนี้ทีมของคุณวัดผลข่าวประชาสัมพันธ์ต่อ SEO อย่างไร?",
+    "fb": "หลายแบรนด์ส่งข่าวเพื่อเอา backlink ก่อนทำต่อ ลองดูว่า Google ว่าไว้อย่างไร 👇"
+  },
+  "tags": [
+    "#SEO",
+    "#DigitalPR"
+  ],
+  "price_status": null
+}
