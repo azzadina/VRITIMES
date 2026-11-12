@@ -5,6 +5,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CSS = os.path.join(ROOT, 'templates', 'base.css')
 LOGO = os.path.join(ROOT, 'brand', 'logo', 'web')
 SLOGAN = 'Raise It With Press Release'
+CASE = {'lower': True}  # False = keep authored capitalisation (EYD / sentence case)
 
 L = {
  'id': {'src': 'Sumber', 'swipe': 'geser →', 'save': 'simpan', 'url_pre': 'vritimes.com/id'},
@@ -43,7 +44,7 @@ def page(inner, theme, lang, reel=False, extra_cls=''):
     return f"""<!doctype html><html><head><meta charset="utf-8">
 <link rel="stylesheet" href="file://{CSS}">
 <style>html,body{{height:{h}px}}</style></head>
-<body class="{langcls} {'reel' if reel else ''}"><div class="c t-{theme} {extra_cls}">{inner}</div>{FIT_JS}</body></html>"""
+<body class="{langcls} {'reel' if reel else ''} {'' if CASE['lower'] else 'nolc'}"><div class="c t-{theme} {extra_cls}">{inner}</div>{FIT_JS}</body></html>"""
 
 def logo_img(kind):
     return f'file://{LOGO}/{kind}.png'

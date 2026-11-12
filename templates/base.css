@@ -155,3 +155,4 @@ body.reel,body.reel html{height:1920px}
 .t-sky{background:linear-gradient(160deg,#00C8F8 0%,#0098F8 45%,#0058F8 100%);color:#fff}
 .t-sky .hl{color:var(--navy)} .t-sky .body b{color:var(--navy)} .t-sky .note{color:#fff}
 .t-sky .stamp{box-shadow:0 0 0 10px rgba(255,255,255,.3)}
+.nolc .lc{text-transform:none}
