@@ -1,0 +1,142 @@
+[
+  {
+    "file": "s01.mp3",
+    "duration": 4.445,
+    "text": "Punya u em ka em? Kamu juga bisa masuk berita!",
+    "phrases": [
+      {
+        "text": "Punya u em ka em?",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "+5%",
+        "pause": 0.32
+      },
+      {
+        "text": "Kamu juga bisa masuk berita!",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "+8%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s02.mp3",
+    "duration": 7.852,
+    "text": "u em ka em menyumbang lebih dari enam puluh persen ekonomi Indonesia. Tapi suaranya masih jarang terdengar.",
+    "phrases": [
+      {
+        "text": "u em ka em menyumbang lebih dari enam puluh persen ekonomi Indonesia.",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "+0%",
+        "pause": 0.24
+      },
+      {
+        "text": "Tapi suaranya masih jarang terdengar.",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s03.mp3",
+    "duration": 5.95,
+    "text": "Banyak yang bilang, press release cuma untuk perusahaan besar. Itu mitos!",
+    "phrases": [
+      {
+        "text": "Banyak yang bilang, press release cuma untuk perusahaan besar. Itu mitos!",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "+8%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s04.mp3",
+    "duration": 5.5,
+    "text": "Faktanya, jurnalis setiap hari mencari cerita baru dari usaha lokal.",
+    "phrases": [
+      {
+        "text": "Faktanya, jurnalis setiap hari mencari cerita baru dari usaha lokal.",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s05.mp3",
+    "duration": 3.412,
+    "text": "Cerita usahamu itu layak dibaca banyak orang.",
+    "phrases": [
+      {
+        "text": "Cerita usahamu itu layak dibaca banyak orang.",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s06.mp3",
+    "duration": 4.737,
+    "text": "Dan saat calon pelanggan mencari namamu, berita itu langsung muncul.",
+    "phrases": [
+      {
+        "text": "Dan saat calon pelanggan mencari namamu, berita itu langsung muncul.",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s07.mp3",
+    "duration": 6.1,
+    "text": "Caranya mudah. Tulis apa yang baru, siapa kamu, dan kenapa penting.",
+    "phrases": [
+      {
+        "text": "Caranya mudah. Tulis apa yang baru, siapa kamu, dan kenapa penting.",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s08.mp3",
+    "duration": 4.1,
+    "text": "Yuk, coba fri-times dan bawa ceritamu ke media!",
+    "phrases": [
+      {
+        "text": "Yuk, coba fri-times dan bawa ceritamu ke media!",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "+8%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s09.mp3",
+    "duration": 3.312,
+    "text": "Repost biar teman pemilik usahamu juga tahu!",
+    "phrases": [
+      {
+        "text": "Repost biar teman pemilik usahamu juga tahu!",
+        "pitch": "+0Hz",
+        "rate": "+0%",
+        "volume": "+8%",
+        "pause": 0.0
+      }
+    ]
+  }
+]

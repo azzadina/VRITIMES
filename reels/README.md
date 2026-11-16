@@ -45,4 +45,12 @@ node templates/reel_preview.js reels/{CC}/{slug} /tmp/prev sheet          # 1 fr
 node templates/reel_preview.js reels/{CC}/{slug} /tmp/prev video          # silent+SFX preview mp4
 node templates/art_gallery.js reels/_engine/art_catalog.png               # refresh catalogue after adding art
 ```
-Final render with voice-over (needs internet for edge-tts): inside the package `npm install && npm run all`.
+Voice-over + final video (works in this cloud session too):
+```bash
+cp reels/_engine/tts.py reels/{CC}/{slug}/scripts/tts.py          # proxy-aware edge-tts script
+(cd reels/{CC}/{slug} && SSL_CERT_FILE=/root/.ccr/ca-bundle.crt python3 scripts/tts.py)   # -> public/vo/
+node templates/reel_preview.js reels/{CC}/{slug} /tmp/prev video   # mixes VO + SFX; prints the 4-second beat check
+ffmpeg -i /tmp/prev/preview.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k reels/{CC}/{slug}/preview/final_with_vo.mp4
+```
+Always re-check beats **after** VO is generated: real VO is usually longer than the estimate, so add beats until the check shows ✓.
+Or with Remotion on your own machine: inside the package `npm install && npm run all`.

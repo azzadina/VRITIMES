@@ -27,6 +27,11 @@ fs.mkdirSync(outDir, { recursive: true });
     return { durs: window.DURS, cues: VRScene.sfxCues(reel, window.DURS) };
   }, { reel, timing, fonts, logos: { logoWhite: logo('stack_white.png'), logoColor: logo('stack_color.png'), besideWhite: logo('beside_white.png') } });
   const total = info.durs.reduce((a, b) => a + b, 0);
+  // beat QA: no illustration may stay on screen longer than beatSec (default 4 s)
+  const beatRep = await page.evaluate(() => REEL.scenes.map((sc, i) => { const p = VRScene.beatPlan ? VRScene.beatPlan(REEL, sc, DURS[i]) : { n: 1, seg: DURS[i], list: [sc.illus || {}] }; return { i: i + 1, n: p.n, seg: p.seg, none: p.list.slice(0, p.n).some((x) => !x || !x.type || x.type === 'none') }; }));
+  const lim = Number(reel.beatSec) > 0 ? Number(reel.beatSec) : 4;
+  const bad = beatRep.filter((b) => b.seg > lim + 0.01 || b.none);
+  console.log('beat check: max hold ' + Math.max(...beatRep.map((b) => b.seg)).toFixed(2) + 's' + (bad.length ? '  ✗ FIX scenes ' + bad.map((b) => b.i + (b.none ? '(no illus)' : '(' + b.seg.toFixed(1) + 's)')).join(', ') : '  ✓ all ≤ ' + lim + 's'));
   const times = mode === 'sheet' ? Array.from({ length: Math.ceil(total) }, (_, i) => i + 0.9) : Array.from({ length: Math.ceil(total * fps) }, (_, i) => i / fps);
   const opts = { fHead: 'VRPoppins', fBody: 'VRInter', fHand: 'VRCaveat', lang: reel.lang, cc: reel.country, countryName: reel.countryName, roleTitle: reel.roleTitle || 'PR Specialist' };
   for (let i = 0; i < times.length; i++) {

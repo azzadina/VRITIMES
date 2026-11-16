@@ -33,7 +33,15 @@
         "berita"
       ],
       "onscreen": "",
-      "vo": "Punya UMKM? Kamu juga bisa masuk berita!"
+      "vo": "Punya UMKM? Kamu juga bisa masuk berita!",
+      "beats": [
+        {
+          "type": "art",
+          "art": "newspaper",
+          "headline": "UMKM kamu masuk berita",
+          "badge": "TERBIT!"
+        }
+      ]
     },
     {
       "gesture": "explain",
@@ -48,6 +56,11 @@
       "onscreen": "Kontribusi UMKM untuk PDB",
       "vo": "UMKM menyumbang lebih dari enam puluh persen ekonomi Indonesia. Tapi suaranya masih jarang terdengar.",
       "beats": [
+        {
+          "type": "art",
+          "art": "growth",
+          "label": "Penggerak ekonomi Indonesia"
+        },
         {
           "type": "art",
           "art": "quietvoice",
@@ -129,9 +142,8 @@
       "gesture": "smile",
       "illus": {
         "type": "art",
-        "art": "newspaper",
-        "headline": "Cerita usahamu layak dibaca",
-        "badge": "TERBIT!"
+        "art": "share",
+        "label": "Dibaca banyak orang"
       },
       "keywords": [
         "layak dibaca"
@@ -235,14 +247,7 @@
         "Repost"
       ],
       "onscreen": "",
-      "vo": "Repost biar teman pemilik usahamu juga tahu!",
-      "beats": [
-        {
-          "type": "art",
-          "art": "share",
-          "label": "Repost biar temanmu tahu"
-        }
-      ]
+      "vo": "Repost biar teman pemilik usahamu juga tahu!"
     }
   ],
   "set": "studio",

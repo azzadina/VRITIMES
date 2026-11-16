@@ -114,6 +114,8 @@ def chunks(text, scene_idx, n_scenes):
 
 async def say(text, pitch, rate, path, volume='+0%'):
     kw = dict(rate=rate, pitch=pitch, volume=volume)
+    _px = os.environ.get('HTTPS_PROXY') or os.environ.get('https_proxy')
+    if _px: kw['proxy'] = _px  # corporate / sandbox proxies
     try:
         comm = edge_tts.Communicate(text, VOICE, boundary='WordBoundary', **kw)
     except TypeError:
