@@ -307,3 +307,11 @@ unverifiable for **all** countries. Everything else → make the best decision, 
 For the next batch, read previous `output/` calendars first, avoid repeating topics/hooks from
 the last 8 weeks, refresh pricing, and continue dates from where the last batch ended. Put each
 batch in `output/batch_{YYYY-MM-DD}/` if a previous batch exists.
+
+## 13. Reels (Remotion packages from the SNS Dashboard) — standing rules
+- Store every package in `reels/{CC}/{slug}/` and follow `reels/README.md`.
+- **Motion: a new illustration at least every 4 seconds** (`"beatSec": 4`, extra illustrations in `scene.beats[]`,
+  split evenly by the engine). No scene without an illustration.
+- **Illustrations: 2D, decent detail, easy to read** — use/extend the art library in `reels/_engine/art.js`
+  (catalogue: `reels/_engine/art_catalog.png`); copy `reels/_engine/scene.js` into the package's `src/`.
+- Numbers and sources must match `research/`; QA with `templates/reel_preview.js` (sheet + video) before committing.

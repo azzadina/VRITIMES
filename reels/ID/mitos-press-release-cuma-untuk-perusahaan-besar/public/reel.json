@@ -1,0 +1,264 @@
+{
+  "by": "u_mwEUyVqfnU6TzZBkzLwkyQ",
+  "caption": "Punya UMKM? Kamu juga bisa masuk berita! 📰\n\nBanyak yang mengira press release cuma untuk perusahaan besar. Itu mitos.\nUMKM menyumbang lebih dari 60% PDB Indonesia, ceritanya layak didengar.\nCukup tulis apa yang baru, siapa kamu, dan kenapa penting.\nBerita tentang usahamu juga membantu membangun kepercayaan pelanggan.\n\nYuk, mulai bawa ceritamu ke media bersama VRITIMES di vritimes.com/id\n\n#VRITIMES #UMKM #PressRelease #PromosiBisnis #BisnisLokal",
+  "character": "male",
+  "country": "ID",
+  "countryName": "Indonesia",
+  "createdAt": "2026-11-16T06:13:31.234Z",
+  "format": "myth vs fact",
+  "lang": "id",
+  "length": 60,
+  "plan_id": "",
+  "rate": "+0%",
+  "scenes": [
+    {
+      "badge": {
+        "color": "lime",
+        "text": "FAKTA!",
+        "type": "pill"
+      },
+      "card": {
+        "tag": "UNTUK PEMILIK UMKM",
+        "tagColor": "blue",
+        "text": "Tahu gak sih, usahamu bisa *masuk berita*?"
+      },
+      "gesture": "point",
+      "illus": {
+        "type": "art",
+        "art": "shop",
+        "label": "UMKM KAMU"
+      },
+      "keywords": [
+        "UMKM",
+        "berita"
+      ],
+      "onscreen": "",
+      "vo": "Punya UMKM? Kamu juga bisa masuk berita!"
+    },
+    {
+      "gesture": "explain",
+      "illus": {
+        "big": ">60%",
+        "label": "kontribusi UMKM terhadap PDB Indonesia",
+        "type": "stat"
+      },
+      "keywords": [
+        "enam puluh persen"
+      ],
+      "onscreen": "Kontribusi UMKM untuk PDB",
+      "vo": "UMKM menyumbang lebih dari enam puluh persen ekonomi Indonesia. Tapi suaranya masih jarang terdengar.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "quietvoice",
+          "label": "UMKM"
+        }
+      ]
+    },
+    {
+      "badge": {
+        "color": "lime",
+        "text": "MITOS VS FAKTA",
+        "type": "pill"
+      },
+      "gesture": "shrug",
+      "illus": {
+        "left": {
+          "h": "MITOS",
+          "items": [
+            "Cuma untuk perusahaan besar",
+            "Harus punya tim PR"
+          ]
+        },
+        "right": {
+          "h": "FAKTA",
+          "items": [
+            "Usaha kecil juga bisa",
+            "Cukup cerita yang jelas"
+          ]
+        },
+        "type": "compare"
+      },
+      "keywords": [
+        "mitos"
+      ],
+      "onscreen": "",
+      "vo": "Banyak yang bilang, press release cuma untuk perusahaan besar. Itu mitos!",
+      "beats": [
+        {
+          "type": "art",
+          "art": "mythbust",
+          "myth": "Press release cuma untuk perusahaan besar",
+          "fact": "Usaha kecil juga bisa masuk berita"
+        }
+      ]
+    },
+    {
+      "gesture": "point",
+      "illus": {
+        "count": "214",
+        "countLabel": "baru",
+        "items": [
+          "Kopi lokal tembus pasar baru",
+          "Brand fesyen UMKM rilis koleksi",
+          "Startup kuliner buka cabang",
+          "Harga bahan baku naik",
+          "Pengumuman event bisnis",
+          "UMKM jamu go digital"
+        ],
+        "pick": 5,
+        "title": "Inbox Redaksi",
+        "type": "inbox"
+      },
+      "keywords": [
+        "jurnalis",
+        "cerita baru"
+      ],
+      "onscreen": "",
+      "vo": "Faktanya, jurnalis setiap hari mencari cerita baru dari usaha lokal.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "newsroom",
+          "headline": "UMKM lokal tembus pasar baru",
+          "count": "214 baru"
+        }
+      ]
+    },
+    {
+      "gesture": "smile",
+      "illus": {
+        "type": "art",
+        "art": "newspaper",
+        "headline": "Cerita usahamu layak dibaca",
+        "badge": "TERBIT!"
+      },
+      "keywords": [
+        "layak dibaca"
+      ],
+      "onscreen": "",
+      "shot": "close",
+      "vo": "Cerita usahamu itu layak dibaca banyak orang."
+    },
+    {
+      "gesture": "explain",
+      "illus": {
+        "items": [
+          "Usahamu rilis produk baru",
+          "Profil usahamu di media",
+          "Ulasan pelanggan",
+          "Media sosial usahamu"
+        ],
+        "pick": 1,
+        "query": "nama usahamu",
+        "type": "search"
+      },
+      "keywords": [
+        "mencari namamu",
+        "muncul"
+      ],
+      "onscreen": "",
+      "vo": "Dan saat calon pelanggan mencari namamu, berita itu langsung muncul.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "phonesearch",
+          "query": "nama usahamu",
+          "result": "Berita: usahamu masuk media"
+        }
+      ]
+    },
+    {
+      "fingers": 3,
+      "gesture": "count",
+      "illus": {
+        "items": [
+          "Apa yang baru",
+          "Siapa kamu",
+          "Kenapa penting"
+        ],
+        "title": "Cukup tiga hal ini",
+        "type": "list"
+      },
+      "keywords": [
+        "apa yang baru",
+        "kenapa penting"
+      ],
+      "onscreen": "Isi press release",
+      "vo": "Caranya mudah. Tulis apa yang baru, siapa kamu, dan kenapa penting.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "docwrite",
+          "items": [
+            "Apa yang baru",
+            "Siapa kamu",
+            "Kenapa penting"
+          ],
+          "note": "3 hal"
+        }
+      ]
+    },
+    {
+      "card": {
+        "tag": "COBA SEKARANG",
+        "tagColor": "navy",
+        "text": "Raise It With *Press Release*"
+      },
+      "gesture": "point",
+      "illus": {
+        "type": "cta",
+        "url": "vritimes.com/id"
+      },
+      "keywords": [
+        "VRITIMES",
+        "media"
+      ],
+      "onscreen": "",
+      "vo": "Yuk, coba fri-times dan bawa ceritamu ke media!",
+      "beats": [
+        {
+          "type": "art",
+          "art": "rocket",
+          "label": ""
+        }
+      ]
+    },
+    {
+      "gesture": "smile",
+      "illus": {
+        "tag": "BANTU SEBARKAN",
+        "text": "*Repost* biar temanmu tahu",
+        "type": "repost"
+      },
+      "keywords": [
+        "Repost"
+      ],
+      "onscreen": "",
+      "vo": "Repost biar teman pemilik usahamu juga tahu!",
+      "beats": [
+        {
+          "type": "art",
+          "art": "share",
+          "label": "Repost biar temanmu tahu"
+        }
+      ]
+    }
+  ],
+  "set": "studio",
+  "slug": "mitos-press-release-cuma-untuk-perusahaan-besar",
+  "sources": [
+    "Kemenko Perekonomian RI — Pemerintah Dorong UMKM Naik Kelas, Tingkatkan Kontribusi terhadap Ekspor Indonesia (2025) — https://ekon.go.id/publikasi/detail/6152/pemerintah-dorong-umkm-naik-kelas-tingkatkan-kontribusi-terhadap-ekspor-indonesia"
+  ],
+  "status": "draft",
+  "style": "stage",
+  "title": "Mitos: Press Release Cuma untuk Perusahaan Besar",
+  "topic": "untuk kamu yang punya bisnis UMKM tahu gak sih",
+  "updatedAt": "2026-11-16T06:13:31.234Z",
+  "voice": "de-DE-FlorianMultilingualNeural",
+  "pron": "VRITIMES = V R I Times\nvritimes.com = V R I Times dot kom\ndashboard = dasbor\nPR = pi ar\nUMKM = u em ka em\nPDF = pe de ef\n5W1H = lima W satu H\nSEO = es i o\nCEO = si i o\nKPI = ka pe i\ndll = dan lain-lain\nyg = yang\n& = dan",
+  "sfx": true,
+  "sfxVolume": 1,
+  "roleTitle": "PR Specialist",
+  "beatSec": 4
+}

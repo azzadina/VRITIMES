@@ -1,0 +1,22 @@
+{
+  "name": "vritimes-reel-id-mitos-press-release-cuma-untuk-perusahaan-besar",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "tts": "python3 scripts/tts.py",
+    "studio": "remotion studio",
+    "render": "remotion render VritimesReel out/id-mitos-press-release-cuma-untuk-perusahaan-besar.mp4 --codec=h264 --crf=20",
+    "master": "ffmpeg -y -i out/id-mitos-press-release-cuma-untuk-perusahaan-besar.mp4 -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=11 -c:a aac -b:a 192k out/id-mitos-press-release-cuma-untuk-perusahaan-besar_final.mp4",
+    "all": "python3 scripts/tts.py && remotion render VritimesReel out/id-mitos-press-release-cuma-untuk-perusahaan-besar.mp4 --codec=h264 --crf=20 && npm run master"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "remotion": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/react": "^18.3.0"
+  }
+}
