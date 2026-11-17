@@ -1,20 +1,20 @@
 [
   {
     "file": "s01.mp3",
-    "duration": 4.445,
+    "duration": 3.703,
     "text": "Punya u em ka em? Kamu juga bisa masuk berita!",
     "phrases": [
       {
         "text": "Punya u em ka em?",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "+4Hz",
+        "rate": "+4%",
         "volume": "+5%",
         "pause": 0.32
       },
       {
         "text": "Kamu juga bisa masuk berita!",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "+3Hz",
+        "rate": "+4%",
         "volume": "+8%",
         "pause": 0.0
       }
@@ -22,20 +22,20 @@
   },
   {
     "file": "s02.mp3",
-    "duration": 7.852,
+    "duration": 6.248,
     "text": "u em ka em menyumbang lebih dari enam puluh persen ekonomi Indonesia. Tapi suaranya masih jarang terdengar.",
     "phrases": [
       {
         "text": "u em ka em menyumbang lebih dari enam puluh persen ekonomi Indonesia.",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "+2Hz",
+        "rate": "+2%",
         "volume": "+0%",
         "pause": 0.24
       },
       {
         "text": "Tapi suaranya masih jarang terdengar.",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "-2Hz",
+        "rate": "+4%",
         "volume": "-3%",
         "pause": 0.0
       }
@@ -43,13 +43,13 @@
   },
   {
     "file": "s03.mp3",
-    "duration": 5.95,
+    "duration": 5.181,
     "text": "Banyak yang bilang, press release cuma untuk perusahaan besar. Itu mitos!",
     "phrases": [
       {
         "text": "Banyak yang bilang, press release cuma untuk perusahaan besar. Itu mitos!",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "+3Hz",
+        "rate": "+4%",
         "volume": "+8%",
         "pause": 0.0
       }
@@ -57,13 +57,13 @@
   },
   {
     "file": "s04.mp3",
-    "duration": 5.5,
+    "duration": 4.321,
     "text": "Faktanya, jurnalis setiap hari mencari cerita baru dari usaha lokal.",
     "phrases": [
       {
         "text": "Faktanya, jurnalis setiap hari mencari cerita baru dari usaha lokal.",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "-2Hz",
+        "rate": "+2%",
         "volume": "-3%",
         "pause": 0.0
       }
@@ -71,13 +71,13 @@
   },
   {
     "file": "s05.mp3",
-    "duration": 3.412,
+    "duration": 2.703,
     "text": "Cerita usahamu itu layak dibaca banyak orang.",
     "phrases": [
       {
         "text": "Cerita usahamu itu layak dibaca banyak orang.",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "-2Hz",
+        "rate": "+2%",
         "volume": "-3%",
         "pause": 0.0
       }
@@ -85,13 +85,13 @@
   },
   {
     "file": "s06.mp3",
-    "duration": 4.737,
+    "duration": 3.892,
     "text": "Dan saat calon pelanggan mencari namamu, berita itu langsung muncul.",
     "phrases": [
       {
         "text": "Dan saat calon pelanggan mencari namamu, berita itu langsung muncul.",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "-2Hz",
+        "rate": "+2%",
         "volume": "-3%",
         "pause": 0.0
       }
@@ -99,13 +99,13 @@
   },
   {
     "file": "s07.mp3",
-    "duration": 6.1,
+    "duration": 5.68,
     "text": "Caranya mudah. Tulis apa yang baru, siapa kamu, dan kenapa penting.",
     "phrases": [
       {
         "text": "Caranya mudah. Tulis apa yang baru, siapa kamu, dan kenapa penting.",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "-2Hz",
+        "rate": "+2%",
         "volume": "-3%",
         "pause": 0.0
       }
@@ -113,13 +113,13 @@
   },
   {
     "file": "s08.mp3",
-    "duration": 4.1,
-    "text": "Yuk, coba fri-times dan bawa ceritamu ke media!",
+    "duration": 3.224,
+    "text": "Yuk, coba Fritaims dan bawa ceritamu ke media!",
     "phrases": [
       {
-        "text": "Yuk, coba fri-times dan bawa ceritamu ke media!",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "text": "Yuk, coba Fritaims dan bawa ceritamu ke media!",
+        "pitch": "+3Hz",
+        "rate": "+4%",
         "volume": "+8%",
         "pause": 0.0
       }
@@ -127,13 +127,13 @@
   },
   {
     "file": "s09.mp3",
-    "duration": 3.312,
+    "duration": 2.672,
     "text": "Repost biar teman pemilik usahamu juga tahu!",
     "phrases": [
       {
         "text": "Repost biar teman pemilik usahamu juga tahu!",
-        "pitch": "+0Hz",
-        "rate": "+0%",
+        "pitch": "+3Hz",
+        "rate": "+4%",
         "volume": "+8%",
         "pause": 0.0
       }

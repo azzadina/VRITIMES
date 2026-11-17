@@ -227,7 +227,7 @@
         "media"
       ],
       "onscreen": "",
-      "vo": "Yuk, coba fri-times dan bawa ceritamu ke media!",
+      "vo": "Yuk, coba VRITIMES dan bawa ceritamu ke media!",
       "beats": [
         {
           "type": "art",
@@ -260,8 +260,8 @@
   "title": "Mitos: Press Release Cuma untuk Perusahaan Besar",
   "topic": "untuk kamu yang punya bisnis UMKM tahu gak sih",
   "updatedAt": "2026-11-16T06:13:31.234Z",
-  "voice": "de-DE-FlorianMultilingualNeural",
-  "pron": "VRITIMES = V R I Times\nvritimes.com = V R I Times dot kom\ndashboard = dasbor\nPR = pi ar\nUMKM = u em ka em\nPDF = pe de ef\n5W1H = lima W satu H\nSEO = es i o\nCEO = si i o\nKPI = ka pe i\ndll = dan lain-lain\nyg = yang\n& = dan",
+  "voice": "id-ID-ArdiNeural",
+  "pron": "VRITIMES = Fritaims\nvritimes.com = Fritaims dot kom\ndashboard = dasbor\nPR = pi ar\nUMKM = u em ka em\nPDF = pe de ef\n5W1H = lima W satu H\nSEO = es i o\nCEO = si i o\nKPI = ka pe i\ndll = dan lain-lain\nyg = yang\n& = dan",
   "sfx": true,
   "sfxVolume": 1,
   "roleTitle": "PR Specialist",

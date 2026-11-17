@@ -314,4 +314,5 @@ batch in `output/batch_{YYYY-MM-DD}/` if a previous batch exists.
   split evenly by the engine). No scene without an illustration.
 - **Illustrations: 2D, decent detail, easy to read** — use/extend the art library in `reels/_engine/art.js`
   (catalogue: `reels/_engine/art_catalog.png`); copy `reels/_engine/scene.js` into the package's `src/`.
+- **Voice-over for ID reels: Bahasa Indonesia, suara Ardi (`id-ID-ArdiNeural`)**, never the German multilingual voice. Brand pronunciation via `pron`: `VRITIMES = Fritaims`.
 - Numbers and sources must match `research/`; QA with `templates/reel_preview.js` (sheet + video) before committing.

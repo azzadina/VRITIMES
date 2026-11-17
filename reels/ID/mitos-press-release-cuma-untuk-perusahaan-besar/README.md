@@ -23,5 +23,5 @@ Scene illustration types: title, stat, list, steps, compare, chart, chat, quote,
 - `src/scene.js` diganti engine v2 (`reels/_engine/scene.js`): pustaka ilustrasi 2D + ilustrasi baru maksimal tiap 4 detik.
 - `public/reel.json`: `beatSec: 4`, `beats` di setiap scene > 4 detik, scene 1 & 5 kini punya ilustrasi (toko UMKM, koran).
 - Angka disesuaikan riset: UMKM "lebih dari 60%" PDB (Kemenko Perekonomian, 2025) — sebelumnya 61% (data 2021).
-- Video final dengan voice-over + SFX (loudness -14 LUFS): `preview/final_with_vo.mp4` (49,5 detik). Voice-over: `public/vo/`.
+- Video final dengan voice-over Bahasa Indonesia (suara Ardi, `id-ID-ArdiNeural`) + SFX, loudness -14 LUFS: `preview/final_with_vo.mp4`. Voice-over: `public/vo/`. Pelafalan VRITIMES diatur di `pron` (`VRITIMES = Fritaims`).
 - `scripts/tts.py` kini memakai proxy dari `HTTPS_PROXY` bila ada.

@@ -12,7 +12,10 @@ Packages downloaded from the VRITIMES SNS Dashboard live here, one folder per re
    one clear idea per illustration, large shapes, at most a few words of text inside.
 4. **Numbers must match `research/`** (e.g. UMKM share of GDP = "lebih dari 60%", Kemenko Perekonomian 2025) and the
    caption lists the source with URL.
-5. Keep the dashboard's voice, timing, subtitles and SFX; only `src/scene.js` (engine) and `public/reel.json` change.
+5. **Voice-over: native voice of the market.** ID → `id-ID-ArdiNeural` (Ardi, Bahasa Indonesia). Set `"voice"` in
+   `reel.json` before running TTS; write VO text with the brand name as `VRITIMES` and let `pron` handle it
+   (`VRITIMES = Fritaims`, `vritimes.com = Fritaims dot kom`). Other markets: ask once, then record the choice here.
+6. Keep the dashboard's timing, subtitles and SFX; only `src/scene.js`, `scripts/tts.py` and `public/reel.json` change.
 
 ## Engine
 `reels/_engine/scene.js` = dashboard renderer v1 (`reels/_original/scene_v1_dashboard.js`) + 2D art library

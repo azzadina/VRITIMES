@@ -886,7 +886,7 @@ const BEAT_DEF = 4;
 function beatPlan(reel, scene, dur) {
   const sec = Number(reel && reel.beatSec) > 0 ? Number(reel.beatSec) : BEAT_DEF;
   const list = [scene.illus || {type: 'none'}].concat(scene.beats || []);
-  const n = Math.max(1, Math.min(list.length, Math.ceil(dur / sec - 0.05)));
+  const n = Math.max(1, Math.min(list.length, Math.ceil(dur / sec - 0.001)));
   return {list, n, seg: dur / n};
 }
 function beatOf(reel, scene, lt, dur) {
