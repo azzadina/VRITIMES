@@ -4,13 +4,13 @@ const { chromium } = require('playwright'); const fs = require('fs'), path = req
 const ROOT = path.join(__dirname, '..'); const out = process.argv[2]; const lt = Number(process.argv[3] || 2.5);
 const FD = path.join(ROOT, 'reels/_engine/fonts');
 (async () => {
-  const b = await chromium.launch(); const p = await b.newPage({ viewport: { width: 1860, height: 2100 } });
-  await p.setContent('<body style="margin:0"><canvas id="c" width="1860" height="2100"></canvas></body>');
+  const b = await chromium.launch(); const p = await b.newPage({ viewport: { width: 1860, height: 2540 } });
+  await p.setContent('<body style="margin:0"><canvas id="c" width="1860" height="2540"></canvas></body>');
   await p.addScriptTag({ content: fs.readFileSync(path.join(ROOT, 'reels/_engine/scene.js'), 'utf8') });
   const fonts = fs.readdirSync(FD).map((f) => { const m = f.match(/^(\w+)-(\d+)/); return [m[1], m[2], 'data:font/woff;base64,' + fs.readFileSync(path.join(FD, f)).toString('base64')]; });
   const data = await p.evaluate(async ({ fonts, lt }) => {
     await Promise.all(fonts.map(([f, w, u]) => new FontFace(f, `url(${u})`, { weight: w }).load().then((x) => document.fonts.add(x))));
-    const ctx = document.getElementById('c').getContext('2d'); ctx.fillStyle = '#C9D5EA'; ctx.fillRect(0, 0, 1860, 2100);
+    const ctx = document.getElementById('c').getContext('2d'); ctx.fillStyle = '#C9D5EA'; ctx.fillRect(0, 0, 1860, 2540);
     const o = { fHead: 'VRPoppins', fBody: 'VRInter', fHand: 'VRCaveat' };
     VRScene.ART_NAMES.forEach((n, i) => {
       const x = (i % 3) * 620 + 10, y = Math.floor(i / 3) * 420 + 10;

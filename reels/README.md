@@ -1,6 +1,6 @@
 # VRITIMES Reels (Remotion packages)
 
-Packages downloaded from the VRITIMES SNS Dashboard live here, one folder per reel:
+Packages downloaded from the VRITIMES SNS Dashboard live here (art data fields such as `badge`/`card` may be plain strings — the engine only treats objects as scene badges/cards), one folder per reel:
 `reels/{CC}/{slug}/` (Remotion project: `src/scene.js`, `public/reel.json`, fonts, logos, SFX).
 
 ## House rules (apply to every reel package — no need to ask again)
@@ -36,6 +36,11 @@ It is a drop-in replacement: the same file also works as the dashboard preview r
 | `rocket` | rocket launching from a laptop | `label` |
 | `share` | three phones passing a post along | `label` |
 | `growth` | bar chart growing, coins | `values[]`, `label` |
+| `mailpile` | alarm clock 08.00 + growing pile of emails with counter | `count`, `countLabel`, `time` |
+| `stopwatch` | stopwatch + email card, "open or skip" decision | `label`, `open`, `skip` |
+| `trashmail` | weak subject line flies into the bin, strong one gets a star | `bad`, `good` |
+| `yawn` | bored journalist yawning at a long promo-heavy release | `words[]`, `label` |
+| `target` | arrow hits the bullseye (write for the right reader) | `label` |
 
 Example scene: `{"vo": "...", "illus": {"type": "stat", "big": ">60%"}, "beats": [{"type": "art", "art": "quietvoice"}]}`
 

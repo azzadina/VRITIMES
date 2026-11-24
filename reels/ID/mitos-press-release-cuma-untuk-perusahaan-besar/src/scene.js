@@ -894,7 +894,8 @@ function beatOf(reel, scene, lt, dur) {
   const b = Math.min(Math.floor(Math.max(lt, 0) / seg), n - 1);
   if (b === 0) return {scene, ilt: lt, b: 0};
   const ill = list[b];
-  return {scene: Object.assign({}, scene, {illus: ill, card: ill.card || null, badge: ill.badge || null, section: null, onscreen: ill.onscreen || ''}), ilt: lt - b * seg, b};
+  const obj = (v) => (v && typeof v === 'object' ? v : null); // art data may use 'badge'/'card' as plain strings
+  return {scene: Object.assign({}, scene, {illus: ill, card: obj(ill.card), badge: obj(ill.badge), section: null, onscreen: ill.onscreen || ''}), ilt: lt - b * seg, b};
 }
 function drawStageScene(ctx, reel, idx, lt0, dur, assets, o) {
   const sceneFull = (reel.scenes || [])[idx] || {};
@@ -1277,6 +1278,99 @@ ART.growth = (ctx, lt, d, o) => {
   [0, 1, 2].forEach((k) => { const p = pop(lt, 1.5 + k * 0.15); if (p > 0) { ctx.save(); ctx.translate(800, 470 - k * 34); ctx.scale(p, p); ctx.beginPath(); ctx.ellipse(0, 0, 54, 20, 0, 0, Math.PI * 2); shape(ctx, C.lime, 5); ctx.restore(); } });
   if (d.label) textC(ctx, o, d.label, 450, 70, 34, C.navy, 800, 'head', 700);
 };
+
+// 12. alarm clock at 08:00 + mail pile growing with a counter
+ART.mailpile = (ctx, lt, d, o) => {
+  const t = lt;
+  circ(ctx, 450, 290, 240 * fade(lt, 0, 0.5), '#DCEBFF', 0);
+  // alarm clock
+  const cp = pop(lt, 0.05); ctx.save(); ctx.translate(230, 250 + Math.sin(t * 30) * (lt < 1.2 ? 3 : 0)); ctx.scale(cp, cp);
+  circ(ctx, -60, -96, 26, C.lime, 5); circ(ctx, 60, -96, 26, C.lime, 5);
+  circ(ctx, 0, 0, 118, '#FFFFFF', 7); circ(ctx, 0, 0, 96, C.pale, 0);
+  for (let i = 0; i < 12; i++) { const a = i * Math.PI / 6; ctx.beginPath(); ctx.moveTo(Math.cos(a) * 80, Math.sin(a) * 80); ctx.lineTo(Math.cos(a) * 92, Math.sin(a) * 92); stroke(ctx, i % 3 ? 4 : 7); }
+  ctx.beginPath(); ctx.moveTo(0, 0); ctx.lineTo(0, -66); stroke(ctx, 9, C.navy);   // 12 -> minute hand
+  ctx.beginPath(); ctx.moveTo(0, 0); ctx.lineTo(Math.cos(Math.PI * 7 / 6 - Math.PI / 2 + Math.PI) * -0.0 - 40, 24); stroke(ctx, 11, C.blue); // ~8 o'clock hour hand
+  circ(ctx, 0, 0, 12, C.navy, 0);
+  rrs(ctx, -70, 128, 140, 50, 25, C.navy, 0); textC(ctx, o, d.time || '08.00', 0, 164, 32, C.lime, 800);
+  ctx.restore();
+  // pile of envelopes
+  const n = Math.min(14, Math.floor(clamp((lt - 0.3) * 7, 0, 14)));
+  for (let i = 0; i < n; i++) {
+    const x = 560 + ((i * 53) % 210) - 40, y = 480 - Math.floor(i / 4) * 52 - (i % 2) * 10, r = ((i * 37) % 9 - 4) * 0.05;
+    ctx.save(); ctx.translate(x, y); ctx.rotate(r); rrs(ctx, -70, -40, 140, 80, 8, i % 3 === 0 ? C.lime : '#FFFFFF', 4);
+    ctx.beginPath(); ctx.moveTo(-70, -40); ctx.lineTo(0, 6); ctx.lineTo(70, -40); stroke(ctx, 4); ctx.restore();
+  }
+  const ph = (t * 1.6) % 1; ctx.save(); ctx.globalAlpha = 1 - ph; ctx.translate(640, lerp(40, 230, easeOut(ph))); rrs(ctx, -60, -34, 120, 68, 8, '#FFFFFF', 4); ctx.restore();
+  const cnt = d.count ? parseInt(String(d.count).replace(/\D/g, ''), 10) : 0;
+  if (cnt) { const v = Math.round(cnt * easeOut(clamp((lt - 0.3) / 1.6, 0, 1))); const bp = pop(lt, 0.3); ctx.save(); ctx.translate(760, 110); ctx.scale(bp, bp); rrs(ctx, -96, -40, 192, 80, 40, C.navy, 5); textC(ctx, o, v + ' ' + (d.countLabel || 'baru'), 0, 14, 36, C.lime, 800); ctx.restore(); }
+};
+// 13. stopwatch: seconds to decide open or skip
+ART.stopwatch = (ctx, lt, d, o) => {
+  const t = lt; const p = pop(lt, 0, 0.5);
+  ctx.save(); ctx.translate(300, 300); ctx.scale(p, p);
+  rrs(ctx, -26, -190, 52, 40, 8, C.navy, 5); ctx.beginPath(); ctx.moveTo(90, -130); ctx.lineTo(118, -158); stroke(ctx, 14, C.navy);
+  circ(ctx, 0, 0, 160, '#FFFFFF', 8);
+  const sweep = clamp((lt - 0.2) / 2.4, 0, 1);
+  ctx.beginPath(); ctx.moveTo(0, 0); ctx.arc(0, 0, 138, -Math.PI / 2, -Math.PI / 2 + sweep * Math.PI * 2 * 0.85); ctx.closePath(); ctx.fillStyle = 'rgba(0,88,248,.18)'; ctx.fill();
+  for (let i = 0; i < 12; i++) { const a = i * Math.PI / 6; ctx.beginPath(); ctx.moveTo(Math.sin(a) * 124, -Math.cos(a) * 124); ctx.lineTo(Math.sin(a) * 140, -Math.cos(a) * 140); stroke(ctx, i % 3 ? 4 : 8); }
+  const ang = sweep * Math.PI * 2 * 0.85; ctx.beginPath(); ctx.moveTo(0, 0); ctx.lineTo(Math.sin(ang) * 118, -Math.cos(ang) * 118); stroke(ctx, 9, C.blue); circ(ctx, 0, 0, 14, C.navy, 0);
+  ctx.restore();
+  // email card with two buttons
+  const ep = pop(lt, 0.35); ctx.save(); ctx.translate(650, 290); ctx.scale(ep, ep); ctx.rotate(0.03);
+  rrs(ctx, -190, -170, 380, 340, 24, '#FFFFFF', 6); fillRR(ctx, -170, -150, 120, 22, 11, C.blue); fillRR(ctx, -170, -112, 300, 16, 8, '#D6E3FB'); fillRR(ctx, -170, -84, 250, 16, 8, '#D6E3FB'); fillRR(ctx, -170, -56, 280, 16, 8, '#D6E3FB');
+  const choose = clamp((lt - 1.6) / 0.3, 0, 1);
+  rrs(ctx, -170, 40, 150, 84, 20, choose > 0 ? '#E3E9F5' : C.pale, 4); textC(ctx, o, d.skip || 'LEWATI', -95, 94, 30, '#6B7280', 800);
+  ctx.save(); ctx.translate(95, 82); ctx.scale(1 + choose * 0.1, 1 + choose * 0.1); rrs(ctx, -75, -42, 150, 84, 20, choose > 0 ? C.lime : C.pale, 4); textC(ctx, o, d.open || 'BUKA', 0, 12, 30, C.navy, 800); ctx.restore();
+  if (choose >= 1) { ctx.save(); ctx.translate(150, 130); ctx.rotate(-0.3); ctx.beginPath(); ctx.moveTo(0, 0); ctx.lineTo(0, 54); ctx.lineTo(14, 42); ctx.lineTo(24, 64); ctx.lineTo(34, 60); ctx.lineTo(24, 38); ctx.lineTo(42, 36); ctx.closePath(); shape(ctx, '#FFFFFF', 4); ctx.restore(); }
+  ctx.restore();
+  if (d.label) { const lp = fade(lt, 0.6); ctx.save(); ctx.globalAlpha = lp; textC(ctx, o, d.label, 300, 530, 34, C.navy, 800, 'head', 420); ctx.restore(); }
+};
+// 14. weak subject goes to the bin, strong one gets a star
+ART.trashmail = (ctx, lt, d, o) => {
+  const t = lt;
+  // bin
+  ctx.save(); ctx.translate(220, 470); rrs(ctx, -90, -150, 180, 160, 14, '#AEB8CF', 6); rrs(ctx, -104, -176, 208, 34, 10, '#8A94B0', 5); for (let k = -1; k <= 1; k++) { ctx.beginPath(); ctx.moveTo(k * 44, -120); ctx.lineTo(k * 44, -10); stroke(ctx, 5, '#7A849E'); } ctx.restore();
+  const fp = clamp((lt - 0.5) / 0.9, 0, 1); // weak email flies into bin
+  if (fp < 1) { const x = lerp(470, 220, easeOut(fp)), y = lerp(200, 330, fp * fp) - Math.sin(fp * Math.PI) * 120; ctx.save(); ctx.translate(x, y); ctx.rotate(-fp * 2.4); ctx.scale(1 - fp * 0.5, 1 - fp * 0.5);
+    rrs(ctx, -150, -46, 300, 92, 14, '#FFFFFF', 5); textC(ctx, o, d.bad || 'Mohon dimuat segera!!!', 0, 10, 24, '#6B7280', 700, 'body', 270); ctx.restore(); }
+  else { ctx.save(); ctx.translate(220, 280); ctx.globalAlpha = Math.max(0, 1 - (lt - 1.4)); textC(ctx, o, '✕', 0, 0, 60, C.navy, 800); ctx.restore(); }
+  const gp = pop(lt, 1.1);
+  if (gp > 0) { ctx.save(); ctx.translate(610, 300 + Math.sin(t * 2) * 6); ctx.scale(gp, gp); ctx.rotate(-0.03);
+    rrs(ctx, -230, -80, 460, 160, 20, '#FFFFFF', 6); fillRR(ctx, -230, -80, 18, 160, 0, C.lime);
+    ctx.font = font(o, 800, 30, 'head'); ctx.fillStyle = C.navy; wrapText(ctx, d.good || 'Startup lokal layani 10 ribu UMKM', 380, 2).forEach((l, i) => ctx.fillText(l, -190, -18 + i * 38));
+    ctx.restore(); star(ctx, 830, 200, 34 * gp, C.lime, Math.sin(t * 2) * 0.2); sparkle(ctx, 400, 190, 16 * gp, C.cyan); }
+};
+// 15. bored journalist yawning at a long promo-heavy release
+ART.yawn = (ctx, lt, d, o) => {
+  const t = lt;
+  const dp = pop(lt, 0, 0.5); ctx.save(); ctx.translate(600, 300); ctx.scale(dp, dp); ctx.rotate(0.04);
+  rrs(ctx, -170, -260, 340, 520, 14, '#FFFFFF', 6);
+  ctx.save(); rr(ctx, -170, -260, 340, 520, 14); ctx.clip();
+  const off = (t * 60) % 60;
+  for (let i = -1; i < 12; i++) { const y = -240 + i * 60 - off; fillRR(ctx, -140, y, 280, 12, 6, '#D6E3FB'); fillRR(ctx, -140, y + 20, 230, 12, 6, '#D6E3FB'); }
+  const words = (d.words || ['TERBAIK!', 'NO. 1!!!', 'PROMO!', 'DISKON!']);
+  words.forEach((w, i) => { const y = -200 + ((i * 130 - t * 60) % 520 + 520) % 520 - 20; ctx.save(); ctx.translate(-20 + (i % 2) * 60, y); ctx.rotate(-0.15 + (i % 2) * 0.3); rrs(ctx, -90, -26, 180, 52, 10, i % 2 ? C.lime : C.blue, 4); textC(ctx, o, w, 0, 12, 26, i % 2 ? C.navy : '#FFFFFF', 800); ctx.restore(); });
+  ctx.restore(); ctx.restore();
+  const fp = pop(lt, 0.25); if (fp > 0) figure(ctx, 230, 300 + (1 - fp) * 40, 1.05, {t, shirt: C.navy, glasses: true, mouth: 'o', armR: -2.6, skin: SK2, hair: '#3A2A22'});
+  for (let i = 0; i < 3; i++) { const ph = (t * 0.7 + i / 3) % 1; ctx.save(); ctx.globalAlpha = 1 - ph; textC(ctx, o, 'Z', 310 + ph * 80 + i * 10, 180 - ph * 120, 34 + i * 10, C.blue, 800); ctx.restore(); }
+  if (d.label) { const lp = fade(lt, 0.8); ctx.save(); ctx.globalAlpha = lp; rrs(ctx, 90, 500, 300, 50, 25, C.navy, 0); textC(ctx, o, d.label, 240, 534, 26, '#FFFFFF', 800, 'head', 280); ctx.restore(); }
+};
+// 16. target: arrow hits the bullseye (write for the right reader)
+ART.target = (ctx, lt, d, o) => {
+  const t = lt;
+  const tp = pop(lt, 0, 0.5); ctx.save(); ctx.translate(470, 290); ctx.scale(tp, tp);
+  [[200, C.blue], [160, '#FFFFFF'], [120, C.mid], [80, '#FFFFFF'], [42, C.lime]].forEach(([r, c]) => circ(ctx, 0, 0, r, c, 6));
+  ctx.restore();
+  const ap = clamp((lt - 0.6) / 0.5, 0, 1); const ax = lerp(-80, 470, easeOut(ap)), ay = lerp(80, 290, easeOut(ap));
+  const wob = ap >= 1 ? Math.sin((lt - 1.1) * 30) * Math.max(0, 1 - (lt - 1.1) * 2) * 0.08 : 0;
+  ctx.save(); ctx.translate(ax, ay); ctx.rotate(Math.atan2(210, 550) + wob);
+  ctx.beginPath(); ctx.moveTo(-240, 0); ctx.lineTo(-10, 0); stroke(ctx, 10, C.navy);
+  ctx.beginPath(); ctx.moveTo(0, 0); ctx.lineTo(-34, -18); ctx.lineTo(-34, 18); ctx.closePath(); shape(ctx, C.navy, 4);
+  [[-240, C.lime], [-212, C.cyan]].forEach(([x, c]) => { ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x - 30, -26); ctx.lineTo(x + 6, -4); ctx.closePath(); shape(ctx, c, 3); ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x - 30, 26); ctx.lineTo(x + 6, 4); ctx.closePath(); shape(ctx, c, 3); });
+  ctx.restore();
+  if (ap >= 1) { for (let i = 0; i < 8; i++) { const a = i * Math.PI / 4, r = 60 + ((lt - 1.1) * 160) % 60; ctx.save(); ctx.globalAlpha = 0.8; sparkle(ctx, 470 + Math.cos(a) * r, 290 + Math.sin(a) * r, 12, i % 2 ? C.lime : C.cyan); ctx.restore(); }
+    const lp = pop(lt, 1.2); ctx.save(); ctx.translate(720, 120); ctx.rotate(0.1); ctx.scale(lp, lp); rrs(ctx, -130, -40, 260, 80, 40, C.navy, 5); textC(ctx, o, d.label || 'JURNALIS', 0, 14, 34, C.lime, 800, 'head', 230); ctx.restore(); }
+};
 const ART_NAMES = Object.keys(ART);
 /** draw an art illustration inside a box (scaled from the 900x560 stage), with a cream card behind */
 function drawArt(ctx, ill, lt, box, o, card) {
@@ -1356,6 +1450,10 @@ function artCues(ill) {
   else if (A === 'rocket') c.push({t: 0.3, name: 'whoosh', vol: 0.4});
   else if (A === 'phonesearch') c.push({t: 0.6, name: 'type', vol: 0.22});
   else if (A === 'shop' || A === 'trust' || A === 'newspaper') c.push({t: 0.8, name: 'ding', vol: 0.25});
+  else if (A === 'mailpile') [0.4, 0.8, 1.2].forEach((x) => c.push({t: x, name: 'pop', vol: 0.22}));
+  else if (A === 'stopwatch') { c.push({t: 0.3, name: 'click', vol: 0.3}); c.push({t: 1.65, name: 'ding', vol: 0.32}); }
+  else if (A === 'trashmail') { c.push({t: 0.55, name: 'whoosh', vol: 0.3}); c.push({t: 1.15, name: 'ding', vol: 0.3}); }
+  else if (A === 'target') { c.push({t: 0.6, name: 'whoosh', vol: 0.35}); c.push({t: 1.1, name: 'pop', vol: 0.4}); }
   return c;
 }
 function sfxCues(reel, durs) {
@@ -1366,7 +1464,8 @@ function sfxCues(reel, durs) {
     first.filter((c) => c.t < seg).forEach((c) => out.push({t: acc + c.t, name: c.name, vol: c.vol}));
     list.slice(1, n).forEach((ill, k) => {
       const b0 = (k + 1) * seg;
-      const cs = [{t: 0, name: 'whoosh', vol: 0.35}].concat(ill.type === 'art' ? artCues(ill) : sceneCues(Object.assign({}, sc, {illus: ill, card: ill.card, badge: ill.badge, section: null}), 1, seg).filter((x) => x.name !== 'whoosh'));
+      const ob = (v) => (v && typeof v === 'object' ? v : null);
+      const cs = [{t: 0, name: 'whoosh', vol: 0.35}].concat(ill.type === 'art' ? artCues(ill) : sceneCues(Object.assign({}, sc, {illus: ill, card: ob(ill.card), badge: ob(ill.badge), section: null}), 1, seg).filter((x) => x.name !== 'whoosh'));
       cs.filter((c) => c.t < seg).forEach((c) => out.push({t: acc + b0 + c.t, name: c.name, vol: c.vol}));
     });
     acc += durs[i];

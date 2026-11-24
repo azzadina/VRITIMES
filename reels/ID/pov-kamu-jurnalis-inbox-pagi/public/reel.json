@@ -1,0 +1,325 @@
+{
+  "by": "u_mwEUyVqfnU6TzZBkzLwkyQ",
+  "caption": "POV: kamu jurnalis dengan dua ratus email baru di pagi hari. 📬\n\nJudulnya menarik atau dilewati?\n69% jurnalis lebih suka pitch di bawah 200 kata.\nAda data, kutipan, dan kontak yang jelas?\nMudah ditulis ulang jadi berita?\nTulis rilis dari sudut pandang pembacanya.\n\nSiap kirim rilis yang layak dibuka? Coba VRITIMES di vritimes.com/id\n\n#VRITIMES #PressRelease #HumasIndonesia #StartupIndonesia\n\nSumber:\n• Muck Rack, State of Journalism 2025 — https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs",
+  "character": "male",
+  "country": "ID",
+  "countryName": "Indonesia",
+  "createdAt": "2026-11-24T06:39:25.539Z",
+  "format": "POV / day in the life: seorang jurnalis ",
+  "lang": "id",
+  "length": 60,
+  "plan_id": "",
+  "rate": "+0%",
+  "scenes": [
+    {
+      "badge": {
+        "color": "lime",
+        "text": "POV!",
+        "type": "pill"
+      },
+      "card": {
+        "tag": "POV",
+        "tagColor": "blue",
+        "text": "Kamu jadi *jurnalis* [sehari]"
+      },
+      "gesture": "point",
+      "illus": {
+        "type": "art",
+        "art": "newsroom",
+        "headline": "Rilis: startup raih pendanaan",
+        "count": "214 baru",
+        "screen": "INBOX"
+      },
+      "keywords": [
+        "POV",
+        "jurnalis"
+      ],
+      "onscreen": "",
+      "vo": "POV: kamu jurnalis, dan ini inbox kamu pagi ini.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "mailpile",
+          "count": "214",
+          "countLabel": "baru",
+          "time": "08.00"
+        }
+      ]
+    },
+    {
+      "gesture": "surprise",
+      "illus": {
+        "count": "214",
+        "countLabel": "baru",
+        "items": [
+          "Diskon besar akhir pekan!",
+          "PRESS RELEASE: Peluncuran aplikasi",
+          "Mohon dimuat segera!!!",
+          "Undangan webinar",
+          "Rilis: Startup raih pendanaan",
+          "Penawaran kerja sama iklan"
+        ],
+        "pick": 5,
+        "title": "Inbox Redaksi",
+        "type": "inbox"
+      },
+      "keywords": [
+        "dua ratus empat belas",
+        "email baru"
+      ],
+      "onscreen": "",
+      "vo": "Jam delapan pagi, dua ratus empat belas email baru sudah menunggu.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "stopwatch",
+          "label": "Buka atau lewati?"
+        }
+      ]
+    },
+    {
+      "gesture": "explain",
+      "illus": {
+        "type": "stat",
+        "big": "69%",
+        "label": "jurnalis lebih suka pitch di bawah 200 kata (Muck Rack, 2025)"
+      },
+      "keywords": [
+        "enam puluh sembilan persen",
+        "singkat"
+      ],
+      "onscreen": "Pitch yang disukai jurnalis",
+      "vo": "Makanya kamu suka pitch yang singkat. Enam puluh sembilan persen jurnalis ingin di bawah dua ratus kata.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "docwrite",
+          "header": "PITCH",
+          "items": [
+            "Di bawah 200 kata",
+            "Berita di kalimat pertama",
+            "Link rilis lengkap"
+          ],
+          "note": "singkat"
+        }
+      ]
+    },
+    {
+      "gesture": "point",
+      "illus": {
+        "left": {
+          "h": "Dilewati",
+          "items": [
+            "Mohon dimuat segera",
+            "Info terbaru kami"
+          ]
+        },
+        "right": {
+          "h": "Dibuka",
+          "items": [
+            "Startup lokal layani 10 ribu UMKM",
+            "Ada angka dan fakta jelas"
+          ]
+        },
+        "type": "compare"
+      },
+      "keywords": [
+        "Judul",
+        "dihapus"
+      ],
+      "onscreen": "",
+      "vo": "Yang kamu lihat pertama? Judul. Kalau tidak menarik, langsung dihapus.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "trashmail",
+          "bad": "Mohon dimuat segera!!!",
+          "good": "Startup lokal layani 10 ribu UMKM"
+        }
+      ]
+    },
+    {
+      "gesture": "explain",
+      "illus": {
+        "about": "Peluncuran layanan baru",
+        "header": "PRESS RELEASE",
+        "number": "JAKARTA, 12/05",
+        "sub": "UNTUK SEGERA DITERBITKAN",
+        "title": "Apa, siapa, kapan, kenapa penting?",
+        "type": "doc"
+      },
+      "keywords": [
+        "satu rilis",
+        "cepat"
+      ],
+      "onscreen": "",
+      "vo": "Lalu kamu buka satu rilis, dan cari jawabannya cepat.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "docwrite",
+          "header": "5W1H",
+          "items": [
+            "Apa yang baru",
+            "Siapa",
+            "Kapan & di mana",
+            "Kenapa penting"
+          ],
+          "note": "cepat"
+        }
+      ]
+    },
+    {
+      "gesture": "smile",
+      "illus": {
+        "items": [
+          "Data yang jelas",
+          "Kutipan yang kuat",
+          "Kontak yang mudah dihubungi",
+          "Foto siap pakai"
+        ],
+        "title": "Rilis yang mudah ditulis ulang",
+        "type": "list"
+      },
+      "keywords": [
+        "data",
+        "kutipan",
+        "kontak"
+      ],
+      "onscreen": "",
+      "vo": "Ada data, kutipan, dan kontak? Wah, ini gampang jadi berita.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "newspaper",
+          "headline": "Startup lokal layani 10 ribu UMKM",
+          "badge": "JADI BERITA"
+        }
+      ]
+    },
+    {
+      "gesture": "shrug",
+      "illus": {
+        "type": "art",
+        "art": "yawn",
+        "words": [
+          "TERBAIK!",
+          "NO. 1!!!",
+          "PROMO!",
+          "DISKON!"
+        ],
+        "label": "Bertele-tele"
+      },
+      "keywords": [
+        "bertele-tele",
+        "promosi"
+      ],
+      "onscreen": "",
+      "shot": "close",
+      "vo": "Sebaliknya, kalau bertele-tele dan penuh promosi, kamu pasti malas lanjut.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "mythbust",
+          "mythTag": "SALAH KAPRAH",
+          "myth": "Makin panjang, makin meyakinkan",
+          "factTag": "FAKTA",
+          "fact": "Singkat, padat, ada data"
+        }
+      ]
+    },
+    {
+      "card": {
+        "tag": "INTINYA",
+        "tagColor": "navy",
+        "text": "Tulis untuk *pembaca* [pertama]: jurnalis"
+      },
+      "gesture": "explain",
+      "illus": {
+        "type": "art",
+        "art": "target",
+        "label": "JURNALIS"
+      },
+      "keywords": [
+        "sudut pandang",
+        "tepat sasaran"
+      ],
+      "onscreen": "",
+      "vo": "Nah, sekarang kamu paham sudut pandang jurnalis. Rilismu bisa lebih tepat sasaran.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "docwrite",
+          "header": "RILISMU",
+          "items": [
+            "Judul berisi berita",
+            "Data & kutipan",
+            "Kontak jelas"
+          ],
+          "note": "tepat!"
+        }
+      ]
+    },
+    {
+      "badge": {
+        "color": "lime",
+        "text": "COBA!",
+        "type": "pill"
+      },
+      "gesture": "point",
+      "illus": {
+        "type": "cta",
+        "url": "vritimes.com/id"
+      },
+      "keywords": [
+        "VRITIMES",
+        "Coba"
+      ],
+      "onscreen": "",
+      "vo": "Siap kirim rilis yang layak dibuka? Coba VRITIMES sekarang!",
+      "beats": [
+        {
+          "type": "art",
+          "art": "rocket"
+        }
+      ]
+    },
+    {
+      "gesture": "smile",
+      "illus": {
+        "tag": "BANTU SEBARKAN",
+        "text": "*Repost* biar temanmu tahu",
+        "type": "repost"
+      },
+      "keywords": [
+        "Kirim",
+        "rilis"
+      ],
+      "onscreen": "",
+      "vo": "Kirim ke temanmu yang sedang menulis rilis.",
+      "beats": [
+        {
+          "type": "art",
+          "art": "share",
+          "label": "Kirim ke temanmu"
+        }
+      ]
+    }
+  ],
+  "set": "studio",
+  "slug": "pov-kamu-jurnalis-inbox-pagi",
+  "sources": [
+    "Muck Rack — State of Journalism 2025 (webinar FAQs) — https://muckrack.com/blog/2025/07/09/state-of-journalism-2025-webinar-faqs"
+  ],
+  "status": "draft",
+  "style": "stage",
+  "title": "POV: Kamu Jurnalis, Ini Cara Rilismu Dibaca",
+  "topic": "POV",
+  "updatedAt": "2026-11-24T06:39:25.539Z",
+  "voice": "id-ID-ArdiNeural",
+  "pron": "VRITIMES = Fritaims\nvritimes.com = Fritaims dot kom\ndashboard = dasbor\nPR = pi ar\nUMKM = u em ka em\nPDF = pe de ef\n5W1H = lima W satu H\nSEO = es i o\nCEO = si i o\nKPI = ka pe i\ndll = dan lain-lain\nyg = yang\n& = dan",
+  "sfx": true,
+  "sfxVolume": 1,
+  "roleTitle": "PR Specialist",
+  "beatSec": 4
+}

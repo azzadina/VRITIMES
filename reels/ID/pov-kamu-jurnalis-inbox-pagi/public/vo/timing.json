@@ -1,0 +1,170 @@
+[
+  {
+    "file": "s01.mp3",
+    "duration": 4.051,
+    "text": "POV: kamu jurnalis, dan ini inbox kamu pagi ini.",
+    "phrases": [
+      {
+        "text": "POV: kamu jurnalis, dan ini inbox kamu pagi ini.",
+        "pitch": "-1Hz",
+        "rate": "+2%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s02.mp3",
+    "duration": 3.978,
+    "text": "Jam delapan pagi, dua ratus empat belas email baru sudah menunggu.",
+    "phrases": [
+      {
+        "text": "Jam delapan pagi, dua ratus empat belas email baru sudah menunggu.",
+        "pitch": "-2Hz",
+        "rate": "+2%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s03.mp3",
+    "duration": 5.846,
+    "text": "Makanya kamu suka pitch yang singkat. Enam puluh sembilan persen jurnalis ingin di bawah dua ratus kata.",
+    "phrases": [
+      {
+        "text": "Makanya kamu suka pitch yang singkat.",
+        "pitch": "+2Hz",
+        "rate": "+2%",
+        "volume": "+0%",
+        "pause": 0.24
+      },
+      {
+        "text": "Enam puluh sembilan persen jurnalis ingin di bawah dua ratus kata.",
+        "pitch": "-2Hz",
+        "rate": "+4%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s04.mp3",
+    "duration": 6.093,
+    "text": "Yang kamu lihat pertama? Judul. Kalau tidak menarik, langsung dihapus.",
+    "phrases": [
+      {
+        "text": "Yang kamu lihat pertama? Judul.",
+        "pitch": "+4Hz",
+        "rate": "+4%",
+        "volume": "+5%",
+        "pause": 0.32
+      },
+      {
+        "text": "Kalau tidak menarik, langsung dihapus.",
+        "pitch": "-2Hz",
+        "rate": "+4%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s05.mp3",
+    "duration": 3.401,
+    "text": "Lalu kamu buka satu rilis, dan cari jawabannya cepat.",
+    "phrases": [
+      {
+        "text": "Lalu kamu buka satu rilis, dan cari jawabannya cepat.",
+        "pitch": "-2Hz",
+        "rate": "+2%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s06.mp3",
+    "duration": 5.903,
+    "text": "Ada data, kutipan, dan kontak? Wah, ini gampang jadi berita.",
+    "phrases": [
+      {
+        "text": "Ada data, kutipan, dan kontak?",
+        "pitch": "+4Hz",
+        "rate": "+4%",
+        "volume": "+5%",
+        "pause": 0.32
+      },
+      {
+        "text": "Wah, ini gampang jadi berita.",
+        "pitch": "-2Hz",
+        "rate": "+4%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s07.mp3",
+    "duration": 4.811,
+    "text": "Sebaliknya, kalau bertele-tele dan penuh promosi, kamu pasti malas lanjut.",
+    "phrases": [
+      {
+        "text": "Sebaliknya, kalau bertele-tele dan penuh promosi, kamu pasti malas lanjut.",
+        "pitch": "-2Hz",
+        "rate": "+2%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s08.mp3",
+    "duration": 5.612,
+    "text": "Nah, sekarang kamu paham sudut pandang jurnalis. Rilismu bisa lebih tepat sasaran.",
+    "phrases": [
+      {
+        "text": "Nah, sekarang kamu paham sudut pandang jurnalis.",
+        "pitch": "+2Hz",
+        "rate": "+2%",
+        "volume": "+0%",
+        "pause": 0.24
+      },
+      {
+        "text": "Rilismu bisa lebih tepat sasaran.",
+        "pitch": "-2Hz",
+        "rate": "+4%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s09.mp3",
+    "duration": 4.16,
+    "text": "Siap kirim rilis yang layak dibuka? Coba Fritaims sekarang!",
+    "phrases": [
+      {
+        "text": "Siap kirim rilis yang layak dibuka? Coba Fritaims sekarang!",
+        "pitch": "+3Hz",
+        "rate": "+4%",
+        "volume": "+8%",
+        "pause": 0.0
+      }
+    ]
+  },
+  {
+    "file": "s10.mp3",
+    "duration": 2.52,
+    "text": "Kirim ke temanmu yang sedang menulis rilis.",
+    "phrases": [
+      {
+        "text": "Kirim ke temanmu yang sedang menulis rilis.",
+        "pitch": "-2Hz",
+        "rate": "+2%",
+        "volume": "-3%",
+        "pause": 0.0
+      }
+    ]
+  }
+]
